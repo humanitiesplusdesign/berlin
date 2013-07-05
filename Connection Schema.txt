@@ -1,0 +1,29 @@
+Schema Name: Connection Event Schema
+Short name: Connections
+Creation Date: 5 July 2013
+Sources: None
+Description: Schema to formalize types of connection events between people/institutions. May be extended. 
+Vocabulary: 
+Meeting: generic encounter
+Romantic: unformalized (i.e., not engaged or married) romantic entanglements
+	Romantic_Affair: a romantic entanglement where at least one party is already 	in a relationship.
+	Romantic_Affair_Secret: a romantic entanglement where at least one party is 	already in a relationship and the affair is secret.
+Engagement: when two parties are engaged
+Married: when two parties are legally married
+Divorce: when two formerly married parties are legally divorced
+Separation: when a married/engaged couple separates without (or before) a divorce
+Attendance: going to a concert, lecture, event, etc. Specify directionality.
+Teaching: when one party instructs another. Specify directionality.
+	Teaching_Tutoring: when one party is the tutor of another at Oxford.
+	Teaching_Lecturing: when one party delivers a lecture. Those hearing the 	lecture have an "attendance" connection with the lecturer.
+Affiliation: professional engagement with an institution (for some duration).
+	Affiliation_Formal: when the individual is formally a member or associate of a group/institution.
+	Affiliation_Informal: when the individual participates in the meetings/discussions of an informal intellectual circle.
+Professional: an individual's interactions with another individual or institution in their professional capacity/doing professional service (e.g. sitting in an oral examination or editing a colleague's manuscript)
+	Professional_Advising: providing advice/judgment/feedback in one's professional capacity
+	Professional_Service: actions performed in service of one's professional institution
+Article: any written/spoken piece in any press 
+Gift/Honor: when a party is given/awarded a present or honor by another. Specify directionality.
+Bureaucratic: interactions with a bureaucratic body over bureaucratic matters (e.g. getting a new passport at the British Consulate or getting a new phone from the Oxford registrar)
+
+Authors: Arie Dubnov, Layne Novak, Daniella Kim
