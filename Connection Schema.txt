@@ -21,7 +21,7 @@ Affiliation: professional engagement with an institution (for some duration).
 	Affiliation_Informal: when the individual participates in the meetings/discussions of an informal intellectual circle.
 Professional: an individual's interactions with another individual or institution in their professional capacity/doing professional service (e.g. sitting in an oral examination or editing a colleague's manuscript)
 	Professional_Advising: providing advice/judgment/feedback in one's professional capacity
-	Professional_Service: actions performed in service of one's professional institution
+	Professional_Service: actions performed in service of one's professional institution or a request to perform actions in the service of a professional institution
 Article: any written/spoken piece in any press 
 Gift/Honor: when a party is given/awarded a present or honor by another. Specify directionality.
 Bureaucratic: interactions with a bureaucratic body over bureaucratic matters (e.g. getting a new passport at the British Consulate or getting a new phone from the Oxford registrar)
