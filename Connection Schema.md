@@ -1,7 +1,7 @@
-Schema Name: Connection Event Schema  
-Short name: Connections  
-Creation Date: 5 July 2013  
-Sources: None  
+**Schema Name:** Connection Event Schema  
+**Short name:** Connections  
+**Creation Date:** 5 July 2013  
+**Sources:** None  
 **Description:** Schema to formalize types of connection events between people/institutions. May be extended.
    
 ========
