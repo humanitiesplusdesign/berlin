@@ -27,6 +27,7 @@
 16. Article: any written/spoken piece in any press.  Specify directionality.
 17. Article_Review: a review written by or about Berlin. The Entity2 field should always contain at least two values: the subject of the review and the publishing organ
 18. Article_Interview: an interview (singular or group) or a panel discussion/symposium. If interview was published, Entity2 field should contain both interviewer and publishing organ. Else, the Entity2 field is either the interviewer or the institution which held the panel/symposium. 
+19. Article_Unpublished: a piece written but not published (primarily those listed in IBVL)
 19. Gift/Honor: when a party is given/awarded a present or honor by another.
 20. Bureaucratic: interactions with a bureaucratic body over bureaucratic matters (e.g. getting a new passport at the British Consulate or getting a new phone from the Oxford registrar)
 
