@@ -1,0 +1,1003 @@
+O1	Archive	Entity1	Entity2	StartDate	StartDate 1	StartDate 2	StartDate 3	DateFormatted	EndDate	EndDate 1	EndDate 2	EndDate 3	EndDateFormatted	PlaceRaw	City	Country	GeonamesID	EventDescription	EventNotes	RA Initials
+O10	L2	Isaiah Berlin	Diana Cooper	(early August) 1946	00	08	1946	1946-08-00	(early August) 1946	00	08	1946	1946-08-00	Paris	Paris	France		Meeting	at the Embassy	LAN
+O100	L2	Isaiah Berlin	Francis Evans	13 July 1949	13	07	1949	1949-07-13	14 July 1949	14	07	1949	1949-07-14	New York	New York City	United States		Bureaucratic	British Consulate, NY	LAN
+O1000	L3	Isaiah Berlin	H. L. A. Hart	July 1968	00	07	1968	1968-07-00	July 1968	00	07	1968	1968-07-00	London	London	England		Meeting	at British Academy vote	LAN
+O1001	L3	Isaiah Berlin	Maurice Bowra	August 1968	00	08	1968	1968-08-00	August 1968	00	08	1968	1968-08-00	Paraggi	Paraggi	Italy		Meeting		LAN
+O1002	L3	Isaiah Berlin	Wolfson College	November 1968	00	11	1968	1968-11-00	November 1968	00	11	1968	1968-11-00					Professional_Service	request for additional 106,000 pounds to cover rising building expenses	LAN
+O1003	L3	Isaiah Berlin	Arthur Schlesinger	12 April 1965	12	04	1965	1965-04-12	12 April 1965	12	04	1965	1965-04-12	Washington, DC	Washington, DC	United States		Article_Interview	Schlesinger interviewed IB for JFK Library Oral History Project	LAN
+O101	L2	Isaiah Berlin	Randle Reid-Adam	13 July 1949	13	07	1949	1949-07-13	14 July 1949	14	07	1949	1949-07-14	New York	New York City	United States		Bureaucratic	British Consulate, NY	LAN
+O102	L2	Isaiah Berlin	Abba Hillel Silver	July 1949	00	07	1949	1949-07-00	July 1949	00	07	1949	1949-07-00	RMS Queen Elizabeth				Meeting		LAN
+O103	L2	Isaiah Berlin	Johannes Steel	July 1949	00	07	1949	1949-07-00	July 1949	00	07	1949	1949-07-00	RMS Queen Elizabeth				Meeting		LAN
+O104	L2	Isaiah Berlin	Jacob Malik	July 1949	00	07	1949	1949-07-00	July 1949	00	07	1949	1949-07-00	RMS Queen Elizabeth				Meeting		LAN
+O105	L2	Isaiah Berlin	Paul Rosenstein-Rodan	July 1949	00	07	1949	1949-07-00	July 1949	00	07	1949	1949-07-00	RMS Queen Elizabeth				Meeting		LAN
+O106	L2	Isaiah Berlin	Greta Garbo	July 1949	00	07	1949	1949-07-00	July 1949	00	07	1949	1949-07-00	RMS Queen Elizabeth				Meeting		LAN
+O107	L2	Isaiah Berlin	George Schlee	July 1949	00	07	1949	1949-07-00	July 1949	00	07	1949	1949-07-00	RMS Queen Elizabeth				Meeting		LAN
+O108	L2	Isaiah Berlin	John Ringling North	July 1949	00	07	1949	1949-07-00	July 1949	00	07	1949	1949-07-00	RMS Queen Elizabeth				Meeting		LAN
+O109	L2	Isaiah Berlin	Chaim Weizmann::Vera Weizman	early August 1949	00	08	1949	1949-08-00	early August 1949	00	08	1949	1949-08-00	Buergenstorck	Lake Lucerne	Switzerland		Meeting		LAN
+O11	L2	Isaiah Berlin	Alexander Loudon	(early August) 1946	00	08	1946	1946-08-00	(early August) 1946	00	08	1946	1946-08-00	Paris	Paris	France		Meeting		LAN
+O110	L2	Isaiah Berlin	Festival d'Aix	early August 1949	00	08	1949	1949-08-00	early August 1949	00	08	1949	1949-08-00	Aix en Provence	Aix-en-Provence	France		Attendance		LAN
+O111	L2	Isaiah Berlin	Alix de Rothschild	early August 1949	00	08	1949	1949-08-00	early August 1949	00	08	1949	1949-08-00	Aix en Provence	Aix-en-Provence	France		Meeting		LAN
+O112	L2	Isaiah Berlin	Susan Mary Patten::William Patten, Jr.	early August 1949	00	08	1949	1949-08-00	early August 1949	00	08	1949	1949-08-00	Aix en Provence	Aix-en-Provence	France		Meeting		LAN
+O113	L2	Isaiah Berlin	Lili Pastre	early August 1949	00	08	1949	1949-08-00	early August 1949	00	08	1949	1949-08-00	Aix en Provence	Aix-en-Provence	France		Meeting		LAN
+O114	L2	Isaiah Berlin	Chips Channon	early August 1949	00	08	1949	1949-08-00	early August 1949	00	08	1949	1949-08-00	Aix en Provence	Aix-en-Provence	France		Meeting		LAN
+O115	L2	Isaiah Berlin	Israeli Delegation, Lausanne Conference	early August 1949	00	08	1949	1949-08-00	early August 1949	00	08	1949	1949-08-00	Lausanne	Lausanne	Switzerland		Meeting		LAN
+O116	L2	Isaiah Berlin	Edwin Fischer	early August 1949	00	08	1949	1949-08-00	early August 1949	00	08	1949	1949-08-00	Buergenstorck	Lake Lucerne	Switzerland		Attendance	IB heard his Beethoven's 3rd Concerto	LAN
+O117	L2	Isaiah Berlin	Paul Porter	early August 1949	00	08	1949	1949-08-00	early August 1949	00	08	1949	1949-08-00	Lausanne	Lausanne	Switzerland		Meeting		LAN
+O118	L2	Isaiah Berlin	Observer	August 1949	00	08	1949	1949-08-00	August 1949	00	08	1949	1949-08-00					Article	Observer commissioned, did not publish	LAN
+O119	L2	Isaiah Berlin	BBC	21 September 1949	21	09	1949	1949-09-21	21 September 1949	21	09	1949	1949-09-21					Article	broadcast the unpublished Observer article on Anglo-American relations	LAN
+O12	L2	Isaiah Berlin	Donald Hall	(early August) 1946	00	08	1946	1946-08-00	(early August) 1946	00	08	1946	1946-08-00	Paris	Paris	France		Meeting		LAN
+O120	L2	Isaiah Berlin	BBC	September 1949	00	09	1949	1949-09-00	September 1949	00	09	1949	1949-09-00					Article	broadcast on Don Giovanni	LAN
+O121	L2	Isaiah Berlin	Sylvester Gates	September 1949	00	09	1949	1949-09-00	September 1949	00	09	1949	1949-09-00	49 Hollycroft Ave	London	England		Meeting		LAN
+O122	L2	Isaiah Berlin	Evening Standard	5 October 1949	05	10	1949	1949-10-05	5 October 1949	05	10	1949	1949-10-05					Article	on IB's views on Anglo-American relations	LAN
+O123	L2	Isaiah Berlin	The Listener	29 September 1949	29	09	1949	1949-09-29	29 September 1949	29	09	1949	1949-09-29					Article	IB's views on Anglo-American relations 	LAN
+O124	L2	Isaiah Berlin	The Listener	20 October 1949	20	10	1949	1949-10-20	20 October 1949	20	10	1949	1949-10-20					Article	on critique of 29 Sept article	LAN
+O125	L2	Isaiah Berlin	Time and Tide	November 1949	00	11	1949	1949-11-00	November 1949	00	11	1949	1949-11-00					Article	on American and British students	LAN
+O126	L2	Isaiah Berlin	Arthur Schlesinger	October 1949	00	10	1949	1949-10-00	October 1949	00	10	1949	1949-10-00					Gift/Honor	Schlesinger's book, The Vital Center: The Politics of Freedon	LAN
+O127	L2	Isaiah Berlin	The Listener	10 November 1949	10	11	1949	1949-11-10	10 November 1949	10	11	1949	1949-11-10					Article	still on 29 Sept article	LAN
+O128	L2	Isaiah Berlin	George Lascelles	late November 1949	00	11	1949	1949-11-00	late November 1949	00	11	1949	1949-11-00	Oxford University Opera Club	Oxford	England		Meeting	Iphigenia in Tauris	LAN
+O129	L2	Isaiah Berlin	Time Magazine	early December 1949	00	12	1949	1949-12-00	early December 1949	00	12	1949	1949-12-00					Article	summary of Time and Tide article	LAN
+O13	L2	Isaiah Berlin	Elliot Felkin	(mid August) 1946	00	08	1946	1946-08-00	(mid August) 1946	00	08	1946	1946-08-00	Geneva	Geneva	Switzerland		Meeting		LAN
+O130	L2	Isaiah Berlin	Oliver Lyttelton	December 1949	00	12	1949	1949-12-00	December 1949	00	12	1949	1949-12-00	London	London	England		Meeting	dinner party at Oliver Lyttelton's	LAN
+O131	L2	Isaiah Berlin	Winston Churchill	December 1949	00	12	1949	1949-12-00	December 1949	00	12	1949	1949-12-00	London	London	England		Meeting	dinner party at Oliver Lyttelton's	LAN
+O132	L2	Isaiah Berlin	Moira Lyttelton	December 1949	00	12	1949	1949-12-00	December 1949	00	12	1949	1949-12-00	London	London	England		Meeting	dinner party at Oliver Lyttelton's	LAN
+O133	L2	Isaiah Berlin	Elizabeth Gascoyne-Cecil	December 1949	00	12	1949	1949-12-00	December 1949	00	12	1949	1949-12-00	London	London	England		Meeting	dinner party at Oliver Lyttelton's	LAN
+O134	L2	Isaiah Berlin	Beatrice Herbert	December 1949	00	12	1949	1949-12-00	December 1949	00	12	1949	1949-12-00	London	London	England		Meeting	dinner party at Oliver Lyttelton's	LAN
+O135	L2	Isaiah Berlin	Andrew Scott	December 1949	00	12	1949	1949-12-00	December 1949	00	12	1949	1949-12-00	London	London	England		Meeting	dinner party at Oliver Lyttelton's	LAN
+O136	L2	Isaiah Berlin	Victoria Scott	December 1949	00	12	1949	1949-12-00	December 1949	00	12	1949	1949-12-00	London	London	England		Meeting	dinner party at Oliver Lyttelton's	LAN
+O137	L2	Isaiah Berlin	Robert Gascoyne-Cecil	December 1949	00	12	1949	1949-12-00	December 1949	00	12	1949	1949-12-00	London	London	England		Meeting	dinner party at Oliver Lyttelton's	LAN
+O138	L2	Isaiah Berlin	Chip Bohlen	December 1949	00	12	1949	1949-12-00	December 1949	00	12	1949	1949-12-00					Meeting		LAN
+O139	L2	Isaiah Berlin	Foreign Affairs	April 1950	00	04	1950	1950-04-00	April 1950	00	04	1950	1950-04-00					Article	"IB's ""Political Ideas in the Twentieth Century"""	LAN
+O14	L2	Isaiah Berlin	Nathaniel Mayer Victor Rothschild	(mid August) 1946	00	08	1946	1946-08-00	(mid August) 1946	00	08	1946	1946-08-00	Geneva	Geneva	Switzerland		Meeting	Rothschilds' honeymoon	LAN
+O140	L2	Isaiah Berlin	Frank Pakenham	late December 1949	00	12	1949	1949-12-00	late December 1949	00	12	1949	1949-12-00					Meeting	Christmas party at Frank Pakenham's	LAN
+O141	L2	Isaiah Berlin	Martin D'Arcy	late December 1949	00	12	1949	1949-12-00	late December 1949	00	12	1949	1949-12-00					Meeting	Christmas party at Frank Pakenham's	LAN
+O142	L2	Isaiah Berlin	Victor Gollancz	late December 1949	00	12	1949	1949-12-00	late December 1949	00	12	1949	1949-12-00					Meeting	Christmas party at Frank Pakenham's	LAN
+O143	L2	Isaiah Berlin	Violet Bonham Carter	late December 1949	00	12	1949	1949-12-00	late December 1949	00	12	1949	1949-12-00					Meeting	Christmas party at Frank Pakenham's	LAN
+O144	L2	Isaiah Berlin	Kay Graham	late December 1949 - early January 1950	00	12	1949	1949-12-00	late December 1949 - early January 1950	00	01	1950	1950-01-00					Gift/Honor		LAN
+O145	L2	Isaiah Berlin	Thomas Beecham	1 March 1950	01	03	1950	1950-03-01	1 March 1950	01	03	1950	1950-03-01					Attendance	conducted Royal Philharmonic Orchestra, Mozart's Prague Symphony and Haffner Serenade	LAN
+O146	L2	Isaiah Berlin	Sibyl Colefax	February 1950	00	02	1950	1950-02-00	February 1950	00	02	1950	1950-02-00	Westminster	London	England		Meeting		LAN
+O147	L2	Isaiah Berlin	Chip Bohlen	Mid-March 1950	00	03	1950	1950-03-00	Mid-March 1950	00	03	1950	1950-03-00	Paris	Paris	France		Meeting		LAN
+O148	L2	Isaiah Berlin	Guy de Rothschild	Mid-March 1950	00	03	1950	1950-03-00	Mid-March 1950	00	03	1950	1950-03-00	Paris	Paris	France		Meeting		LAN
+O149	L2	Isaiah Berlin	William Hayter::Iris Hayter	Mid-March 1950	00	03	1950	1950-03-00	Mid-March 1950	00	03	1950	1950-03-00	Paris	Paris	France		Meeting		LAN
+O15	L2	Isaiah Berlin	Patricia de Bendern	(mid August) 1946	00	08	1946	1946-08-00	(mid August) 1946	00	08	1946	1946-08-00	Paris	Paris	France		Meeting		LAN
+O150	L2	Isaiah Berlin	Sylvester Gates	Mid-March 1950	00	03	1950	1950-03-00	Mid-March 1950	00	03	1950	1950-03-00	Paris	Paris	France		Meeting		LAN
+O151	L2	Isaiah Berlin	Victor de Guinzbourg	Mid-March 1950	00	03	1950	1950-03-00	Mid-March 1950	00	03	1950	1950-03-00	Paris	Paris	France		Meeting		LAN
+O152	L2	Isaiah Berlin	Samuel Hood	Mid-March 1950	00	03	1950	1950-03-00	Mid-March 1950	00	03	1950	1950-03-00	Paris	Paris	France		Meeting		LAN
+O153	L2	Isaiah Berlin	Boris Livshitz	Mid-March 1950	00	03	1950	1950-03-00	Mid-March 1950	00	03	1950	1950-03-00	Paris	Paris	France		Meeting		LAN
+O154	L2	Isaiah Berlin	Germaine de Rothschild	Mid-March 1950	00	03	1950	1950-03-00	Mid-March 1950	00	03	1950	1950-03-00	Paris	Paris	France		Meeting		LAN
+O155	L2	Isaiah Berlin	Oliver Harvey::Maud Harvey	Mid-March 1950	00	03	1950	1950-03-00	Mid-March 1950	00	03	1950	1950-03-00	Paris	Paris	France		Meeting		LAN
+O156	L2	Isaiah Berlin	David Arnon	Early April 1950	00	04	1950	1950-04-00	Early April 1950	00	04	1950	1950-04-00	Haifa	Haifa	Israel		Meeting		LAN
+O157	L2	Isaiah Berlin	Nebi Samuel:: Hadassah Samuel	Early April 1950	00	04	1950	1950-04-00	Early April 1950	00	04	1950	1950-04-00	Rehovot or Tel Aviv		Israel		Meeting		LAN
+O158	L2	Isaiah Berlin	Chaim Weizmann::Vera Weizman	Early April 1950	00	04	1950	1950-04-00	Early April 1950	00	04	1950	1950-04-00	Rehovot	Rehovot	Israel		Meeting		LAN
+O159	L2	Isaiah Berlin	Max Cohn	Early April 1950	00	04	1950	1950-04-00	Early April 1950	00	04	1950	1950-04-00	Rehovot or Tel Aviv		Israel		Meeting		LAN
+O16	L2	Isaiah Berlin	Nicolas Nabokov	(mid August) 1946	00	08	1946	1946-08-00	(mid August) 1946	00	08	1946	1946-08-00	Paris	Paris	France		Meeting		LAN
+O160	L2	Isaiah Berlin	Walter Eytan	Early April 1950	00	04	1950	1950-04-00	Early April 1950	00	04	1950	1950-04-00	Rehovot or Tel Aviv		Israel		Meeting		LAN
+O161	L2	Isaiah Berlin	David Ben-Gurion	Early April 1950	00	04	1950	1950-04-00	Early April 1950	00	04	1950	1950-04-00	Rehovot or Tel Aviv		Israel		Meeting		LAN
+O162	L2	Isaiah Berlin	Meyer Weisgal	Early April 1950	00	04	1950	1950-04-00	Early April 1950	00	04	1950	1950-04-00	Rehovot or Tel Aviv		Israel		Meeting		LAN
+O163	L2	Isaiah Berlin	Akiva Persitz	Early April 1950	00	04	1950	1950-04-00	Early April 1950	00	04	1950	1950-04-00	Tel Aviv	Tel Aviv	Israel		Meeting		LAN
+O164	L2	Isaiah Berlin	Avis Bohlen	April 1950	00	04	1950	1950-04-00	April 1950	00	04	1950	1950-04-00	Paris	Paris	France		Meeting		LAN
+O165	L2	Isaiah Berlin	Abraham Bienstock	April 1950	00	04	1950	1950-04-00	April 1950	00	04	1950	1950-04-00	Paris	Paris	France		Meeting		LAN
+O166	L2	Isaiah Berlin	Sigmund Gestetner::Helen Gestetner	May 1950	00	05	1950	1950-05-00	May 1950	00	05	1950	1950-05-00	Oxford	Oxford	England		Meeting		LAN
+O167	L2	Isaiah Berlin	All Souls College	1 July 1950	01	07	1950	1950-07-01	1960	00	00	1960	1960-00-00	Oxford	Oxford	England		Affiliation_Formal	IB awarded Robertson Research Fellowship (5 years, renewed 1955)	LAN
+O168	L2	Isaiah Berlin	Bryn Mawr	13 June 1950	13	06	1950	1950-06-13	13 June 1950	13	06	1950	1950-06-13					Professional_Service	arranged for IB to give Mary Flexner lectures in fall of 1952	LAN
+O169	L2	Isaiah Berlin	Jenifer Hart	June 1950	00	06	1950	1950-06-00	(at least April 1952)	00	04	1952	1952-04-00	Oxford	Oxford	England		Romantic_Affair_Secret		LAN
+O17	L2	Isaiah Berlin	Christian Berard	(mid August) 1946	00	08	1946	1946-08-00	(mid August) 1946	00	08	1946	1946-08-00	Paris	Paris	France		Meeting		LAN
+O170	L2	Isaiah Berlin	Chaim Weizmann	20 August 1950	20	08	1950	1950-08-20	27 August 1950	27	08	1950	1950-08-27	Berne	Berne	Switzerland		Meeting		LAN
+O171	L2	Isaiah Berlin	Maurice Bowra	September 1950	00	09	1950	1950-09-00	September 1950	00	09	1950	1950-09-00	Castello della Brunella, Aulla, Italy	Aulla	Italy		Meeting		LAN
+O172	L2	Isaiah Berlin	Marcus Dick	September 1950	00	09	1950	1950-09-00	September 1950	00	09	1950	1950-09-00	Castello della Brunella, Aulla, Italy	Aulla	Italy		Meeting		LAN
+O173	L2	Isaiah Berlin	James Joll	September 1950	00	09	1950	1950-09-00	September 1950	00	09	1950	1950-09-00	Castello della Brunella, Aulla, Italy	Aulla	Italy		Meeting		LAN
+O174	L2	Isaiah Berlin	David Pears	September 1950	00	09	1950	1950-09-00	September 1950	00	09	1950	1950-09-00	Castello della Brunella, Aulla, Italy	Aulla	Italy		Meeting		LAN
+O175	L2	Isaiah Berlin	All Souls College	29 September 1950	29	09	1950	1950-09-29	29 September 1950	29	09	1950	1950-09-29	Oxford	Oxford	England		Professional_Service	Examiners' meeting	LAN
+O176	L2	Isaiah Berlin	Siena Musical Week	20 September 1950	20	09	1950	1950-09-20	22 September 1950	22	09	1950	1950-09-22	Siena	Siena	Italy		Attendance		LAN
+O177	L2	Isaiah Berlin	Bernard Berenson	22 September 1950	22	09	1950	1950-09-22	22 September 1950	22	09	1950	1950-09-22	Vallombrosa	Vallombrosa	Italy		Meeting		LAN
+O178	L2	Isaiah Berlin	the Hoffmannsthals	September 1950	00	09	1950	1950-09-00	September 1950	00	09	1950	1950-09-00	Santa Margherita	Santa Margherita	Italy		Meeting	(he stayed with them, but does not specify *which* Hoffmannsthals)	LAN
+O179	L2	Isaiah Berlin	John Simon	September 1950	00	09	1950	1950-09-00	September 1950	00	09	1950	1950-09-00	Oxford	Oxford	England		Professional_Service	"they were ""engaged…in a major row"" over the candidates for All Souls."	LAN
+O18	L2	Isaiah Berlin	Louise Leveque de Vilmorin	(mid August) 1946	00	08	1946	1946-08-00	(mid August) 1946	00	08	1946	1946-08-00	Paris	Paris	France		Meeting		LAN
+O180	L2	Isaiah Berlin	Burton Dreben	November 1950	00	11	1950	1950-11-00	November 1950	00	11	1950	1950-11-00	Oxford	Oxford	England		Meeting		LAN
+O181	L2	Isaiah Berlin	BBC	22 November 1950	22	11	1950	1950-11-22	22 November 1950	22	11	1950	1950-11-22					Article	request to do a broadcast on Wagner 	LAN
+O182	L2	Isaiah Berlin	David Ben-Gurion	5 - 8 December 1950	05	12	1950	1950-12-05	5 - 8 December 1950	08	12	1950	1950-12-08					Meeting	"""secret."" No  politics discussed. "	LAN
+O183	L2	Isaiah Berlin	Rowland Burdon-Muller	18 January 1951	18	01	1951	1951-01-18	18 January 1951	18	01	1951	1951-01-18					Gift/Honor		LAN
+O184	L2	Isaiah Berlin	Encyclopedia Britannica	January 1951	00	01	1951	1951-01-00	00	00	00	0000	0000-00-00					Article	"""Nineteen Fifty: A Survey of Politico-Cultural Trends of the Year"" in 1951 Britannica Book of the Year"	LAN
+O185	L2	Isaiah Berlin	The Times::E. H. Carr	10 December 1950	10	12	1950	1950-12-10	10 December 1950	10	12	1950	1950-12-10					Article_Review	Sunday Times review of Carr's book, A History of Soviet Russia, vol. 1	LAN
+O186	L2	Isaiah Berlin	The Times Literary Supplement	9 June 1950	09	06	1950	1950-06-09	9 June 1950	09	06	1950	1950-06-09					Article_Review	"unsigned (IB attributes to E.H. Carr) article ""The New Scepticism"""	LAN
+O187	L2	Isaiah Berlin	Israeli Ministry of Foreign Affairs	March-April 1951	00	03	1951	1951-04-00	March-April 1951	00	04	1951	1951-04-00	Netanya	Netanya	Israel		Teaching_Lecture	IB lectured to diplomats in training	LAN
+O188	L2	Isaiah Berlin	Simon Marks	late April 1951	00	04	1951	1951-04-00	late April 1951	00	04	1951	1951-04-00	Titlarks	Sunningdale	England		Meeting		LAN
+O189	L2	Isaiah Berlin	James Conant::Grace Conant	25 April 1951	25	04	1951	1951-04-25	25 April 1951	25	04	1951	1951-04-25	Oxford	Oxford	England		Meeting		LAN
+O19	L2	Isaiah Berlin	All Souls College	(early November?) 1946	00	11	1946	1946-11-00	(early November?) 1946	00	11	1946	1946-11-00	Oxford	Oxford	England		Professional_Service	Annual examination (he passed in 1932)	LAN
+O190	L2	Isaiah Berlin	Princeton Institute	6 May 1951	06	05	1951	1951-05-06	6 May 1951	06	05	1951	1951-05-06					Professional_Service	attempting to arrange IB's visit for 1952	LAN
+O191	L2	Isaiah Berlin	Morton White	May 1951	00	05	1951	1951-05-00	May 1951	00	05	1951	1951-05-00	Oxford	Oxford	England		Meeting		LAN
+O192	L2	Isaiah Berlin	All Souls College	19 May 1951	19	05	1951	1951-05-19	10 June 1951	10	06	1951	1951-06-10	Oxford	Oxford	England		Professional_Service	elections for warden. IB withdrew 10 June. Hubert Henderson elected.	LAN
+O193	L2	Isaiah Berlin	Anglo-American Conference of Historians	12 July 1951	12	07	1951	1951-07-12	12 July 1951	12	07	1951	1951-07-12	London	London	England		Teaching_Lecture	IB read (too long) paper	LAN
+O194	L2	Isaiah Berlin	Foreign Affairs	August 1950	00	08	1950	1950-08-00	August 1950	00	08	1950	1950-08-00					Article	"IB's ""Generalissimo Stalin and the Art of Government"""	LAN
+O195	L2	Isaiah Berlin	George Fischer	7 September 1951	07	09	1951	1951-09-07	7 September 1951	07	09	1951	1951-09-07	New York	New York City	United States		Meeting		LAN
+O196	L2	Isaiah Berlin	Josef Cohn	7 September 1951	07	09	1951	1951-09-07	7 September 1951	07	09	1951	1951-09-07	New York	New York City	United States		Meeting		LAN
+O197	L2	Isaiah Berlin	Edmund Wilson	19 September 1951	19	09	1951	1951-09-19	19 September 1951	19	09	1951	1951-09-19	Harvard	Cambridge	United States		Meeting		LAN
+O198	L2	Isaiah Berlin	Harvard	18 September 1951	18	09	1951	1951-09-18	1 April 1951	01	04	1951	1951-04-01	Harvard	Cambridge	United States		Affiliation_Formal	Visiting Professor	LAN
+O199	L2	Isaiah Berlin	Marcus Dick	mid September 1951	00	09	1951	1951-09-00	mid September 1951	00	09	1951	1951-09-00	Harvard	Cambridge	United States		Meeting		LAN
+O2	L2	Isaiah Berlin	Edmund Wilson	2 - 7 April 1946	02	04	1946	1946-04-02	2 - 7 April 1946	07	04	1946	1946-04-07	New York	New York City	United States		Meeting		LAN
+O20	L2	Isaiah Berlin	Nicholas Mosley	(early November?) 1946	00	11	1946	1946-11-00	(early November?) 1946	00	11	1946	1946-11-00	Oxford	Oxford	England		Professional_Advising	"aunt requested IB ""look after"" him"	LAN
+O200	L2	Isaiah Berlin	Felix Frankfurter::Marion Frankfurter	mid September 1951	00	09	1951	1951-09-00	mid September 1951	00	09	1951	1951-09-00	Harvard	Cambridge	United States		Meeting		LAN
+O201	L2	Isaiah Berlin	Jewish Chronicle	21 September 1951	21	09	1951	1951-09-21	12 October 1951	12	10	1951	1951-10-12					Article	"essay in 4 parts, ""Jewish Slavery and Emancipation"""	LAN
+O202	L2	Isaiah Berlin	BBC	11 December 1951	11	12	1951	1951-12-11	11 December 1951	11	12	1951	1951-12-11					Article	BBC wanted to broadcast repeats of the Mary Flexner lectures at Bryn Mawr upon IB's return	LAN
+O203	L2	Isaiah Berlin	Sam Behrman	late December 1951	00	12	1951	1951-12-00	late December 1951	00	12	1951	1951-12-00	New York	New York City	United States		Meeting		LAN
+O204	L2	Isaiah Berlin	APA	27 December 1951	27	12	1951	1951-12-27	29 December 1951	29	12	1951	1951-12-29	Bryn Mawr	Bryn Mawr	United States		Teaching_Lecture	"gave lecture(""Synthetic A Priori Propositions"") at APA symposium"	LAN
+O205	L2	Isaiah Berlin	Teddy Kollek	late December 1951	00	12	1951	1951-12-00	late December 1951	00	12	1951	1951-12-00	Washington, DC	Washington, DC	United States		Meeting		LAN
+O206	L2	Isaiah Berlin	Tosco Fyvel	late December 1951	00	12	1951	1951-12-00	late December 1951	00	12	1951	1951-12-00	Washington, DC	Washington, DC	United States		Meeting		LAN
+O207	L2	Isaiah Berlin	Chip Bohlen::Avis Bohlen	late December 1951	00	12	1951	1951-12-00	late December 1951	00	12	1951	1951-12-00	Washington, DC	Washington, DC	United States		Meeting		LAN
+O208	L2	Isaiah Berlin	Aubrey Morgan::Constance Morgan	late December 1951	00	12	1951	1951-12-00	late December 1951	00	12	1951	1951-12-00	Washington, DC	Washington, DC	United States		Meeting		LAN
+O209	L2	Isaiah Berlin	Chistopher Isherwood	September 1951 - December 1951	00	09	1951	1951-09-00	September 1951 - December 1951	00	12	1951	1951-12-00					Meeting		LAN
+O21	L2	Isaiah Berlin	Harvard	1 March 1947	01	03	1947	1947-03-01	1 March 1947	01	03	1947	1947-03-01					Professional_Service	invitation to lecture	LAN
+O210	L2	Isaiah Berlin	John Foster	2 January 1952	02	01	1952	1952-01-02	2 January 1952	02	01	1952	1952-01-02	New York	New York City	United States		Meeting		LAN
+O211	L2	Isaiah Berlin	Enid Jones	2 January 1952	02	01	1952	1952-01-02	2 January 1952	02	01	1952	1952-01-02	New York	New York City	United States		Meeting		LAN
+O212	L2	Isaiah Berlin	Encyclopedia Britannica	January 1952	00	01	1952	1952-01-00	00	00	00	0000	0000-00-00					Article	For Britannica 1952 Book of the Year	LAN
+O213	L2	Isaiah Berlin	Edgar Wind	January 1952	00	01	1952	1952-01-00	January 1952	00	01	1952	1952-01-00	Northampton	Northampton	England		Meeting		LAN
+O214	L2	Isaiah Berlin	Anna Kallin	3 February 1952	03	02	1952	1952-02-03	3 February 1952	03	02	1952	1952-02-03					Gift/Honor	Plantain, by Anna Akhmatova	LAN
+O215	L2	Isaiah Berlin	Bryn Mawr	February 1952	00	02	1952	1952-02-00	18 March 1952	18	03	1952	1952-03-18	Bryn Mawr	Bryn Mawr	United States		Affiliation_Formal	Giving Mary Flexner Lectures	LAN
+O216	L2	Isaiah Berlin	Milton Nahm	Early February 1952	00	02	1952	1952-02-00	Early February 1952	00	02	1952	1952-02-00	Bryn Mawr	Bryn Mawr	United States		Meeting		LAN
+O217	L2	Isaiah Berlin	Helen Manning	Early February 1952	00	02	1952	1952-02-00	Early February 1952	00	02	1952	1952-02-00	Bryn Mawr	Bryn Mawr	United States		Meeting		LAN
+O218	L2	Isaiah Berlin	Karl Popper	February 1952	00	02	1952	1952-02-00	February 1952	00	02	1952	1952-02-00					Teaching_Lecture	invitation to give first Auguste Comte Memorial Trust Lecture in 1953	LAN
+O219	L2	Isaiah Berlin	Alice James::William James	late March 1952	00	03	1952	1952-03-00	late March 1952	00	03	1952	1952-03-00	Cambridge	Cambridge	United States		Meeting		LAN
+O22	L2	Isaiah Berlin	Anna Akhmatova	January 1946	00	01	1946	1946-01-00	January 1946	00	01	1946	1946-01-00	Leningrad	Leningrad	Russia		Meeting		LAN
+O220	L2	Isaiah Berlin	Arturo Toscanini	29 March 1952	29	03	1952	1952-03-29	29 March 1952	29	03	1952	1952-03-29	Carnegie Hall	New York City	United States		Attendance	conducted NBC Orchestra, Beethoven's 1st and 9th Symphonies	LAN
+O221	L2	Isaiah Berlin	Raymond Aron	September 1951 - March 1952	00	09	1951	1951-09-00	September 1951 - March 1953	00	03	1953	1953-03-00					Meeting		LAN
+O222	L2	Isaiah Berlin	Teddy Kollek	7 April 1952	07	04	1952	1952-04-07	7 April 1952	07	04	1952	1952-04-07	Air France flight from Paris to London				Meeting	the plane caught fire.	LAN
+O223	L2	Isaiah Berlin	Nicolas Nabokov	Early April 1952	00	04	1952	1952-04-00	Early April 1952	00	04	1952	1952-04-00	Paris	Paris	France		Meeting		LAN
+O224	L2	Isaiah Berlin	Albert Einstein	11 March 1952	11	03	1952	1952-03-11	14 March 1952	14	03	1952	1952-03-14	Princeton Institute	Princeton	United States		Meeting	they did not get along.	LAN
+O225	L2	Isaiah Berlin	Festival d'Aix	late July 1952	00	07	1952	1952-07-00	late July 1952	00	07	1952	1952-07-00	Aix en Provence	Aix-en-Provence	France		Attendance		LAN
+O226	L2	Isaiah Berlin	Aline Halban	late July 1952	00	07	1952	1952-07-00	late July 1952	00	07	1952	1952-07-00	Aix en Provence	Aix-en-Provence	France		Meeting		LAN
+O227	L2	Isaiah Berlin	Arturo Toscanini	29 September 1952	29	09	1952	1952-09-29	1 October 1952	01	10	1952	1952-10-01	London	London	England		Attendance	conducted Brahm's Tragic Overture, Symphonies 1 through 4, and Variations on a Theme by Haydn, at Festival Hall, London	LAN
+O228	L2	Isaiah Berlin	Benjamin Britten	late July 1952	00	07	1952	1952-07-00	late July 1952	00	07	1952	1952-07-00	Aix en Provence	Aix-en-Provence	France		Attendance		LAN
+O229	L2	Isaiah Berlin	Peter Pears 	late July 1952	00	07	1952	1952-07-00	late July 1952	00	07	1952	1952-07-00	Aix en Provence	Aix-en-Provence	France		Attendance		LAN
+O23	L2	Isaiah Berlin	Lev Gumilev	November 1945	00	11	1945	1945-11-00	November 1945	00	11	1945	1945-11-00	Leningrad	Leningrad	Russia		Meeting		LAN
+O230	L2	Isaiah Berlin	Hans Rosbaud	late July 1952	00	07	1952	1952-07-00	late July 1952	00	07	1952	1952-07-00	Aix en Provence	Aix-en-Provence	France		Attendance		LAN
+O231	L2	Isaiah Berlin	Patricia Neway	late July 1952	00	07	1952	1952-07-00	late July 1952	00	07	1952	1952-07-00	Aix en Provence	Aix-en-Provence	France		Attendance		LAN
+O232	L2	Isaiah Berlin	Alix de Rothschild	late July 1952	00	07	1952	1952-07-00	late July 1952	00	07	1952	1952-07-00	Aix en Provence	Aix-en-Provence	France		Meeting		LAN
+O233	L2	Isaiah Berlin	Agnes Morgan	late July 1952	00	07	1952	1952-07-00	late July 1952	00	07	1952	1952-07-00	Aix en Provence	Aix-en-Provence	France		Meeting		LAN
+O234	L2	Isaiah Berlin	Gladwyn Jebb	August 1952	00	08	1952	1952-08-00	August 1952	00	08	1952	1952-08-00	London	London	England		Meeting		LAN
+O235	L2	Isaiah Berlin	S. H. Bergman	May 1952	00	05	1952	1952-05-00	May 1952	00	05	1952	1952-05-00					Professional_Service	encouraged IB to consider teaching at Hebrew University, Jerusalem	LAN
+O236	L2	Isaiah Berlin	Pamela Berry	3 October 1952	03	10	1952	1952-10-03	3 October 1952	03	10	1952	1952-10-03					Meeting		LAN
+O237	L2	Isaiah Berlin	Anthony Head	3 October 1952	03	10	1952	1952-10-03	3 October 1952	03	10	1952	1952-10-03					Meeting		LAN
+O238	L2	Isaiah Berlin	Maurice Bowra	3 October 1952	03	10	1952	1952-10-03	3 October 1952	03	10	1952	1952-10-03					Meeting		LAN
+O239	L2	Isaiah Berlin	Alix de Rothschild	29 September 1952	29	09	1952	1952-09-29	1 October 1952	01	10	1952	1952-10-01	London	London	England		Meeting	for Toscanini concerts	LAN
+O24	L2	Isaiah Berlin	Foreign Office	11 June 1947	11	06	1947	1947-06-11	11 June 1947	11	06	1947	1947-06-11					Bureaucratic	Visa to Palestine denied	LAN
+O240	L2	Isaiah Berlin	BBC	October 1952	00	10	1952	1952-10-00	October 1952	00	10	1952	1952-10-00	London	London	England		Article	recording the Mary Flexner Lectures for broadcast	LAN
+O241	L2	Isaiah Berlin	Chaim Weizmann  (?)	18 November 1952	18	11	1952	1952-11-18	18 November 1952	18	11	1952	1952-11-18	St John's Wood Synagogue	London	England		Attendance	Weizmann's memorial service	LAN
+O242	L2	Isaiah Berlin	Rowland Burdon-Muller	30 November 1952	30	11	1952	1952-11-30	30 November 1952	30	11	1952	1952-11-30					Gift/Honor		LAN
+O243	L2	Isaiah Berlin	Princeton Institute	November 1952	00	11	1952	1952-11-00	November 1952	00	11	1952	1952-11-00					Professional_Service	invitation to come for a year	LAN
+O244	L2	Isaiah Berlin	The Times	November 1952	00	11	1952	1952-11-00	November 1952	00	11	1952	1952-11-00					Article	IB wrote on Chaim Weizmann	LAN
+O245	L2	Isaiah Berlin	Maria Callas	Mid-November 1952	00	11	1952	1952-11-00	Mid-November 1952	00	11	1952	1952-11-00	Covent Garden	London	England		Attendance	Norma at the Royal Opera House	LAN
+O246	L2	Isaiah Berlin	Ebe Stignani	Mid-November 1952	00	11	1952	1952-11-00	Mid-November 1952	00	11	1952	1952-11-00	Covent Garden	London	England		Attendance	Norma at the Royal Opera House	LAN
+O247	L2	Isaiah Berlin	Elizabeth Bowen	November 1952	00	11	1952	1952-11-00	November 1952	00	11	1952	1952-11-00					Meeting		LAN
+O248	L2	Isaiah Berlin	The Times	6 December 1952	06	12	1952	1952-12-06	6 December 1952	06	12	1952	1952-12-06					Article	on IB's BBC broadcasts	LAN
+O249	L2	Isaiah Berlin	The Times::E. W. Jones	16 December 1952	16	12	1952	1952-12-16	16 December 1952	16	12	1952	1952-12-16					Article	IB's response to E.W. Jones' 12 December article	LAN
+O25	L2	Isaiah Berlin	Alan Cunningham	(mid June) 1947	00	06	1947	1947-06-00	(mid June) 1947	00	06	1947	1947-06-00					Bureaucratic	Invitation to Palestine	LAN
+O250	L2	Isaiah Berlin	E. W. Jones::The Times	12 December 1952	12	12	1952	1952-12-12	12 December 1952	12	12	1952	1952-12-12					Article	response to 6 December article on IB	LAN
+O251	L2	Isaiah Berlin	E. W. Jones::The Times	18 December 1952	18	12	1952	1952-12-18	18 December 1952	18	12	1952	1952-12-18					Article	response to IB's 16 December response	LAN
+O252	L2	Isaiah Berlin	Katharine McBride	January 1952	00	01	1952	1952-01-00	January 1952	00	01	1952	1952-01-00					Gift/Honor		LAN
+O253	L2	Isaiah Berlin	Clarence Faust	February 1953	00	02	1953	1953-02-00	February 1953	00	02	1953	1953-02-00					Professional_Service	invitation to Ford Foundation Conference	LAN
+O254	L2	Isaiah Berlin	Ford Foundation 	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Article_Interview	conference held by Fund for the Advancement of Education (funded by Ford Foundation) to discuss problems of education and philosophical diversity	LAN
+O255	L2	Isaiah Berlin	T. S. Eliot	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Meeting	Ford Foundation Conference	LAN
+O256	L2	Isaiah Berlin	Karl Barth	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Meeting	Ford Foundation Conference	LAN
+O257	L2	Isaiah Berlin	Werner Heisenberg	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Meeting	Ford Foundation Conference	LAN
+O258	L2	Isaiah Berlin	Niels Bohr	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Meeting	Ford Foundation Conference	LAN
+O259	L2	Isaiah Berlin	C. S. Lewis	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Meeting	Ford Foundation Conference	LAN
+O26	L2	Isaiah Berlin	Oxford Summer School for Graduates	July 1947	00	07	1947	1947-07-00	August 1947	00	08	1947	1947-08-00	Oxford	Oxford	England		Teaching_Lecture		LAN
+O260	L2	Isaiah Berlin	Arthur Keith	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Meeting	Ford Foundation Conference	LAN
+O261	L2	Isaiah Berlin	Arnold Toynbee	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Meeting	Ford Foundation Conference	LAN
+O262	L2	Isaiah Berlin	London School of Economics	12 May 1953	12	05	1953	1953-05-12	12 May 1953	12	05	1953	1953-05-12	London	London	England		Teaching_Lecture	delivered Auguste Comte Memorial Lecture	LAN
+O263	L2	Isaiah Berlin	Rebecca West	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00					Meeting		LAN
+O264	L2	Isaiah Berlin	Richard Livingstone	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Meeting	Ford Foundation Conference	LAN
+O265	L2	Isaiah Berlin	Michael Polyani	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Meeting	Ford Foundation Conference	LAN
+O266	L2	Isaiah Berlin	Jose Ortega y Gasset	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Meeting	Ford Foundation Conference	LAN
+O267	L2	Isaiah Berlin	Herbert Butterfield	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Meeting	Ford Foundation Conference	LAN
+O268	L2	Isaiah Berlin	Colin Clark	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Meeting	Ford Foundation Conference	LAN
+O269	L2	Isaiah Berlin	Mortimer Adler	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Meeting	Ford Foundation Conference	LAN
+O27	L2	Isaiah Berlin	Patrick Reilly	June 1947	00	06	1947	1947-06-00	June 1947	00	06	1947	1947-06-00	British Embassy, Athens	Athens	Greece		Meeting		LAN
+O270	L2	Ford Foundation Conference	Rebecca West	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Article_Interview	Ford Foundation Conference	LAN
+O271	L2	Ford Foundation Conference	Richard Livingstone	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Article_Interview	Ford Foundation Conference	LAN
+O272	L2	Ford Foundation Conference	Michael Polyani	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Article_Interview	Ford Foundation Conference	LAN
+O273	L2	Ford Foundation Conference	Jose Ortega y Gasset	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Article_Interview	Ford Foundation Conference	LAN
+O274	L2	Ford Foundation Conference	Herbert Butterfield	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Article_Interview	Ford Foundation Conference	LAN
+O275	L2	Ford Foundation Conference	Colin Clark	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Article_Interview	Ford Foundation Conference	LAN
+O276	L2	Ford Foundation Conference	T. S. Eliot	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Article_Interview	Ford Foundation Conference	LAN
+O277	L2	Ford Foundation Conference	Karl Barth	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Article_Interview	Ford Foundation Conference	LAN
+O278	L2	Ford Foundation Conference	Werner Heisenberg	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Article_Interview	Ford Foundation Conference	LAN
+O279	L2	Ford Foundation Conference	Niels Bohr	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Article_Interview	Ford Foundation Conference	LAN
+O28	L2	Isaiah Berlin	Julian Asquith	July 1947	00	07	1947	1947-07-00	July 1947	00	07	1947	1947-07-00	Haifa	Haifa	Israel		Meeting	"taught IB the ""hedgehog and the fox"" epigram"	LAN
+O280	L2	Ford Foundation Conference	C. S. Lewis	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Article_Interview	Ford Foundation Conference	LAN
+O281	L2	Ford Foundation Conference	Arthur Keith	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Article_Interview	Ford Foundation Conference	LAN
+O282	L2	Ford Foundation Conference	Arnold Toynbee	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Article_Interview	Ford Foundation Conference	LAN
+O283	L2	Ford Foundation Conference	Mortimer Adler	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Grosvenor House	London	England		Article_Interview	Ford Foundation Conference	LAN
+O284	L2	Isaiah Berlin	Maurice Bowra	April 1953	00	04	1953	1953-04-00	April 1953	00	04	1953	1953-04-00	Rome	Rome	Italy		Meeting		LAN
+O285	L2	Isaiah Berlin	Iris Origo	April 1953	00	04	1953	1953-04-00	April 1953	00	04	1953	1953-04-00	Rome	Rome	Italy		Meeting		LAN
+O286	L2	Isaiah Berlin	Marguerite Caetani	April 1953	00	04	1953	1953-04-00	April 1953	00	04	1953	1953-04-00	Rome	Rome	Italy		Meeting		LAN
+O287	L2	Isaiah Berlin	Rowland Burdon-Muller	April 1953	00	04	1953	1953-04-00	April 1953	00	04	1953	1953-04-00	Paris	Paris	France		Meeting		LAN
+O288	L2	Isaiah Berlin	Harry Levin	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Lady Margaret Hall	Oxford	England		Attendance	Deneke Lecture	LAN
+O289	L2	Isaiah Berlin	Elena Levin	May 1953	00	05	1953	1953-05-00	May 1953	00	05	1953	1953-05-00	Oxford	Oxford	England		Meeting		LAN
+O29	L2	Isaiah Berlin	UNSCOP	July 1947	00	07	1947	1947-07-00	July 1947	00	07	1947	1947-07-00	Haifa	Haifa	Israel		Meeting		LAN
+O290	L2	Isaiah Berlin	Michael Berry	2 June 1953	02	06	1953	1953-06-02	2 June 1953	02	06	1953	1953-06-02	London	London	England		Meeting	Coronation. IB watched from the window of the Daily Telegraph office in Piccadilly	LAN
+O291	L2	Isaiah Berlin	Queen Elizabeth II	2 June 1953	02	06	1953	1953-06-02	2 June 1953	02	06	1953	1953-06-02	London	London	England		Attendance	Coronation. Watched with IB from the window of the Daily Telegraph office in Piccadilly	LAN
+O292	L2	Isaiah Berlin	Smith College	9 October 1953	09	10	1953	1953-10-09	9 October 1953	09	10	1953	1953-10-09	Northampton	Northampton	England		Teaching_Lecture	"gave Elizabeth Cutter Morrow Lecture, ""The Sense of Reality"""	LAN
+O293	L2	Isaiah Berlin	Simon & Schuster	June 1953	00	06	1953	1953-06-00	June 1953	00	06	1953	1953-06-00					Professional_Service	arranged to publish The Hedgehog and the Fox	LAN
+O294	L2	Isaiah Berlin	Loelia Lindsay	9 July 1953	09	07	1953	1953-07-09	9 July 1953	09	07	1953	1953-07-09	Austrian Embassy	London	England		Meeting		LAN
+O295	L2	Isaiah Berlin	Lucie Lambert	9 July 1953	09	07	1953	1953-07-09	9 July 1953	09	07	1953	1953-07-09	Austrian Embassy	London	England		Meeting		LAN
+O296	L2	Isaiah Berlin	Fred Warner	9 July 1953	09	07	1953	1953-07-09	9 July 1953	09	07	1953	1953-07-09	Austrian Embassy	London	England		Meeting		LAN
+O297	L2	Isaiah Berlin	Michael Straight::New Republic	24 August 1953	24	08	1953	1953-08-24	24 August 1953	24	08	1953	1953-08-24					Article	printed fictitious account of IB's visit to Anna Akhmatova	LAN
+O298	L2	Isaiah Berlin	Michael Straight	2 August 1953	02	08	1953	1953-08-02	2 August 1953	02	08	1953	1953-08-02	Dartington Hall	Totnes	England		Meeting		LAN
+O299	L2	Isaiah Berlin	New Republic::Michael Straight	14 September 1953	14	09	1953	1953-09-14	14 September 1953	14	09	1953	1953-09-14					Article	IB refutes 24 August article	LAN
+O3	L2	Isaiah Berlin	The Times	10 July 1946	10	07	1946	1946-07-10	10 July 1946	10	07	1946	1946-07-10					Article	Palestine	LAN
+O30	L2	Isaiah Berlin	Duff Cooper	July 1947	00	07	1947	1947-07-00	July 1947	00	07	1947	1947-07-00	Paris	Paris	France		Meeting		LAN
+O300	L2	Isaiah Berlin	Ronald Tree::Marietta Tree	September 1953	00	09	1953	1953-09-00	September 1953	00	09	1953	1953-09-00	RMS Queen Elizabeth				Meeting		LAN
+O301	L2	Isaiah Berlin	Harvard	September 1953	00	09	1953	1953-09-00	December 1953	00	12	1953	1953-12-00	Harvard	Cambridge	United States		Affiliation_Formal	Visiting Professor	LAN
+O302	L2	Isaiah Berlin	Nuffield College	November 1953	00	11	1953	1953-11-00	November 1953	00	11	1953	1953-11-00					Professional_Service	invitation to become Warden of Nuffield	LAN
+O303	L2	Isaiah Berlin	The Times Literary Supplement::E. H. Carr	20 November 1953	20	11	1953	1953-11-20	20 November 1953	20	11	1953	1953-11-20					Article_Review	review of Hedgehog and the Fox	LAN
+O304	L2	Isaiah Berlin	BBC::Noel Annan	17 November 1953	17	11	1953	1953-11-17	17 November 1953	17	11	1953	1953-11-17					Article_Review	review of Hedgehog and the Fox	LAN
+O305	L2	Isaiah Berlin	Listener	3 December 1953	03	12	1953	1953-12-03	3 December 1953	03	12	1953	1953-12-03					Article_Review	review of Hedgehog and the Fox	LAN
+O306	L2	Isaiah Berlin	Observer::Arnold Toynbee	6 December 1953	06	12	1953	1953-12-06	6 December 1953	06	12	1953	1953-12-06					Article_Review	review of Hedgehog and the Fox	LAN
+O307	L2	Isaiah Berlin	New Statesman::Alan Taylor	12 December 1953	12	12	1953	1953-12-12	12 December 1953	12	12	1953	1953-12-12					Article_Review	review of Hedgehog and the Fox	LAN
+O308	L2	Isaiah Berlin	Nuffield College	26 January 1954	26	01	1954	1954-01-26	26 January 1954	26	01	1954	1954-01-26	Oxford	Oxford	England		Professional_Service	declined Wardenship	LAN
+O309	L2	Isaiah Berlin	Aline Halban	February 1954	00	02	1954	1954-02-00	April 1954	00	04	1954	1954-04-00	Oxford	Oxford	England		Romantic_Affair_Secret	discovered by her husband, who threatened to divorce her if she ever saw IB again.	LAN
+O31	L2	Isaiah Berlin	Moshe Sharett	July 1947	00	07	1947	1947-07-00	July 1947	00	07	1947	1947-07-00	Oxford	Oxford	England		Professional_Service	offer to administer East and Central Europe for Jewish Agency	LAN
+O310	L2	Isaiah Berlin	Columbia University	March 1954	00	03	1954	1954-03-00	March 1954	00	03	1954	1954-03-00					Teaching_Lecture	IB cancelled his bicentennial lecture, scheduled for 24 March.	LAN
+O311	L2	Isaiah Berlin	Ava Anderson	March 1954	00	03	1954	1954-03-00	March 1954	00	03	1954	1954-03-00					Meeting	Ava's party for Clarissa & Anthony Eden	LAN
+O312	L2	Isaiah Berlin	Clarissa Churchill	March 1954	00	03	1954	1954-03-00	March 1954	00	03	1954	1954-03-00					Meeting	Ava's party for Clarissa & Anthony Eden	LAN
+O313	L2	Isaiah Berlin	Gladwyn Jebb	March 1954	00	03	1954	1954-03-00	March 1954	00	03	1954	1954-03-00					Meeting	Ava's party for Clarissa & Anthony Eden	LAN
+O314	L2	Isaiah Berlin	John Anderson	March 1954	00	03	1954	1954-03-00	March 1954	00	03	1954	1954-03-00					Meeting	Ava's party for Clarissa & Anthony Eden	LAN
+O315	L2	Isaiah Berlin	Anthony Eden	March 1954	00	03	1954	1954-03-00	March 1954	00	03	1954	1954-03-00					Meeting	Ava's party for Clarissa & Anthony Eden	LAN
+O316	L2	Isaiah Berlin	Aline Halban	c. 29 April 1954	29	04	1954	1954-04-29	c. 29 April 1954	29	04	1954	1954-04-29	Oxford	Oxford	England		Meeting	Party hosted by IB	LAN
+O317	L2	Isaiah Berlin	Hans Halban	c. 29 April 1954	29	04	1954	1954-04-29	c. 29 April 1954	29	04	1954	1954-04-29	Oxford	Oxford	England		Meeting	Party hosted by IB	LAN
+O318	L2	Isaiah Berlin	Alan Pryce-Jones	c. 29 April 1954	29	04	1954	1954-04-29	c. 29 April 1954	29	04	1954	1954-04-29	Oxford	Oxford	England		Meeting	Party hosted by IB	LAN
+O319	L2	Isaiah Berlin	Aline Halban	c. 1 May 1954	01	05	1954	1954-05-01	June 1954	00	06	1954	1954-06-00	Oxford	Oxford	England		Romantic_Affair_Secret		LAN
+O32	L2	Isaiah Berlin	Oliver Franks	July 1947	00	07	1947	1947-07-00	July 1947	00	07	1947	1947-07-00	Oxford	Oxford	England		Professional_Advising	CEEC offer to be economic advisor	LAN
+O320	L2	Isaiah Berlin	Hans Halban	June 1954	00	06	1954	1954-06-00	June 1954	00	06	1954	1954-06-00	Oxford	Oxford	England		Meeting	Discussed IB & Aline's affair	LAN
+O321	L2	Isaiah Berlin	Aline Halban	June 1954	00	06	1954	1954-06-00	January 1955	00	01	1955	1955-01-00	Oxford	Oxford	England		Romantic_Affair		LAN
+O322	L2	Isaiah Berlin	Theodore Hesburgh	April 1954	00	04	1954	1954-04-00	June 1954	00	06	1954	1954-06-00	Oxford	Oxford	England		Meeting		LAN
+O323	L2	Isaiah Berlin	George Placzek	April 1954	00	04	1954	1954-04-00	June 1954	00	06	1954	1954-06-00	Oxford	Oxford	England		Meeting		LAN
+O324	L2	Isaiah Berlin	Alix de Rothschild	1 June 1954	01	06	1954	1954-06-01	1 June 1954	01	06	1954	1954-06-01	London	London	England		Meeting		LAN
+O325	L2	Isaiah Berlin	Princess Margaret	1 June 1954	01	06	1954	1954-06-01	1 June 1954	01	06	1954	1954-06-01	London	London	England		Meeting		LAN
+O326	L2	Isaiah Berlin	Princess Margaret	2 June 1954	02	06	1954	1954-06-02	2 June 1954	02	06	1954	1954-06-02	Oxford	Oxford	England		Meeting		LAN
+O327	L2	Isaiah Berlin	Margot Fonteyn	10 June 1954	10	06	1954	1954-06-10	10 June 1954	10	06	1954	1954-06-10	London	London	England		Meeting		LAN
+O328	L2	Isaiah Berlin	Cecil Beaton	10 June 1954	10	06	1954	1954-06-10	10 June 1954	10	06	1954	1954-06-10	London	London	England		Meeting		LAN
+O329	L2	Isaiah Berlin	Alan Pryce-Jones	10 June 1954	10	06	1954	1954-06-10	10 June 1954	10	06	1954	1954-06-10	London	London	England		Meeting		LAN
+O33	L2	Isaiah Berlin	CEEC	18 August 1947	18	08	1947	1947-08-18	7 September 1947	07	09	1947	1947-09-07	Paris	Paris	France		Meeting	CEEC	LAN
+O330	L2	Isaiah Berlin	Elizabeth Bowen	June 1954	00	06	1954	1954-06-00	June 1954	00	06	1954	1954-06-00	Oxford	Oxford	England		Meeting	for Encaenia	LAN
+O331	L2	Isaiah Berlin	Anthony Rumbold	23 June 1954	23	06	1954	1954-06-23	23 June 1954	23	06	1954	1954-06-23	Oxford	Oxford	England		Meeting	for Encaenia	LAN
+O332	L2	Isaiah Berlin	Aline Halban	23 June 1954	23	06	1954	1954-06-23	23 June 1954	23	06	1954	1954-06-23	Oxford	Oxford	England		Meeting	for Encaenia	LAN
+O333	L2	Isaiah Berlin	Hans Halban	23 June 1954	23	06	1954	1954-06-23	23 June 1954	23	06	1954	1954-06-23	Oxford	Oxford	England		Meeting	for Encaenia	LAN
+O334	L2	Isaiah Berlin	Felicity Rumbold	23 June 1954	23	06	1954	1954-06-23	23 June 1954	23	06	1954	1954-06-23	Oxford	Oxford	England		Meeting	for Encaenia	LAN
+O335	L2	Isaiah Berlin	Elizabeth Harcourt	23 June 1954	23	06	1954	1954-06-23	23 June 1954	23	06	1954	1954-06-23	Oxford	Oxford	England		Meeting	for Encaenia	LAN
+O336	L2	Isaiah Berlin	Alice James::William James	23 June 1954	23	06	1954	1954-06-23	23 June 1954	23	06	1954	1954-06-23	Oxford	Oxford	England		Meeting	for Encaenia	LAN
+O337	L2	Isaiah Berlin	Guy de Rothschild::Alix de Rothschild	early August 1954	00	08	1954	1954-08-00	early August 1954	00	08	1954	1954-08-00	Normandy	Reux	France		Meeting		LAN
+O338	L2	Isaiah Berlin	Aline Halban	early August 1954	00	08	1954	1954-08-00	early August 1954	00	08	1954	1954-08-00	Normandy	Reux	France		Meeting		LAN
+O339	L2	Isaiah Berlin	Hans Halban	early August 1954	00	08	1954	1954-08-00	early August 1954	00	08	1954	1954-08-00	Normandy	Reux	France		Meeting		LAN
+O34	L2	Isaiah Berlin	David Waley	18 August 1947	18	08	1947	1947-08-18	7 September 1947	07	09	1947	1947-09-07	Paris	Paris	France		Meeting	CEEC	LAN
+O340	L2	Isaiah Berlin	Raphael Salem::Adriana Salem	August 1954	00	08	1954	1954-08-00	August 1954	00	08	1954	1954-08-00	Aix en Provence	Aix-en-Provence	France		Meeting		LAN
+O341	L2	Isaiah Berlin	University College, London	18 October 1954	18	10	1954	1954-10-18	8 November 1954	08	11	1954	1954-11-08	London	London	England		Teaching_Lecture	IB delivered 4 Northcliffe Lectures	LAN
+O342	L2	Isaiah Berlin	BBC	early 1955	00	00	1955	1955-00-00	early 1955	00	00	1955	1955-00-00					Article	aired the Northcliffe Lectures	LAN
+O343	L2	Isaiah Berlin	Ava Anderson::John Anderson	November 1954	00	11	1954	1954-11-00	November 1954	00	11	1954	1954-11-00	London	London	England		Meeting	attended the final Northcliffe Lecture	LAN
+O344	L2	Isaiah Berlin	Jascha Heifetz	18 November 1954	18	11	1954	1954-11-18	18 November 1954	18	11	1954	1954-11-18	London	London	England		Attendance	Festival Hall, London	LAN
+O345	L2	Isaiah Berlin	Sadler's Wells Ballet	November 1954	00	11	1954	1954-11-00	November 1954	00	11	1954	1954-11-00	Oxford	Oxford	England		Meeting	toured at Oxford. IB threw party for them.	LAN
+O346	L2	Isaiah Berlin	Frederick Ashton	November 1954	00	11	1954	1954-11-00	November 1954	00	11	1954	1954-11-00	Oxford	Oxford	England		Meeting	Royal Ballet party	LAN
+O347	L2	Isaiah Berlin	Robert Irving	November 1954	00	11	1954	1954-11-00	November 1954	00	11	1954	1954-11-00	Oxford	Oxford	England		Meeting	Royal Ballet party	LAN
+O348	L2	Isaiah Berlin	Margot Fonteyn	November 1954	00	11	1954	1954-11-00	November 1954	00	11	1954	1954-11-00	Oxford	Oxford	England		Meeting	Royal Ballet party	LAN
+O349	L2	Isaiah Berlin	Svetlana Beriosova	November 1954	00	11	1954	1954-11-00	November 1954	00	11	1954	1954-11-00	Oxford	Oxford	England		Meeting	Royal Ballet party	LAN
+O35	L2	Isaiah Berlin	Stuart Hampshire	18 August 1947	18	08	1947	1947-08-18	7 September 1947	07	09	1947	1947-09-07	Paris	Paris	France		Meeting	CEEC	LAN
+O350	L2	Isaiah Berlin	Violetta Elvin	November 1954	00	11	1954	1954-11-00	November 1954	00	11	1954	1954-11-00	Oxford	Oxford	England		Meeting	Royal Ballet party	LAN
+O351	L2	Isaiah Berlin	Robert Mayer	November 1954	00	11	1954	1954-11-00	November 1954	00	11	1954	1954-11-00	Oxford	Oxford	England		Meeting		LAN
+O352	L2	Isaiah Berlin	Aline Halban	November 1954	00	11	1954	1954-11-00	November 1954	00	11	1954	1954-11-00	Oxford	Oxford	England		Professional_Advising	she was translating Hedgehog and the Fox into French	LAN
+O353	L2	Isaiah Berlin	James de Rothschild	November 1954	00	11	1954	1954-11-00	November 1954	00	11	1954	1954-11-00	Aylesbury	Aylesbury	England		Meeting		LAN
+O354	L2	Isaiah Berlin	Germaine de Rothschild	November 1954	00	11	1954	1954-11-00	November 1954	00	11	1954	1954-11-00	Aylesbury	Aylesbury	England		Meeting		LAN
+O355	L2	Isaiah Berlin	Gregor Piatigorsky	November 1954	00	11	1954	1954-11-00	November 1954	00	11	1954	1954-11-00	Aylesbury	Aylesbury	England		Meeting		LAN
+O356	L2	Isaiah Berlin	Rosemary Goldsmid	November 1954	00	11	1954	1954-11-00	November 1954	00	11	1954	1954-11-00					Gift/Honor		LAN
+O357	L2	Isaiah Berlin	The Times Literary Supplement::E. H. Carr	17 December 1954	17	12	1954	1954-12-17	17 December 1954	17	12	1954	1954-12-17					Article_Review	review of Historical Inevitability	LAN
+O358	L2	Isaiah Berlin	Times	14 November 1954	14	11	1954	1954-11-14	14 November 1954	14	11	1954	1954-11-14					Article_Review	review of Northcliffe Lectures	LAN
+O359	L2	Isaiah Berlin	Times	5 December 1954	05	12	1954	1954-12-05	5 December 1954	05	12	1954	1954-12-05					Article_Review	IB's review of Adlai Stevenson's Godkin Lectures	LAN
+O36	L2	Isaiah Berlin	Arthur Salter	18 August 1947	18	08	1947	1947-08-18	7 September 1947	07	09	1947	1947-09-07	Paris	Paris	France		Meeting	CEEC	LAN
+O360	L2	Isaiah Berlin	Anthony Head::Dorothea Head	8 December 1954	08	12	1954	1954-12-08	8 December 1954	08	12	1954	1954-12-08	London	London	England		Meeting		LAN
+O361	L2	Isaiah Berlin	John Betjeman	8 December 1954	08	12	1954	1954-12-08	8 December 1954	08	12	1954	1954-12-08	London	London	England		Meeting		LAN
+O362	L2	Isaiah Berlin	Elizabeth Cavendish	8 December 1954	08	12	1954	1954-12-08	8 December 1954	08	12	1954	1954-12-08	London	London	England		Meeting		LAN
+O363	L2	Isaiah Berlin	Manlio Brosio	8 December 1954	08	12	1954	1954-12-08	8 December 1954	08	12	1954	1954-12-08	Italian Embassy	London	England		Meeting		LAN
+O364	L2	Isaiah Berlin	New Statesman::Harold Nicolson::Raymond Mortimer::Rose Macaulay	8 January 1955	08	01	1955	1955-01-08	8 January 1955	08	01	1955	1955-01-08					Article	jointly wrote article protesting New Statesman's characterization of Violet Bonham Carter, 11 December 1954	LAN
+O365	L2	Isaiah Berlin	John Parkinson	early January 1955	00	01	1955	1955-01-00	early January 1955	00	01	1955	1955-01-00	London	London	England		Meeting	Specialist, IB referred to by his general pracititioner Jacob Snowman	LAN
+O366	L2	Isaiah Berlin	Leo Rau	January 1955	00	01	1955	1955-01-00	March 1955	00	03	1955	1955-03-00	London	London	England		Meeting	Specialist, IB referred to by his general pracititioner Jacob Snowman	LAN
+O367	L2	Isaiah Berlin	Michael Todd	January 1955	00	01	1955	1955-01-00	January 1955	00	01	1955	1955-01-00	Oxford	Oxford	England		Meeting		LAN
+O368	L2	Isaiah Berlin	London Magazine	January 1955	00	01	1955	1955-01-00	January 1955	00	01	1955	1955-01-00					Article	IB promises to write essay on his meeting with Anna Akhmatova in 1945 once she dies. Article is published in 1980.	LAN
+O369	L2	Aline Halban	Hans Halban	January 1955	00	01	1955	1955-01-00	January 1955	00	01	1955	1955-01-00	Oxford	Oxford	England		Separation		LAN
+O37	L2	Isaiah Berlin	George Kennan	late August 1947	00	08	1947	1947-08-00	late August 1947	00	08	1947	1947-08-00	Paris	Paris	France		Meeting	CEEC	LAN
+O370	L2	Isaiah Berlin	All Souls College	17 February 1955	17	02	1955	1955-02-17	17 February 1955	17	02	1955	1955-02-17	Oxford	Oxford	England		Affiliation_Formal	request to extend Robertson Research Fellowship to 1960	LAN
+O371	L2	Isaiah Berlin	Aline Halban	18 February 1955	18	02	1955	1955-02-18	8 February 1956	08	02	1956	1956-02-08	Oxford Botanical Garden	Oxford	England		Engagement		LAN
+O372	L2	Isaiah Berlin	Hebrew University	2 February 1955	02	02	1955	1955-02-02	2 February 1955	02	02	1955	1955-02-02					Professional_Service	accepted invitation to lecture	LAN
+O373	L2	Isaiah Berlin	Hebrew University	18 February 1955	18	02	1955	1955-02-18	18 February 1955	18	02	1955	1955-02-18					Teaching_Lecture	cancelled lecture	LAN
+O374	L2	Isaiah Berlin	Aline Halban	29 March 1955	29	03	1955	1955-03-29	22 April 1955	22	04	1955	1955-04-22	Nice, Grasse, Avignon, Lyon, Paris		France		Meeting		LAN
+O375	L2	Isaiah Berlin	Douglas Cooper	between 29 March and 22 April 1955	29	03	1955	1955-03-29	between 29 March and 22 April 1955	22	04	1955	1955-04-22	Avignon	Avignon	France		Meeting		LAN
+O376	L2	Isaiah Berlin	Pablo Picasso	between 29 March and 22 April 1955	29	03	1955	1955-03-29	between 29 March and 22 April 1955	22	04	1955	1955-04-22	Avignon	Avignon	France		Meeting		LAN
+O377	L2	Isaiah Berlin	Jean Cocteau	between 29 March and 22 April 1955	29	03	1955	1955-03-29	between 29 March and 22 April 1955	22	04	1955	1955-04-22	Avignon	Avignon	France		Meeting		LAN
+O378	L2	Isaiah Berlin	Jenifer Hart	June 1955	00	06	1955	1955-06-00	June 1955	00	06	1955	1955-06-00	Oxford	Oxford	England		Meeting		LAN
+O379	L2	Isaiah Berlin	T. S. Eliot	August 1955	00	08	1955	1955-08-00	August 1955	00	08	1955	1955-08-00					Gift/Honor		LAN
+O38	L2	Isaiah Berlin	Nora Beloff	18 August 1947	18	08	1947	1947-08-18	7 September 1947	07	09	1947	1947-09-07	Paris	Paris	France		Meeting	CEEC	LAN
+O380	L2	Isaiah Berlin	Winthrop Aldrich::Harriet Aldrich	August 1955	00	08	1955	1955-08-00	August 1955	00	08	1955	1955-08-00					Meeting	Aldrich's dinner for 64	LAN
+O381	L2	Isaiah Berlin	Cynthia Jebb	August 1955	00	08	1955	1955-08-00	August 1955	00	08	1955	1955-08-00					Meeting	Aldrich's dinner for 64	LAN
+O382	L2	Isaiah Berlin	International Congress of Historical Sciences	4 September 1955	04	09	1955	1955-09-04	11 September 1955	11	09	1955	1955-09-11	Rome	Rome	Italy		Attendance		LAN
+O383	L2	Isaiah Berlin	New Statesman	24 September 1955	24	09	1955	1955-09-24	24 September 1955	24	09	1955	1955-09-24					Article	Marx as historian	LAN
+O384	L2	Isaiah Berlin	Nathan Milstein	3 November 1955	03	11	1955	1955-11-03	8 November 1955	08	11	1955	1955-11-08	RMS Queen Elizabeth				Meeting		LAN
+O385	L2	Isaiah Berlin	Yvonne de Gunzbourg	3 November 1955	03	11	1955	1955-11-03	8 November 1955	08	11	1955	1955-11-08	RMS Queen Elizabeth				Meeting	Aline's mother, IB's future mother in law	LAN
+O386	L2	Isaiah Berlin	Lyric Theatre of Chicago	12 November 1955	12	11	1955	1955-11-12	12 November 1955	12	11	1955	1955-11-12	Chicago	Chicago	United States		Attendance	to see Rigoletto	LAN
+O387	L3	Isaiah Berlin	Lyric Theatre of Chicago	19 November 1955	19	11	1955	1955-11-19	19 November 1955	19	11	1955	1955-11-19	Chicago	Chicago	United States		Attendance	to see Il tabarro	LAN
+O388	L4	Isaiah Berlin	Lyric Theatre of Chicago	3 December 1955	03	12	1955	1955-12-03	3 December 1955	03	12	1955	1955-12-03	Chicago	Chicago	United States		Attendance	to see Un ballo in maschera	LAN
+O389	L2	Isaiah Berlin	University of Chicago	10 November 1955	10	11	1955	1955-11-10	10 December 1955	10	12	1955	1955-12-10	Chicago	Chicago	United States		Affiliation_Formal	Alexander White Visiting Professor	LAN
+O39	L2	Isaiah Berlin	Guy Chilver	September 1947	00	09	1947	1947-09-00	September 1947	00	09	1947	1947-09-00	Santa Caterina	Amalfi	Italy		Meeting		LAN
+O390	L2	Isaiah Berlin	Goddard Lieberson	November 1955	00	11	1955	1955-11-00	November 1955	00	11	1955	1955-11-00	Chicago	Chicago	United States		Meeting		LAN
+O391	L2	Isaiah Berlin	Adlai Stevenson	20 November 1955	20	11	1955	1955-11-20	21 November 1955	21	11	1955	1955-11-21	Chicago	Chicago	United States		Meeting		LAN
+O392	L2	Isaiah Berlin	Richard McKeon	22 November 1955	22	11	1955	1955-11-22	22 November 1955	22	11	1955	1955-11-22	Chicago	Chicago	United States		Meeting		LAN
+O393	L2	Isaiah Berlin	Otto von Simson	22 November 1955	22	11	1955	1955-11-22	22 November 1955	22	11	1955	1955-11-22	Chicago	Chicago	United States		Meeting		LAN
+O394	L2	Isaiah Berlin	David Oistrakh	27 November 1955	27	11	1955	1955-11-27	27 November 1955	27	11	1955	1955-11-27	Chicago	Chicago	United States		Attendance		LAN
+O395	L2	Isaiah Berlin	Burton Dreben	27 November 1955	27	11	1955	1955-11-27	27 November 1955	27	11	1955	1955-11-27	Chicago	Chicago	United States		Meeting	to hear David Oistrakh	LAN
+O396	L2	Isaiah Berlin	Lyric Theatre of Chicago	30 November 1955	30	11	1955	1955-11-30	30 November 1955	30	11	1955	1955-11-30	Chicago	Chicago	United States		Attendance	to hear Donizetti's L'elisir d'amore	LAN
+O397	L2	Isaiah Berlin	A. L. Rowse	late November 1955	00	11	1955	1955-11-00	late November 1955	00	11	1955	1955-11-00	Chicago	Chicago	United States		Meeting		LAN
+O398	L2	Isaiah Berlin	Aline Halban	10 December 1955	10	12	1955	1955-12-10	12 December 1955	12	12	1955	1955-12-12	Chicago	Chicago	United States		Meeting		LAN
+O399	L2	Isaiah Berlin	Elizabeth Harcourt	16 December 1955	16	12	1955	1955-12-16	20 December 1955	20	12	1955	1955-12-20	Washington, DC	Washington, DC	United States		Meeting		LAN
+O4	L2	Isaiah Berlin	John Foster	(early August) 1946	00	08	1946	1946-08-00	(early August) 1946	00	08	1946	1946-08-00	Paris	Paris	France		Meeting		LAN
+O40	L2	Isaiah Berlin	Maurice Bowra	September 1947	00	09	1947	1947-09-00	September 1947	00	09	1947	1947-09-00	Santa Caterina	Amalfi	Italy		Meeting		LAN
+O400	L2	Isaiah Berlin	Felix Frankfurter	16 December 1955	16	12	1955	1955-12-16	20 December 1955	20	12	1955	1955-12-20	Washington, DC	Washington, DC	United States		Meeting		LAN
+O401	L2	Isaiah Berlin	Joseph Alsop	16 December 1955	16	12	1955	1955-12-16	20 December 1955	20	12	1955	1955-12-20	Washington, DC	Washington, DC	United States		Meeting		LAN
+O402	L2	Isaiah Berlin	Henry Cabot Lodge	16 December 1955	16	12	1955	1955-12-16	20 December 1955	20	12	1955	1955-12-20	Washington, DC	Washington, DC	United States		Meeting		LAN
+O403	L2	Isaiah Berlin	Stuart Alsop::Patricia Alsop	16 December 1955	16	12	1955	1955-12-16	20 December 1955	20	12	1955	1955-12-20	Washington, DC	Washington, DC	United States		Meeting		LAN
+O404	L2	Isaiah Berlin	Phil Graham	16 December 1955	16	12	1955	1955-12-16	20 December 1955	20	12	1955	1955-12-20	Washington, DC	Washington, DC	United States		Meeting		LAN
+O405	L2	Isaiah Berlin	Allen Dulles	16 December 1955	16	12	1955	1955-12-16	20 December 1955	20	12	1955	1955-12-20	Washington, DC	Washington, DC	United States		Meeting		LAN
+O406	L2	Isaiah Berlin	Francis Biddle	16 December 1955	16	12	1955	1955-12-16	20 December 1955	20	12	1955	1955-12-20	Washington, DC	Washington, DC	United States		Meeting		LAN
+O407	L2	Isaiah Berlin	Mildred Bliss	16 December 1955	16	12	1955	1955-12-16	20 December 1955	20	12	1955	1955-12-20	Washington, DC	Washington, DC	United States		Meeting		LAN
+O408	L2	Isaiah Berlin	Marion Frankfurter	16 December 1955	16	12	1955	1955-12-16	20 December 1955	20	12	1955	1955-12-20	Washington, DC	Washington, DC	United States		Meeting		LAN
+O409	L2	Isaiah Berlin	Henry Brandon	16 December 1955	16	12	1955	1955-12-16	20 December 1955	20	12	1955	1955-12-20	Washington, DC	Washington, DC	United States		Meeting		LAN
+O41	L2	Isaiah Berlin	Otto Clark	18 August 1947	18	08	1947	1947-08-18	7 September 1947	07	09	1947	1947-09-07	Paris	Paris	France		Meeting	CEEC	LAN
+O410	L2	Isaiah Berlin	Institute of Contemporary Arts	19 December 1955	19	12	1955	1955-12-19	19 December 1955	19	12	1955	1955-12-19	Washington, DC	Washington, DC	United States		Teaching_Lecture	"lecture, ""Contemporary Philosophical Revolution"""	LAN
+O411	L2	Isaiah Berlin	Sir R. Makins	20 December 1955	20	12	1955	1955-12-20	27 December 1955	27	12	1955	1955-12-27	Washington, DC	Washington, DC	United States		Meeting		LAN
+O412	L2	Isaiah Berlin	Isidore Lattman	20 December 1955	20	12	1955	1955-12-20	27 December 1955	27	12	1955	1955-12-27	Washington, DC	Washington, DC	United States		Meeting		LAN
+O413	L2	Isaiah Berlin	Charles Burlingham	20 December 1955	20	12	1955	1955-12-20	27 December 1955	27	12	1955	1955-12-27	New York	New York City	United States		Meeting	"meeting described as ""a colossal failure"""	LAN
+O414	L2	Isaiah Berlin	Marianne Moore	20 December 1955	20	12	1955	1955-12-20	27 December 1955	27	12	1955	1955-12-27	New York	New York City	United States		Meeting		LAN
+O415	L2	Isaiah Berlin	W. H. Auden	20 December 1955	20	12	1955	1955-12-20	27 December 1955	27	12	1955	1955-12-27	New York	New York City	United States		Meeting		LAN
+O416	L2	Isaiah Berlin	Sam Behrman	20 December 1955	20	12	1955	1955-12-20	27 December 1955	27	12	1955	1955-12-27	New York	New York City	United States		Meeting		LAN
+O417	L2	Isaiah Berlin	Edmund Wilson	20 December 1955	20	12	1955	1955-12-20	27 December 1955	27	12	1955	1955-12-27	New York	New York City	United States		Meeting		LAN
+O418	L2	Isaiah Berlin	Aline Halban	7 February 1956	07	02	1956	1956-02-07	7 February 1956	07	02	1956	1956-02-07	Hampstead Synagogue	London	England		Married		LAN
+O419	L2	Isaiah Berlin	Times	8 February 1956	08	02	1956	1956-02-08	8 February 1956	08	02	1956	1956-02-08					Article	on IB's wedding	LAN
+O42	L2	Isaiah Berlin	Winston Churchill	April 1948	00	04	1948	1948-04-00	April 1948	00	04	1948	1948-04-00					Gift/Honor	honorarium of 200 guineas	LAN
+O420	L2	Isaiah Berlin	Rev. Mr Levy	8 February 1956	08	02	1956	1956-02-08	8 February 1956	08	02	1956	1956-02-08	Hampstead Synagogue	London	England		Meeting		LAN
+O421	L2	Isaiah Berlin	Marie Berlin	8 February 1956	08	02	1956	1956-02-08	8 February 1956	08	02	1956	1956-02-08	Hampstead Synagogue	London	England		Meeting		LAN
+O422	L2	Isaiah Berlin	Ida Samunov	8 February 1956	08	02	1956	1956-02-08	8 February 1956	08	02	1956	1956-02-08	Hampstead Synagogue	London	England		Meeting		LAN
+O423	L2	Isaiah Berlin	Victor Rothschild	8 February 1956	08	02	1956	1956-02-08	8 February 1956	08	02	1956	1956-02-08	Hampstead Synagogue	London	England		Meeting		LAN
+O424	L2	Isaiah Berlin	Michel Strauss	8 February 1956	08	02	1956	1956-02-08	8 February 1956	08	02	1956	1956-02-08	Hampstead Synagogue	London	England		Meeting		LAN
+O425	L2	Isaiah Berlin	Eliahu Elath	8 February 1956	08	02	1956	1956-02-08	8 February 1956	08	02	1956	1956-02-08	Hampstead Synagogue	London	England		Meeting		LAN
+O426	L2	Isaiah Berlin	Hampstead & Highgate News	10 February 1956	10	02	1956	1956-02-10	10 February 1956	10	02	1956	1956-02-10					Article	on IB's wedding	LAN
+O427	L2	Isaiah Berlin	Hebrew University	10 April 1956	10	04	1956	1956-04-10	11 April 1956	11	04	1956	1956-04-11	Jerusalem	Jerusalem	Israel		Teaching_Lecture	"Orde Wingate Memorial Lectures, ""Two Concepts of Political Thought"""	LAN
+O428	L2	Isaiah Berlin	Vera Weizmann	2 April 1956	02	04	1956	1956-04-02	9 April 1956	09	04	1956	1956-04-09	Rehovot	Rehovot	Israel		Meeting		LAN
+O429	L2	Isaiah Berlin	Pierre Gilbert	9 April 1956	09	04	1956	1956-04-09	12 April 1956	12	04	1956	1956-04-12	Jerusalem	Jerusalem	Israel		Meeting		LAN
+O43	L2	Isaiah Berlin	Observer	19 September 1948	19	09	1948	1948-09-19	19 September 1948	19	09	1948	1948-09-19					Article	"""Karajan: A Study"""	LAN
+O430	L2	Isaiah Berlin	Goronwy Rees::People Magazine	8 April 1956	08	04	1956	1956-04-08	8 April 1956	08	04	1956	1956-04-08					Article	revealing Guy Burgess as Soviet spy; naming IB as one of his associates	LAN
+O431	L2	Isaiah Berlin	Bernard Berenson	12 - 19 April 1956	12	04	1956	1956-04-12	12 - 19 April 1956	19	04	1956	1956-04-19	Florence	Florence	Italy		Meeting		LAN
+O432	L2	Isaiah Berlin	The Times Literary Supplement::E. H. Carr	20 April 1956	20	04	1956	1956-04-20	20 April 1956	20	04	1956	1956-04-20					Article		LAN
+O433	L2	Isaiah Berlin	Encounter	May 1956	00	05	1956	1956-05-00	May 1956	00	05	1956	1956-05-00					Article	IB's Northcliffe Lectures	LAN
+O434	L2	Isaiah Berlin	Opera Sub-Committee	mid June 1955	00	06	1955	1955-06-00	00	00	00	0000	0000-00-00	London	London	England		Affiliation_Formal	IB made member	LAN
+O435	L2	Isaiah Berlin	Nikita Khrushchev	21 April 1956	21	04	1956	1956-04-21	21 April 1956	21	04	1956	1956-04-21	Oxford	Oxford	England		Meeting		LAN
+O436	L2	Isaiah Berlin	Yosef Avidar	August 1956	00	08	1956	1956-08-00	August 1956	00	08	1956	1956-08-00	Moscow 	Moscow	Russia		Meeting		LAN
+O437	L2	Isaiah Berlin	Dmitry Shepilov	August 1956	00	08	1956	1956-08-00	August 1956	00	08	1956	1956-08-00	Moscow 	Moscow	Russia		Meeting		LAN
+O438	L2	Isaiah Berlin	Permskaya Opera	August 1956	00	08	1956	1956-08-00	August 1956	00	08	1956	1956-08-00	Moscow 	Moscow	Russia		Meeting		LAN
+O439	L2	Isaiah Berlin	Chip Bohlen::Avis Bohlen	August 1956	00	08	1956	1956-08-00	August 1956	00	08	1956	1956-08-00	Moscow 	Moscow	Russia		Meeting		LAN
+O44	L2	Isaiah Berlin	Salzberg Music Fesival	August 1948	00	08	1948	1948-08-00	August 1948	00	08	1948	1948-08-00	Salzburg	Salzberg	Austria		Attendance		LAN
+O440	L2	Isaiah Berlin	Lazar Kaganovich	August 1956	00	08	1956	1956-08-00	August 1956	00	08	1956	1956-08-00	Moscow 	Moscow	Russia		Meeting		LAN
+O441	L2	Isaiah Berlin	Boris Pasternak	August 1956	00	08	1956	1956-08-00	August 1956	00	08	1956	1956-08-00	Peredelkino	Peredelkino	Russia		Meeting		LAN
+O442	L3	Isaiah Berlin	Boris Pasternak	August 1956	00	08	1956	1956-08-00	August 1956	00	08	1956	1956-08-00	Peredelkino	Peredelkino	Russia		Gift/Honor	gave IB a copy of Dr Zhivago	LAN
+O443	L2	Isaiah Berlin	Ephraim Halevy	August 1956	00	08	1956	1956-08-00	August 1956	00	08	1956	1956-08-00	Moscow 	Moscow	Russia		Meeting		LAN
+O444	L2	Isaiah Berlin	Zelma Zhmudsky	August 1956	00	08	1956	1956-08-00	August 1956	00	08	1956	1956-08-00	Moscow 	Moscow	Russia		Meeting	IB's aunt. Secret meeting.	LAN
+O445	L2	Isaiah Berlin	British Academy	October 1955	00	10	1955	1955-10-00	October 1955	00	10	1955	1955-10-00	London	London	England		Teaching_Lecture	lecture on Montesquieu	LAN
+O446	L2	Isaiah Berlin	Llewellyn Thompson	August 1956	00	08	1956	1956-08-00	August 1956	00	08	1956	1956-08-00	Italy		Italy		Meeting		LAN
+O447	L2	Isaiah Berlin	Chip Bohlen::Avis Bohlen	August 1956	00	08	1956	1956-08-00	August 1956	00	08	1956	1956-08-00	Italy		Italy		Meeting		LAN
+O448	L2	Isaiah Berlin	Nicolas Nabokov	August 1956	00	08	1956	1956-08-00	August 1956	00	08	1956	1956-08-00	Italy		Italy		Meeting		LAN
+O449	L2	Isaiah Berlin	Ronald Tree	August 1956	00	08	1956	1956-08-00	August 1956	00	08	1956	1956-08-00	Oxford	Oxford	England		Meeting		LAN
+O45	L2	Isaiah Berlin	Chaim Weizmann	August/September 1948	00	08	1948	1948-08-00	August/September 1948	00	09	1948	1948-09-00	Geneva	Geneva	Switzerland		Meeting		LAN
+O450	L2	Isaiah Berlin	Soviet Academy of Philosophy	August 1956	00	08	1956	1956-08-00	August 1956	00	08	1956	1956-08-00					Meeting		LAN
+O451	L2	Isaiah Berlin	UNESCO	November 1956	00	11	1956	1956-11-00	November 1956	00	11	1956	1956-11-00	New Delhi	New Delhi	India		Attendance	IB agreed to be part of UK delegation to General Conference of UNESCO, but had to cancel due to illlness	LAN
+O452	L2	Isaiah Berlin	Teddy Kollek	November 1956	00	11	1956	1956-11-00	November 1956	00	11	1956	1956-11-00	London	London	England		Meeting		LAN
+O453	L2	Isaiah Berlin	BBC	11 December 1956	11	12	1956	1956-12-11	11 December 1956	11	12	1956	1956-12-11					Article	on G. V. Plekhanov	LAN
+O454	L2	Isaiah Berlin	Listener	27 December 1956	27	12	1956	1956-12-27	27 December 1956	27	12	1956	1956-12-27					Article	on IB's BBC broadcast on Plekhanov	LAN
+O455	L2	Isaiah Berlin	Thomas Driberg	August 1956	00	08	1956	1956-08-00	August 1956	00	08	1956	1956-08-00	Indonesian Embassy, Moscow	Moscow	Russia		Meeting		LAN
+O456	L2	Isaiah Berlin	Oxford::Charles Webster	January 1957	00	01	1957	1957-01-00	January 1957	00	01	1957	1957-01-00	Oxford	Oxford	England		Professional_Service	referred IB for Chichele Chair of Social and Political Theory 	LAN
+O457	L2	Isaiah Berlin	Oxford::J. C. Masterman	March 1957	00	03	1957	1957-03-00	March 1957	00	03	1957	1957-03-00	Oxford	Oxford	England		Professional_Service	Elector for Chicele Chair of Social and Political Theory	LAN
+O458	L2	Isaiah Berlin	Oxford::John Sparrow	March 1957	00	03	1957	1957-03-00	March 1957	00	03	1957	1957-03-00	Oxford	Oxford	England		Professional_Service	Elector for Chicele Chair of Social and Political Theory	LAN
+O459	L2	Isaiah Berlin	Oxford::John Habakkuk	March 1957	00	03	1957	1957-03-00	March 1957	00	03	1957	1957-03-00	Oxford	Oxford	England		Professional_Service	Elector for Chicele Chair of Social and Political Theory	LAN
+O46	L2	Shirley Anglesey	Henry Paget	16 October 1948	16	10	1948	1948-10-16	16 October 1948	16	10	1948	1948-10-16	Chiswick Parish Church	London	England		Married		LAN
+O460	L2	Isaiah Berlin	Oxford::George Clark	March 1957	00	03	1957	1957-03-00	March 1957	00	03	1957	1957-03-00	Oxford	Oxford	England		Professional_Service	Elector for Chicele Chair of Social and Political Theory	LAN
+O461	L2	Isaiah Berlin	Oxford::H. L. A. Hart	March 1957	00	03	1957	1957-03-00	March 1957	00	03	1957	1957-03-00	Oxford	Oxford	England		Professional_Service	Elector for Chicele Chair of Social and Political Theory	LAN
+O462	L2	Isaiah Berlin	Oxford::Kenneth Wheare	March 1957	00	03	1957	1957-03-00	March 1957	00	03	1957	1957-03-00	Oxford	Oxford	England		Professional_Service	Elector for Chicele Chair of Social and Political Theory	LAN
+O463	L2	Isaiah Berlin	Oxford::John Austin	March 1957	00	03	1957	1957-03-00	March 1957	00	03	1957	1957-03-00	Oxford	Oxford	England		Professional_Service	Elector for Chicele Chair of Social and Political Theory	LAN
+O464	L2	Isaiah Berlin	H. L. A. Hart	11 January 1951	11	01	1951	1951-01-11	11 January 1951	11	01	1951	1951-01-11					Meeting	went to cinema	LAN
+O465	L2	Isaiah Berlin	Marie Berlin	11 January 1951	11	01	1951	1951-01-11	11 January 1951	11	01	1951	1951-01-11					Meeting	went to cinema	LAN
+O466	L2	Isaiah Berlin	Oxford::Richard Pares	January 1957	00	01	1957	1957-01-00	January 1957	00	01	1957	1957-01-00	Oxford	Oxford	England		Professional_Service	referred IB for Chichele Chair of Social and Political Theory 	LAN
+O467	L2	Isaiah Berlin	Oxford::Robert Ensor	January 1957	00	01	1957	1957-01-00	January 1957	00	01	1957	1957-01-00	Oxford	Oxford	England		Professional_Service	IB asked him for reference for Chichele Chair of Social and Political Theory, changed his mind	LAN
+O468	L2	Isaiah Berlin	Oxford::Gilbert Ryle	January 1957	00	01	1957	1957-01-00	January 1957	00	01	1957	1957-01-00	Oxford	Oxford	England	Professional(?)	Professional_Service	referred IB for Chichele Chair of Social and Political Theory 	LAN
+O469	L2	Isaiah Berlin	Francis Taylor	March 1957	00	03	1957	1957-03-00	March 1957	00	03	1957	1957-03-00	Rome	Rome	Italy		Meeting		LAN
+O47	L2	Isaiah Berlin	Shirley Anglesey::Henry Paget	16 October 1948	16	10	1948	1948-10-16	16 October 1948	16	10	1948	1948-10-16	Chiswick Parish Church	London	England		Meeting	he gave a recording of Marriage of Figaro as a wedding gift	LAN
+O470	L2	Isaiah Berlin	Laurance Roberts	March 1957	00	03	1957	1957-03-00	March 1957	00	03	1957	1957-03-00	Rome	Rome	Italy		Meeting		LAN
+O471	L2	Isaiah Berlin	Times::Miriam Rothschild	13 May 1957	13	05	1957	1957-05-13	13 May 1957	13	05	1957	1957-05-13					Article	Obituary for James de Rothschild	LAN
+O472	L2	Isaiah Berlin	Adlai Stevenson	24 May 1957	24	05	1957	1957-05-24	24 May 1957	24	05	1957	1957-05-24	Oxford	Oxford	England		Attendance	"Stevenson gave lecture ""The Common Task of the United States and the Commonwealth"" after reeiving honorary degree from Oxford"	LAN
+O473	L2	Isaiah Berlin	Queen Elizabeth II	13 June 1957	13	06	1957	1957-06-13	13 June 1957	13	06	1957	1957-06-13					Gift/Honor	Awarded Knighthood in Birthday Honours	LAN
+O474	L2	Isaiah Berlin	British Academy	10 July 1957	10	07	1957	1957-07-10	10 July 1957	10	07	1957	1957-07-10					Affiliation_Formal	Elected Fellow of British Academy	LAN
+O475	L2	Isaiah Berlin	Lindsay Wellington	July 1957	00	07	1957	1957-07-00	July 1957	00	07	1957	1957-07-00					Meeting	on funding cuts to BBC's Third Programme	LAN
+O476	L2	Isaiah Berlin	John Morris	July 1957	00	07	1957	1957-07-00	July 1957	00	07	1957	1957-07-00					Meeting		LAN
+O477	L2	Isaiah Berlin	Queen Elizabeth II	16 July 1957	16	07	1957	1957-07-16	16 July 1957	16	07	1957	1957-07-16	Buckingham Palace	London	England		Meeting	IB officially dubbed a knight	LAN
+O478	L2	Isaiah Berlin	Queen Elizabeth II	11 June 1957	11	06	1957	1957-06-11	11 June 1957	11	06	1957	1957-06-11					Meeting	Lunch. Written about in the NYT (18 August 1957)	LAN
+O479	L2	Isaiah Berlin	Foreign Affairs	August 1957	00	08	1957	1957-08-00	August 1957	00	08	1957	1957-08-00					Article	series of articles on Soviet culture	LAN
+O48	L2	Isaiah Berlin	George Weidenfeld	16 October 1948	16	10	1948	1948-10-16	16 October 1948	16	10	1948	1948-10-16	Chiswick Parish Church	London	England		Meeting		LAN
+O480	L2	Isaiah Berlin	Rowland Burdon-Muller	October 1957	00	10	1957	1957-10-00	October 1957	00	10	1957	1957-10-00					Gift/Honor	Edmund Wilson's article on Turgenev, printed in New Yorker	LAN
+O481	L2	Isaiah Berlin	Hugh Trevor-Roper	12 November 1957	12	11	1957	1957-11-12	12 November 1957	12	11	1957	1957-11-12	Oxford	Oxford	England		Attendance	"IB attended his inagural lecture, ""History: Professional and Lay"""	LAN
+O482	L2	Isaiah Berlin	Gerard Wellesley	12 November 1957	12	11	1957	1957-11-12	12 November 1957	12	11	1957	1957-11-12	Oxford	Oxford	England		Meeting	at Trevor-Roper's inagural lecture	LAN
+O483	L2	Isaiah Berlin	Alexandra Trevor-Roper	12 November 1957	12	11	1957	1957-11-12	12 November 1957	12	11	1957	1957-11-12	Oxford	Oxford	England		Meeting		LAN
+O484	L2	Isaiah Berlin	Victoria Scott	12 November 1957	12	11	1957	1957-11-12	12 November 1957	12	11	1957	1957-11-12	Oxford	Oxford	England		Meeting		LAN
+O485	L2	Isaiah Berlin	Elizabeth Bowen	12 November 1957	12	11	1957	1957-11-12	12 November 1957	12	11	1957	1957-11-12	Oxford	Oxford	England		Meeting		LAN
+O486	L2	Isaiah Berlin	Nancy Lancaster	12 November 1957	12	11	1957	1957-11-12	12 November 1957	12	11	1957	1957-11-12	Oxford	Oxford	England		Meeting		LAN
+O487	L2	Isaiah Berlin	Jewish Historical Society	11 December 1957	11	12	1957	1957-12-11	11 December 1957	11	12	1957	1957-12-11	Friends House, London	London	England		Teaching_Lecture	Lucien Wolf Memorial Lecture on Moses Hess	LAN
+O488	L2	Isaiah Berlin	Italian Institute	12 December 1957	12	12	1957	1957-12-12	12 December 1957	12	12	1957	1957-12-12	Italian Institute	London	England		Teaching_Lecture	speech on Gaetano Salvemini	LAN
+O489	L2	Isaiah Berlin	George Gooch	12 December 1957	12	12	1957	1957-12-12	12 December 1957	12	12	1957	1957-12-12	Italian Institute	London	England		Meeting	at Italian Institute	LAN
+O49	L2	Isaiah Berlin	Violet Bonham Carter	16 October 1948	16	10	1948	1948-10-16	16 October 1948	16	10	1948	1948-10-16	Chiswick Parish Church	London	England		Meeting		LAN
+O490	L2	Isaiah Berlin	Arthur Waley	12 December 1957	12	12	1957	1957-12-12	12 December 1957	12	12	1957	1957-12-12	Italian Institute	London	England		Meeting	at Italian Institute	LAN
+O491	L2	Isaiah Berlin	David Cecil	17 December 1957	17	12	1957	1957-12-17	17 December 1957	17	12	1957	1957-12-17	Oxford	Oxford	England		Meeting		LAN
+O492	L2	Isaiah Berlin	Philip Toynbee	December 1957	00	12	1957	1957-12-00	December 1957	00	12	1957	1957-12-00					Professional_Advising	sent IB his essay on nuclear policy for comment. 	LAN
+O493	L2	Isaiah Berlin	Bernard Berenson	April 1958	00	04	1958	1958-04-00	April 1958	00	04	1958	1958-04-00	Vallombrosa	Vallombrosa	Italy		Meeting		LAN
+O494	L2	Isaiah Berlin	William Fisher	April 1958	00	04	1958	1958-04-00	April 1958	00	04	1958	1958-04-00	Florence	Florence	Italy		Meeting		LAN
+O495	L2	Isaiah Berlin	Giorgio La Pira	April 1958	00	04	1958	1958-04-00	April 1958	00	04	1958	1958-04-00	Florence	Florence	Italy		Meeting		LAN
+O496	L2	Isaiah Berlin	Avner Freudenberg	April 1958	00	04	1958	1958-04-00	April 1958	00	04	1958	1958-04-00	S.S. Jerusalem				Meeting		LAN
+O497	L2	Isaiah Berlin	Dan Avni	April 1958	00	04	1958	1958-04-00	April 1958	00	04	1958	1958-04-00	S.S. Jerusalem				Meeting		LAN
+O498	L2	Isaiah Berlin	Lewis Namier	April 1958	00	04	1958	1958-04-00	April 1958	00	04	1958	1958-04-00	S.S. Jerusalem				Meeting		LAN
+O499	L2	Isaiah Berlin	British Council	May 1958	00	05	1958	1958-05-00	May 1958	00	05	1958	1958-05-00					Professional_Service	invitation to visit USSR for informal talks	LAN
+O5	L2	Isaiah Berlin	Joseph Alsop	(early August) 1946	00	08	1946	1946-08-00	(early August) 1946	00	08	1946	1946-08-00	Paris	Paris	France		Meeting		LAN
+O50	L2	Isaiah Berlin	Diana Cooper	16 October 1948	16	10	1948	1948-10-16	16 October 1948	16	10	1948	1948-10-16	Chiswick Parish Church	London	England		Meeting		LAN
+O500	L2	Isaiah Berlin	Josephine Pasternak	May 1958	00	05	1958	1958-05-00	May 1958	00	05	1958	1958-05-00					Gift/Honor	The Reunion (1917), Leonid Pasternak	LAN
+O501	L2	Isaiah Berlin	Dmitry Shastakovich	24 June 1958	24	06	1958	1958-06-24	26 June 1958	26	06	1958	1958-06-26	Oxford	Oxford	England		Meeting	Shostakovich and Poulenc given honorary degrees	LAN
+O502	L2	Isaiah Berlin	Francis Poulenc	24 June 1958	24	06	1958	1958-06-24	26 June 1958	26	06	1958	1958-06-26	Oxford	Oxford	England		Meeting	Shostakovich and Poulenc given honorary degrees	LAN
+O503	L2	Isaiah Berlin	Hugh Trevor-Roper	24 June 1958	24	06	1958	1958-06-24	26 June 1958	26	06	1958	1958-06-26	Oxford	Oxford	England		Meeting	Shostakovich and Poulenc given honorary degrees	LAN
+O504	L2	Isaiah Berlin	British Council	24 June 1958	24	06	1958	1958-06-24	26 June 1958	26	06	1958	1958-06-26	Oxford	Oxford	England		Meeting	Shostakovich and Poulenc given honorary degrees	LAN
+O505	L2	Isaiah Berlin	Y. Loginov	24 June 1958	24	06	1958	1958-06-24	24 June 1958	24	06	1958	1958-06-24	Oxford	Oxford	England		Meeting	Shostakovich and Poulenc given honorary degrees	LAN
+O506	L2	Isaiah Berlin	Cecile de Rothschild	25 June 1958	25	06	1958	1958-06-25	25 June 1958	25	06	1958	1958-06-25	Oxford	Oxford	England		Meeting	Shostakovich and Poulenc given honorary degrees	LAN
+O507	L2	Isaiah Berlin	James Smith	25 June 1958	25	06	1958	1958-06-25	25 June 1958	25	06	1958	1958-06-25	Oxford	Oxford	England		Meeting	Shostakovich and Poulenc given honorary degrees	LAN
+O508	L2	Isaiah Berlin	Margaret Ritchie	25 June 1958	25	06	1958	1958-06-25	25 June 1958	25	06	1958	1958-06-25	Oxford	Oxford	England		Meeting	Shostakovich and Poulenc given honorary degrees	LAN
+O509	L2	Isaiah Berlin	Desmond Shawe-Taylor	25 June 1958	25	06	1958	1958-06-25	25 June 1958	25	06	1958	1958-06-25	Oxford	Oxford	England		Meeting	Shostakovich and Poulenc given honorary degrees	LAN
+O51	L2	Isaiah Berlin	Duff Cooper	16 October 1948	16	10	1948	1948-10-16	16 October 1948	16	10	1948	1948-10-16	Chiswick Parish Church	London	England		Meeting		LAN
+O510	L2	Isaiah Berlin	Harry Hodson	25 June 1958	25	06	1958	1958-06-25	25 June 1958	25	06	1958	1958-06-25	Oxford	Oxford	England		Meeting	Shostakovich and Poulenc given honorary degrees	LAN
+O511	L2	Isaiah Berlin	William Beveridge	25 June 1958	25	06	1958	1958-06-25	25 June 1958	25	06	1958	1958-06-25	Oxford	Oxford	England		Meeting	Shostakovich and Poulenc given honorary degrees	LAN
+O512	L2	Isaiah Berlin	Opera Sub-Committee	10 July 1958	10	07	1958	1958-07-10	10 July 1958	10	07	1958	1958-07-10	London	London	England		Meeting	Opera Sub-Committee Meeting	LAN
+O513	L2	Isaiah Berlin	Thomas Armstrong	10 July 1958	10	07	1958	1958-07-10	10 July 1958	10	07	1958	1958-07-10	London	London	England		Meeting	Opera Sub-Committee Meeting	LAN
+O514	L2	Isaiah Berlin	John Donaldson	10 July 1958	10	07	1958	1958-07-10	10 July 1958	10	07	1958	1958-07-10	London	London	England		Meeting	Opera Sub-Committee Meeting	LAN
+O515	L2	Isaiah Berlin	Garrett Moore	10 July 1958	10	07	1958	1958-07-10	10 July 1958	10	07	1958	1958-07-10	London	London	England		Meeting	Opera Sub-Committee Meeting	LAN
+O516	L2	Isaiah Berlin	Richard Pipes	5 September 1958	05	09	1958	1958-09-05	5 September 1958	05	09	1958	1958-09-05					Professional_Advising	invitation to contribute to book on Russian Intelligentsia	LAN
+O517	L2	Isaiah Berlin	Italian Institute	(1960)	00	00	1960	1960-00-00	(1960)	00	00	(1960)	(1960)-00-00					Article	essay on Giambittsta Vico (printed in Art and Ideas in Eighteenth-Century Italy in 1960; IB wrote would be published in Institute proceedings)	LAN
+O518	L2	Isaiah Berlin	Franco Venturi	(1960)	00	00	1960	1960-00-00	(1960)	00	00	(1960)	(1960)-00-00					Article	introduction to his book, Roots of Revolution, published in 1960	LAN
+O519	L2	Isaiah Berlin	Igor Stravinsky	19 September 1958	19	09	1958	1958-09-19	19 September 1958	19	09	1958	1958-09-19	Venice	Venice	Italy		Attendance	heard Rite of Spring, Oedipus	LAN
+O52	L2	Isaiah Berlin	Charlotte Bonham Carter	16 October 1948	16	10	1948	1948-10-16	16 October 1948	16	10	1948	1948-10-16	Chiswick Parish Church	London	England		Meeting		LAN
+O520	L2	Isaiah Berlin	Igor Stravinsky	1956	00	00	1956	1956-00-00	1956	00	00	1956	1956-00-00					Meeting		LAN
+O521	L2	Isaiah Berlin	Edgar Wind	October 1958	00	10	1958	1958-10-00	October 1958	00	10	1958	1958-10-00					Gift/Honor	Wind's book, Pagan Mysteries in the Renaissance	LAN
+O522	L2	Isaiah Berlin	Oxford	31 October 1958	31	10	1958	1958-10-31	31 October 1958	31	10	1958	1958-10-31	Oxford	Oxford	England		Professional	"Gave Inagural Lecture, ""Two Concepts of Liberty"""	LAN
+O523	L2	Isaiah Berlin	Susan Mary Patten	31 October 1958	31	10	1958	1958-10-31	31 October 1958	31	10	1958	1958-10-31	Oxford	Oxford	England		Attendance	attended Inagural Lecture	LAN
+O524	L2	Isaiah Berlin	Pamela Barry	31 October 1958	31	10	1958	1958-10-31	31 October 1958	31	10	1958	1958-10-31	Oxford	Oxford	England		Attendance	attended Inagural Lecture	LAN
+O525	L2	Isaiah Berlin	Hugh Trevor-Roper	31 October 1958	31	10	1958	1958-10-31	31 October 1958	31	10	1958	1958-10-31	Oxford	Oxford	England		Attendance	attended Inagural Lecture	LAN
+O526	L2	Isaiah Berlin	Oxford Mail	1 November 1958	01	11	1958	1958-11-01	1 November 1958	01	11	1958	1958-11-01					Article_Review	review of Inagural Lecture	LAN
+O527	L2	Isaiah Berlin	Stephen Spender	31 October 1958	31	10	1958	1958-10-31	31 October 1958	31	10	1958	1958-10-31	Oxford	Oxford	England		Attendance	attended Inagural Lecture	LAN
+O528	L2	Isaiah Berlin	James Monahan	October 1958	00	10	1958	1958-10-00	October 1958	00	10	1958	1958-10-00	Oxford	Oxford	England		Meeting		LAN
+O529	L2	Isaiah Berlin	H. L. A. Hart	31 October 1958	31	10	1958	1958-10-31	31 October 1958	31	10	1958	1958-10-31	Oxford	Oxford	England		Attendance	attended Inagural Lecture	LAN
+O53	L2	Isaiah Berlin	Rose Macaulay	16 October 1948	16	10	1948	1948-10-16	16 October 1948	16	10	1948	1948-10-16	Chiswick Parish Church	London	England		Meeting		LAN
+O530	L2	Isaiah Berlin	John Sparrow	31 October 1958	31	10	1958	1958-10-31	31 October 1958	31	10	1958	1958-10-31	Oxford	Oxford	England		Attendance	attended Inagural Lecture	LAN
+O531	L2	Isaiah Berlin	Edgar Wind	31 October 1958	31	10	1958	1958-10-31	31 October 1958	31	10	1958	1958-10-31	Oxford	Oxford	England		Attendance	attended Inagural Lecture	LAN
+O532	L2	Isaiah Berlin	Maurice Bowra	31 October 1958	31	10	1958	1958-10-31	31 October 1958	31	10	1958	1958-10-31	Oxford	Oxford	England		Attendance	attended Inagural Lecture	LAN
+O533	L2	Isaiah Berlin	Covent Garden Directors	17 December 1958	17	12	1958	1958-12-17	17 December 1958	17	12	1958	1958-12-17	London	London	England		Meeting		LAN
+O534	L2	Isaiah Berlin	Richard Nixon	25 November 1958	25	11	1958	1958-11-25	25 November 1958	25	11	1958	1958-11-25	London	London	England		Meeting	Prime Minister's dinner before dedicating American Memorial Chapel in St. Paul's Cathedral	LAN
+O535	L2	Isaiah Berlin	Harold Macmillan	25 November 1958	25	11	1958	1958-11-25	25 November 1958	25	11	1958	1958-11-25	London	London	England		Meeting	Prime Minister's dinner before dedicating American Memorial Chapel in St. Paul's Cathedral	LAN
+O536	L2	Isaiah Berlin	Dorothy Macmillan	25 November 1958	25	11	1958	1958-11-25	25 November 1958	25	11	1958	1958-11-25	London	London	England		Meeting	Prime Minister's dinner before dedicating American Memorial Chapel in St. Paul's Cathedral	LAN
+O537	L2	Isaiah Berlin	Clive Baillieu::Ruby Baillieu	25 November 1958	25	11	1958	1958-11-25	25 November 1958	25	11	1958	1958-11-25	London	London	England		Meeting	Prime Minister's dinner before dedicating American Memorial Chapel in St. Paul's Cathedral	LAN
+O538	L2	Isaiah Berlin	William Rootes::Ann Rootes	25 November 1958	25	11	1958	1958-11-25	25 November 1958	25	11	1958	1958-11-25	London	London	England		Meeting	Prime Minister's dinner before dedicating American Memorial Chapel in St. Paul's Cathedral	LAN
+O539	L2	Isaiah Berlin	David Fyfe::Sylvia Fyfe	25 November 1958	25	11	1958	1958-11-25	25 November 1958	25	11	1958	1958-11-25	London	London	England		Meeting	Prime Minister's dinner before dedicating American Memorial Chapel in St. Paul's Cathedral	LAN
+O54	L2	Isaiah Berlin	Mark Bonham Carter	16 October 1948	16	10	1948	1948-10-16	16 October 1948	16	10	1948	1948-10-16	Chiswick Parish Church	London	England		Meeting		LAN
+O540	L2	Isaiah Berlin	Selwyn Lloyd	25 November 1958	25	11	1958	1958-11-25	25 November 1958	25	11	1958	1958-11-25	London	London	England		Meeting	Prime Minister's dinner before dedicating American Memorial Chapel in St. Paul's Cathedral	LAN
+O541	L2	Isaiah Berlin	John Wheeler-Bennett	25 November 1958	25	11	1958	1958-11-25	25 November 1958	25	11	1958	1958-11-25	London	London	England		Meeting	Prime Minister's dinner before dedicating American Memorial Chapel in St. Paul's Cathedral	LAN
+O542	L2	Isaiah Berlin	Ruth Wheeler-Bennett	25 November 1958	25	11	1958	1958-11-25	25 November 1958	25	11	1958	1958-11-25	London	London	England		Meeting	Prime Minister's dinner before dedicating American Memorial Chapel in St. Paul's Cathedral	LAN
+O543	L2	Isaiah Berlin	Frank Soskice	25 November 1958	25	11	1958	1958-11-25	25 November 1958	25	11	1958	1958-11-25	London	London	England		Meeting	Prime Minister's dinner before dedicating American Memorial Chapel in St. Paul's Cathedral	LAN
+O544	L2	Isaiah Berlin	Doreen Soskice	25 November 1958	25	11	1958	1958-11-25	25 November 1958	25	11	1958	1958-11-25	London	London	England		Meeting	Prime Minister's dinner before dedicating American Memorial Chapel in St. Paul's Cathedral	LAN
+O545	L2	Isaiah Berlin	Robert Willis	25 November 1958	25	11	1958	1958-11-25	25 November 1958	25	11	1958	1958-11-25	London	London	England		Meeting	Prime Minister's dinner before dedicating American Memorial Chapel in St. Paul's Cathedral	LAN
+O546	L2	Isaiah Berlin	Doreen Brabourne	25 November 1958	25	11	1958	1958-11-25	25 November 1958	25	11	1958	1958-11-25	London	London	England		Meeting	Prime Minister's dinner before dedicating American Memorial Chapel in St. Paul's Cathedral	LAN
+O547	L2	Isaiah Berlin	Patricia Nixon	25 November 1958	25	11	1958	1958-11-25	25 November 1958	25	11	1958	1958-11-25	London	London	England		Meeting	Prime Minister's dinner before dedicating American Memorial Chapel in St. Paul's Cathedral	LAN
+O548	L2	Isaiah Berlin	Henry Jackson	25 November 1958	25	11	1958	1958-11-25	25 November 1958	25	11	1958	1958-11-25	London	London	England		Meeting	Prime Minister's dinner before dedicating American Memorial Chapel in St. Paul's Cathedral	LAN
+O549	L2	Isaiah Berlin	Gordon Canfield	25 November 1958	25	11	1958	1958-11-25	25 November 1958	25	11	1958	1958-11-25	London	London	England		Meeting	Prime Minister's dinner before dedicating American Memorial Chapel in St. Paul's Cathedral	LAN
+O55	L2	Isaiah Berlin	Caroline Paget	16 October 1948	16	10	1948	1948-10-16	16 October 1948	16	10	1948	1948-10-16	Chiswick Parish Church	London	England		Meeting		LAN
+O550	L2	Isaiah Berlin	Julian Amery	25 November 1958	25	11	1958	1958-11-25	25 November 1958	25	11	1958	1958-11-25	London	London	England		Meeting	Prime Minister's dinner before dedicating American Memorial Chapel in St. Paul's Cathedral	LAN
+O551	L2	Isaiah Berlin	Catherine Amery	25 November 1958	25	11	1958	1958-11-25	25 November 1958	25	11	1958	1958-11-25	London	London	England		Meeting	Prime Minister's dinner before dedicating American Memorial Chapel in St. Paul's Cathedral	LAN
+O552	L2	Isaiah Berlin	Frederick Bishop	25 November 1958	25	11	1958	1958-11-25	25 November 1958	25	11	1958	1958-11-25	London	London	England		Meeting	Prime Minister's dinner before dedicating American Memorial Chapel in St. Paul's Cathedral	LAN
+O553	L2	Isaiah Berlin	Agnes Morgan	26 November 1958	26	11	1958	1958-11-26	26 November 1958	26	11	1958	1958-11-26					Meeting		LAN
+O554	L2	Isaiah Berlin	Edgar Wind	26 November 1958	26	11	1958	1958-11-26	26 November 1958	26	11	1958	1958-11-26					Meeting		LAN
+O555	L2	Isaiah Berlin	John Whitney	25 November 1958	25	11	1958	1958-11-25	25 November 1958	25	11	1958	1958-11-25	London	London	England		Meeting	Prime Minister's dinner before dedicating American Memorial Chapel in St. Paul's Cathedral	LAN
+O556	L2	Isaiah Berlin	Harold Caccia	25 November 1958	25	11	1958	1958-11-25	25 November 1958	25	11	1958	1958-11-25	London	London	England		Meeting	Prime Minister's dinner before dedicating American Memorial Chapel in St. Paul's Cathedral	LAN
+O557	L2	Isaiah Berlin	Leon Simon	November - December 1958	00	11	1958	1958-11-00	November - December 1958	00	12	1958	1958-12-00					Meeting		LAN
+O558	L2	Isaiah Berlin	Arthur Schlesinger	January 1959	00	01	1959	1959-01-00	January 1959	00	01	1959	1959-01-00	Oxford	Oxford	England		Meeting		LAN
+O559	L2	Isaiah Berlin	Marian Schlesinger	January 1959	00	01	1959	1959-01-00	January 1959	00	01	1959	1959-01-00	Oxford	Oxford	England		Meeting		LAN
+O56	L2	Isaiah Berlin	Queen Mary	16 October 1948	16	10	1948	1948-10-16	16 October 1948	16	10	1948	1948-10-16	Chiswick Parish Church	London	England		Meeting		LAN
+O560	L2	Isaiah Berlin	Morton White	January 1959	00	01	1959	1959-01-00	January 1959	00	01	1959	1959-01-00					Gift/Honor	White's book, Religion, Politics, and the Higher Learning	LAN
+O561	L2	Isaiah Berlin	Karl Popper	February 1959	00	02	1959	1959-02-00	February 1959	00	02	1959	1959-02-00					Gift/Honor	IB's book, Two Concepts of Liberty 	LAN
+O562	L2	Isaiah Berlin	British Foreign Office	20 March 1959	20	03	1959	1959-03-20	20 March 1959	20	03	1959	1959-03-20					Professional_Advising	invitation to advise on English literature which should be published in the USSR	LAN
+O563	L2	Isaiah Berlin	Bath Festival	4 June 1959	04	06	1959	1959-06-04	4 June 1959	04	06	1959	1959-06-04	Bath	Bath	England		Article_Interview	IB chaired symposium	LAN
+O564	L2	Isaiah Berlin	Bath Festival	4 June 1959	04	06	1959	1959-06-04	4 June 1959	04	06	1959	1959-06-04	Bath	Bath	England		Attendance		LAN
+O565	L2	Isaiah Berlin	Yehudi Menuhin	4 June 1959	04	06	1959	1959-06-04	4 June 1959	04	06	1959	1959-06-04	Bath	Bath	England		Meeting	spoke at Bath Festival symposium	LAN
+O566	L2	Isaiah Berlin	Nicolas Nabokov	4 June 1959	04	06	1959	1959-06-04	4 June 1959	04	06	1959	1959-06-04	Bath	Bath	England		Meeting	spoke at Bath Festival symposium	LAN
+O567	L2	Isaiah Berlin	William Glock	4 June 1959	04	06	1959	1959-06-04	4 June 1959	04	06	1959	1959-06-04	Bath	Bath	England		Meeting	spoke at Bath Festival symposium	LAN
+O568	L2	Bath Festval	Yehudi Menuhin	4 June 1959	04	06	1959	1959-06-04	4 June 1959	04	06	1959	1959-06-04	Bath	Bath	England		Article_Interview		
+O569	L2	Bath Festval	Nicolas Nabokov	4 June 1959	04	06	1959	1959-06-04	4 June 1959	04	06	1959	1959-06-04	Bath	Bath	England		Article_Interview		
+O57	L2	Isaiah Berlin	Gladwyn Jebb	16 October 1948	16	10	1948	1948-10-16	16 October 1948	16	10	1948	1948-10-16	Chiswick Parish Church	London	England		Meeting		LAN
+O570	L2	Bath Festval	William Glock	4 June 1959	04	06	1959	1959-06-04	4 June 1959	04	06	1959	1959-06-04	Bath	Bath	England		Article_Interview		
+O571	L2	Isaiah Berlin	Jewish Chronicle	5 June 1959	05	06	1959	1959-06-05	5 June 1959	05	06	1959	1959-06-05					Article	profile to celebrate IB's 50th birthday	LAN
+O572	L2	Isaiah Berlin	Martin Braun	early July 1959	00	07	1959	1959-07-00	early July 1959	00	07	1959	1959-07-00					Gift/Honor	Braun sent IB a script of his BBC talk	LAN
+O573	L2	Isaiah Berlin	The Queen Mother	30 June 1959	30	06	1959	1959-06-30	30 June 1959	30	06	1959	1959-06-30	Harewood House	Leeds	England		Meeting		LAN
+O574	L2	Isaiah Berlin	Maria Callas	30 June 1959	30	06	1959	1959-06-30	30 June 1959	30	06	1959	1959-06-30	Harewood House	Leeds	England		Meeting		LAN
+O575	L2	Isaiah Berlin	Ruth Roche	30 June 1959	30	06	1959	1959-06-30	30 June 1959	30	06	1959	1959-06-30	Harewood House	Leeds	England		Meeting		LAN
+O576	L2	Isaiah Berlin	Eva Rosebury	30 June 1959	30	06	1959	1959-06-30	30 June 1959	30	06	1959	1959-06-30	Harewood House	Leeds	England		Meeting		LAN
+O577	L2	Isaiah Berlin	Anthony Gishford	30 June 1959	30	06	1959	1959-06-30	30 June 1959	30	06	1959	1959-06-30	Harewood House	Leeds	England		Meeting		LAN
+O578	L2	Isaiah Berlin	David Webster	30 June 1959	30	06	1959	1959-06-30	30 June 1959	30	06	1959	1959-06-30	Harewood House	Leeds	England		Meeting		LAN
+O579	L2	Isaiah Berlin	George Lascelles	30 June 1959	30	06	1959	1959-06-30	30 June 1959	30	06	1959	1959-06-30	Harewood House	Leeds	England		Meeting		LAN
+O58	L2	Isaiah Berlin	Rene Massigli	16 October 1948	16	10	1948	1948-10-16	16 October 1948	16	10	1948	1948-10-16	Chiswick Parish Church	London	England		Meeting		LAN
+O580	L2	Isaiah Berlin	Arthur Penn	30 June 1959	30	06	1959	1959-06-30	30 June 1959	30	06	1959	1959-06-30	Harewood House	Leeds	England		Meeting		LAN
+O581	L2	Isaiah Berlin	Guy Salisbury-Jones	30 June 1959	30	06	1959	1959-06-30	30 June 1959	30	06	1959	1959-06-30	Harewood House	Leeds	England		Meeting		LAN
+O582	L2	Isaiah Berlin	Harry Primrose	30 June 1959	30	06	1959	1959-06-30	30 June 1959	30	06	1959	1959-06-30	Harewood House	Leeds	England		Meeting		LAN
+O583	L2	Isaiah Berlin	Opera Sub-Committee	October 1959	00	10	1959	1959-10-00	October 1959	00	10	1959	1959-10-00	Covent Gardens	London	England		Affiliation_Formal	IB became Chairman of Opera Sub-Committee	LAN
+O584	L2	Isaiah Berlin	Iris Origo	August 1959	00	08	1959	1959-08-00	August 1959	00	08	1959	1959-08-00	Villa Ciperessina	Portofino	Italy		Meeting		LAN
+O585	L2	Isaiah Berlin	Igor Stravinsky	November 1959	00	11	1959	1959-11-00	November 1959	00	11	1959	1959-11-00	London	London	England		Meeting	IB arranged his stay at the Ritz in London	LAN
+O586	L2	Isaiah Berlin	X, A Quarterly Review	31 July 1959	31	07	1959	1959-07-31	31 July 1959	31	07	1959	1959-07-31					Professional_Service	invitation to write on Romantic Exhibition in London	LAN
+O587	L2	Isaiah Berlin	New Statesman::Jasper Ungoed-Thomas	10 October 1959	10	10	1959	1959-10-10	10 October 1959	10	10	1959	1959-10-10					Article	on IB's Two Concepts of Liberty	LAN
+O588	L2	Isaiah Berlin	New Statesman::Jasper Ungoed-Thomas	17 October 1959	17	10	1959	1959-10-17	17 October 1959	17	10	1959	1959-10-17					Article	IB's response to 10 October article	LAN
+O589	L2	Isaiah Berlin	New Statesman::Jasper Ungoed-Thomas	24 October 1959	24	10	1959	1959-10-24	24 October 1959	24	10	1959	1959-10-24					Article	on IB's Two Concepts of Liberty	LAN
+O59	L2	Isaiah Berlin	Gertrud von Hofmannsthal	16 October 1948	16	10	1948	1948-10-16	16 October 1948	16	10	1948	1948-10-16	Chiswick Parish Church	London	England		Meeting		LAN
+O590	L2	Isaiah Berlin	New Statesman::Jasper Ungoed-Thomas	31 October 1959	31	10	1959	1959-10-31	31 October 1959	31	10	1959	1959-10-31					Article	IB's response to 24 October article	LAN
+O591	L2	Isaiah Berlin	Oxford University Press	1948	00	00	1948	1948-00-00	1948	00	00	1948	1948-00-00					Professional_Service	invitation to write a book (History of Ideas in Europe, 1789 - 1848) for the Oxford History of Modern Europe series	LAN
+O592	L2	Isaiah Berlin	Oxford University Press	5 November 1959	05	11	1959	1959-11-05	5 November 1959	05	11	1959	1959-11-05					Professional_Service	request for specimen chapter for Oxford History of Modern Europe book	LAN
+O593	L2	Isaiah Berlin	Oxford University Press	11 November 1959	11	11	1959	1959-11-11	11 November 1959	11	11	1959	1959-11-11					Professional_Service	IB requests additional time to complete book	LAN
+O594	L2	Isaiah Berlin	Oxford University Press	24 November 1959	24	11	1959	1959-11-24	24 November 1959	24	11	1959	1959-11-24					Professional_Service	OUP will wait for IB. (the book is never written.)	LAN
+O595	L2	Isaiah Berlin	Jewish Observer and Middle East Review	4 December 1959	04	12	1959	1959-12-04	4 December 1959	04	12	1959	1959-12-04					Article_Review	review of IB's lecture on Moses Hess	LAN
+O596	L2	Isaiah Berlin	Jewish Observer and Middle East Review	18 December 1959	18	12	1959	1959-12-18	18 December 1959	18	12	1959	1959-12-18					Article	IB's response to 4 December article	LAN
+O597	L2	Isaiah Berlin	American Historical Association	28 December 1959	28	12	1959	1959-12-28	28 December 1959	28	12	1959	1959-12-28	Chicago	Chicago	United States		Teaching_Lecture	"presented paper ""On the Notion of Scientific History"""	LAN
+O598	L2	Isaiah Berlin	Jewish Theological Seminary of America	20 December 1959	20	12	1959	1959-12-20	20 December 1959	20	12	1959	1959-12-20	New York	New York City	United States		Gift/Honor	IB received honorary degree (Doctor of Laws)	LAN
+O599	L2	Isaiah Berlin	Jacob Snowman	January 1955	00	01	1955	1955-01-00	January 1955	00	01	1955	1955-01-00	Hampstead	London	England		Meeting	referred IB to Leo Rau	LAN
+O6	L2	Isaiah Berlin	Charles Bohlen	(early August) 1946	00	08	1946	1946-08-00	(early August) 1946	00	08	1946	1946-08-00	Paris	Paris	France		Meeting		LAN
+O60	L2	Isaiah Berlin	Octavian von Hofmannsthal	16 October 1948	16	10	1948	1948-10-16	16 October 1948	16	10	1948	1948-10-16	Chiswick Parish Church	London	England		Meeting		LAN
+O600	L2	Isaiah Berlin	Carl Goldman	March 1959	00	03	1959	1959-03-00	March 1959	00	03	1959	1959-03-00	London	London	England		Meeting		LAN
+O601	L2	Isaiah Berlin	Metropolitan Opera	December 1959	00	12	1959	1959-12-00	December 1959	00	12	1959	1959-12-00	New York	New York City	United States		Attendance	saw Figaro, Tristan	LAN
+O602	L2	Isaiah Berlin	Royal Opera	January 1960	00	01	1960	1960-01-00	January 1960	00	01	1960	1960-01-00	London	London	England		Attendance	saw Traviata	LAN
+O603	L2	Isaiah Berlin	Joan Sutherland	January 1960	00	01	1960	1960-01-00	January 1960	00	01	1960	1960-01-00	London	London	England		Attendance	sang in Traviata	LAN
+O604	L2	Isaiah Berlin	Nello Santi	January 1960	00	01	1960	1960-01-00	January 1960	00	01	1960	1960-01-00	London	London	England		Attendance	conducted Traviata	LAN
+O605	L2	Isaiah Berlin	David Webster	January 1960	00	01	1960	1960-01-00	January 1960	00	01	1960	1960-01-00	London	London	England		Meeting		LAN
+O606	L2	Isaiah Berlin	John Austin	January 1960	00	01	1960	1960-01-00	8 February 1960	08	02	1960	1960-02-08	Oxford	Oxford	England		Meeting	visited once a week during Austin's illness	LAN
+O607	L2	Isaiah Berlin	Carl Hempel::Gilbert Ryle	January 1960	00	01	1960	1960-01-00	January 1960	00	01	1960	1960-01-00	Oxford	Oxford	England		Attendance	taught a class on historical explanation	LAN
+O608	L2	Isaiah Berlin	Harry Levin	December 1959	00	12	1959	1959-12-00	December 1959	00	12	1959	1959-12-00	Cambridge	Cambridge	United States		Meeting		LAN
+O609	L2	Isaiah Berlin	Edmund Wilson	December 1959	00	12	1959	1959-12-00	December 1959	00	12	1959	1959-12-00	Cambridge	Cambridge	United States		Meeting		LAN
+O61	L2	Isaiah Berlin	Maurice Bonham Carter	16 October 1948	16	10	1948	1948-10-16	16 October 1948	16	10	1948	1948-10-16	Chiswick Parish Church	London	England		Meeting		LAN
+O610	L2	Isaiah Berlin	Maurice Bowra	3 March 1960	03	03	1960	1960-03-03	3 March 1960	03	03	1960	1960-03-03	Oxford	Oxford	England		Meeting		LAN
+O611	L2	Isaiah Berlin	Maurice Bowra	February 1960	00	02	1960	1960-02-00	February 1960	00	02	1960	1960-02-00	Oxford	Oxford	England		Meeting		LAN
+O612	L2	Isaiah Berlin	BBC	March 1960	00	03	1960	1960-03-00	March 1960	00	03	1960	1960-03-00					Article_Interview	bits of recording of one of IB's broadcasts included in BBC promotional film 	LAN
+O613	L2	Isaiah Berlin	P. H. Newby	March 1960	00	03	1960	1960-03-00	March 1960	00	03	1960	1960-03-00	Oxford	Oxford	England		Meeting	IB insisted the clips of him be removed from the film.	LAN
+O614	L2	Isaiah Berlin	Tatiana Albertini	April 1960	00	04	1960	1960-04-00	April 1960	00	04	1960	1960-04-00	Rome	Rome	Italy		Meeting		LAN
+O615	L2	Isaiah Berlin	Cini Foundation	29 June 1960	29	06	1960	1960-06-29	3 July 1960	03	07	1960	1960-07-03	Isola San Giorgio	Venice	Italy		Attendance	Conference on Tolstoy, organized by Nicolas Nabokov	LAN
+O616	L2	Isaiah Berlin	Rome University::Federico Chabod::Alberto Maria Ghisalberti	24 March 1960	24	03	1960	1960-03-24	26 March 1960	26	03	1960	1960-03-26	Rome	Rome	Italy		Teaching_Lecture	"at invitation of Chabod and Ghisalberti, lectured in Italian. English title: ""The Romantic Revolution: A Crisis in the History of Modern Thought"""	LAN
+O617	L2	Isaiah Berlin	Giovanni Aquilecchia	January 1960	00	01	1960	1960-01-00	March 1960	00	03	1960	1960-03-00	London	London	England		Professional_Advising	translated IB's lecture on Romanticism into Italian	LAN
+O618	L2	Isaiah Berlin	Ashley Clark	24 March 1960	24	03	1960	1960-03-24	24 March 1960	24	03	1960	1960-03-24	Rome	Rome	Italy		Attendance	attended Rome University lecture	LAN
+O619	L2	Isaiah Berlin	Felix Frankfurter	July 1960	00	07	1960	1960-07-00	July 1960	00	07	1960	1960-07-00					Gift/Honor	Frankfurter's memoirs, Felix Frankfurter Reminisces	LAN
+O62	L2	Isaiah Berlin	Diana Hopkinson	late October 1948	00	10	1948	1948-10-00	late October 1948	00	10	1948	1948-10-00					Meeting		LAN
+O620	L2	Isaiah Berlin	Maurice Bowra	June 1960	00	06	1960	1960-06-00	June 1960	00	06	1960	1960-06-00	Oxford	Oxford	England		Meeting	at Encaenia	LAN
+O621	L2	Isaiah Berlin	Harold Macmillan	June 1960	00	06	1960	1960-06-00	June 1960	00	06	1960	1960-06-00	Oxford	Oxford	England		Meeting	at Encaenia	LAN
+O622	L2	Isaiah Berlin	Dorothy Macmillan	June 1960	00	06	1960	1960-06-00	June 1960	00	06	1960	1960-06-00	Oxford	Oxford	England		Meeting	at Encaenia	LAN
+O623	L2	Isaiah Berlin	John Whitney	June 1960	00	06	1960	1960-06-00	June 1960	00	06	1960	1960-06-00	Oxford	Oxford	England		Meeting	at Encaenia	LAN
+O624	L2	Isaiah Berlin	Elias Lowe	June 1960	00	06	1960	1960-06-00	June 1960	00	06	1960	1960-06-00	Oxford	Oxford	England		Meeting	at Encaenia	LAN
+O625	L2	Isaiah Berlin	Henri Groues	29 June 1960	29	06	1960	1960-06-29	3 July 1960	03	07	1960	1960-07-03	Isola San Giorgio	Venice	Italy		Attendance	Conference on Tolstoy, organized by Nicolas Nabokov	LAN
+O626	SL2	Isaiah Berlin	Joseph Alsop	15 November 1946	15	11	1946	1946-11-15	15 November 1946	15	11	1946	1946-11-15	London	London	England		Meeting		LAN
+O627	SL2	Isaiah Berlin	Michael Straight	15 November 1946	15	11	1946	1946-11-15	15 November 1946	15	11	1946	1946-11-15	London	London	England		Meeting		LAN
+O628	SL2	Isaiah Berlin	Winston Churchill	November 1946	00	11	1946	1946-11-00	November 1946	00	11	1946	1946-11-00					Meeting		LAN
+O629	SL2	Isaiah Berlin	John Julius Cooper	May 1950	00	05	1950	1950-05-00	May 1950	00	05	1950	1950-05-00	Beccles	Beccles	England		Professional_Advising		LAN
+O63	L2	Isaiah Berlin	The Board of the Faculty of Literae Humaniores	4 December 1948	04	12	1948	1948-12-04	4 December 1948	04	12	1948	1948-12-04	Oxford	Oxford	England		Professional_Service	report of fulfilment of duties	LAN
+O630	SL2	Isaiah Berlin	Joseph Alsop	May 1950	00	05	1950	1950-05-00	May 1950	00	05	1950	1950-05-00	Beccles	Beccles	England		Meeting		LAN
+O631	SL2	Isaiah Berlin	Juliet Duff	May 1950	00	05	1950	1950-05-00	May 1950	00	05	1950	1950-05-00	Beccles	Beccles	England		Meeting		LAN
+O632	SL2	Isaiah Berlin	Herbert Butterfield	13 May 1953	13	05	1953	1953-05-13	13 May 1953	13	05	1953	1953-05-13					Professional_Advising	sent Butterfield the manuscript of the Auguste Comte lecture before publication	LAN
+O633	SL2	Isaiah Berlin	Arthur Koestler	November 1954	00	11	1954	1954-11-00	November 1954	00	11	1954	1954-11-00					Meeting		LAN
+O634	SL2	Isaiah Berlin	Arthur Koestler	16 November 1954	16	11	1954	1954-11-16	16 November 1954	16	11	1954	1954-11-16					Article	helped Koestler with an essay by helping him find articles	LAN
+O635	SL1	Isaiah Berlin	James Joyce	early 1930s	00	00	1930s	1930s-00-00	early 1930s	00	00	1930s	1930s-00-00	Paris	Paris	France		Discovery(?)	bought a copy of Ulysses in Paris, which was still banned in the UK	LAN
+O636	SL1	Isaiah Berlin	Yitzhak Samunov::Ida Samunov::Mendel Berlin::Marie Berlin	1934	00	00	1934	1934-00-00	1934	00	00	1934	1934-00-00					Endeavor(?)	attempting to buy real estate in Israel	LAN
+O637	SL1	Isaiah Berlin	Yitzhak Samunov::Ida Samunov::Mendel Berlin::Marie Berlin	1934	00	00	1934	1934-00-00	1934	00	00	1934	1934-00-00					Endeavor(?)	attempting to buy graves in Israel	LAN
+O638	SL1	Isaiah Berlin	Yitzhak Samunov::Ida Samunov::Mendel Berlin::Marie Berlin	1935	00	00	1935	1935-00-00	1935	00	00	1935	1935-00-00					Endeavor(?)	attempting to buy real estate in Israel	LAN
+O639	SL1	Isaiah Berlin	Lionel Curtis	1935	00	00	1935	1935-00-00	1935	00	00	1935	1935-00-00					Meeting		LAN
+O64	L2	Isaiah Berlin	Raimund von Hofmannsthal::Elizabeth von Hofmannsthal	first week of December 1948	01	12	1948	1948-12-01	first week of December 1948	07	12	1948	1948-12-07					Meeting		LAN
+O640	SL1	Isaiah Berlin	Rachel Walker	July? 1935	00	07	1935	1935-07-00	September 1935	00	09	1935	1935-09-00	Oxford	Oxford	England		Romantic	she was set on marrying him by September, when he cut off relations	LAN
+O641	SL1	Isaiah Berlin	Arturo Toscanini	August 1935	00	08	1935	1935-08-00	August 1935	00	08	1935	1935-08-00	Salzburg	Salzberg	Austria		Attendance	at Salzberg Music Festival	LAN
+O642	SL1	Isaiah Berlin	Salzberg Music Festval	August 1935	00	08	1935	1935-08-00	August 1935	00	08	1935	1935-08-00	Salzburg	Salzberg	Austria		Attendance		LAN
+O643	SL1	Isaiah Berlin	Con O'Neil	1936	00	00	1936	1936-00-00	1936	00	00	1936	1936-00-00	Bowen's Court, County Cork	Kildorrey	Ireland		Meeting		LAN
+O644	SL1	Isaiah Berlin	Goronwy Rees	1936	00	00	1936	1936-00-00	1936	00	00	1936	1936-00-00	Bowen's Court, County Cork	Kildorrey	Ireland		Meeting		LAN
+O645	SL1	Isaiah Berlin	Elizabeth Bowen	1936	00	00	1936	1936-00-00	1936	00	00	1936	1936-00-00	Bowen's Court, County Cork	Kildorrey	Ireland		Meeting		LAN
+O646	SL1	Isaiah Berlin	Stuart Hampshire	1936	00	00	1936	1936-00-00	1936	00	00	1936	1936-00-00	Bowen's Court, County Cork	Kildorrey	Ireland		Meeting		LAN
+O647	SL1	Isaiah Berlin	Rosamond Lehmann	1936	00	00	1936	1936-00-00	1936	00	00	1936	1936-00-00	Bowen's Court, County Cork	Kildorrey	Ireland		Meeting		LAN
+O648	SL1	Isaiah Berlin	Hebert Bishop	1936	00	00	1936	1936-00-00	1936	00	00	1936	1936-00-00	Bowen's Court, County Cork	Kildorrey	Ireland		Meeting		LAN
+O649	SL1	Isaiah Berlin	Victor Rothschild	1936	00	00	1936	1936-00-00	1936	00	00	1936	1936-00-00	Cambridge	Cambridg	England		Meeting		LAN
+O65	L2	Isaiah Berlin	Michael Duff	first week of December 1948	01	12	1948	1948-12-01	first week of December 1948	07	12	1948	1948-12-07					Meeting		LAN
+O650	SL1	Isaiah Berlin	Barbara Rothschild	1936	00	00	1936	1936-00-00	1936	00	00	1936	1936-00-00	Cambridge	Cambridg	England		Meeting		LAN
+O651	SL1	Isaiah Berlin	Aldous Huxley	1936	00	00	1936	1936-00-00	1936	00	00	1936	1936-00-00	Cambridge	Cambridg	England		Meeting		LAN
+O652	SL1	Isaiah Berlin	Robert Zaehner	1936	00	00	1936	1936-00-00	1936	00	00	1936	1936-00-00	Cambridge	Cambridg	England		Meeting		LAN
+O653	SL1	Isaiah Berlin	John Foster	July 1940	00	07	1940	1940-07-00	August 1940	00	08	1940	1940-08-00	Washington, DC	Washington, DC	United States		Meeting		LAN
+O654	SL1	Isaiah Berlin	Philip Kerr	July 1940	00	07	1940	1940-07-00	August 1940	00	08	1940	1940-08-00	Washington, DC	Washington, DC	United States		Meeting		LAN
+O655	SL1	Isaiah Berlin	Constantine Oumansky	July 1940	00	07	1940	1940-07-00	August 1940	00	08	1940	1940-08-00	Washington, DC	Washington, DC	United States		Meeting		LAN
+O656	SL1	Isaiah Berlin	Michael Huxley	July 1940	00	07	1940	1940-07-00	August 1940	00	08	1940	1940-08-00	Washington, DC	Washington, DC	United States		Meeting		LAN
+O657	SL1	Isaiah Berlin	Redvers Opie	July 1940	00	07	1940	1940-07-00	August 1940	00	08	1940	1940-08-00	Washington, DC	Washington, DC	United States		Meeting		LAN
+O658	SL1	Isaiah Berlin	Harold Ickes	July 1940	00	07	1940	1940-07-00	August 1940	00	08	1940	1940-08-00	Washington, DC	Washington, DC	United States		Meeting		LAN
+O659	SL1	Isaiah Berlin	Laurence Steinhardt	July 1940	00	07	1940	1940-07-00	August 1940	00	08	1940	1940-08-00	Washington, DC	Washington, DC	United States		Meeting		LAN
+O66	L2	Isaiah Berlin	Mark Bonham Carter	4 December 1948	04	12	1948	1948-12-04	4 December 1948	04	12	1948	1948-12-04	Ditchley Park	Oxford	England		Meeting		LAN
+O660	L2	Isaiah Berlin	Chatham House	27 June 1946	27	06	1946	1946-06-27	27 June 1946	27	06	1946	1946-06-27	London	London	England		Teaching_Lecture	on the insularity of the Soviet Union	LAN
+O661	L2	Isaiah Berlin	Oxford University	1 October 1946	01	10	1946	1946-10-01	1 October 1946	01	10	1946	1946-10-01	Oxford	Oxford	England		Affiliation_Formal	appointed University Lecturer in Philosophy	LAN
+O662	L2	Isaiah Berlin	New College::John Austin	October 1946	00	10	1946	1946-10-00	December 1946	00	12	1946	1946-12-00	Oxford	Oxford	England		Teaching_Lecture	gave graduate class on 'Things'	LAN
+O663	L2	Isaiah Berlin	New College	October 1947	00	10	1947	1947-10-00	December 1947	00	12	1947	1947-12-00	Oxford	Oxford	England		Teaching_Lecture	"gave lecture on ""European Political and Social Thought in the early Nineteenth Century"""	LAN
+O664	L2	Isaiah Berlin	BBC	17 December 1946	17	12	1946	1946-12-17	17 December 1946	17	12	1946	1946-12-17					Article	broadcast on Lassalle	LAN
+O665	L2	Isaiah Berlin	New College	January 1947	00	01	1947	1947-01-00	March 1947	00	03	1947	1947-03-00	Oxford	Oxford	England		Teaching_Lecture	"lecture on ""Berkeley's Theory of the External World"""	LAN
+O666	L2	Isaiah Berlin	New College	May 1947	00	05	1947	1947-05-00	June 1947	00	06	1947	1947-06-00	Oxford	Oxford	England		Teaching_Lecture	"gave four classes on ""Radical Intelligentsia 1825 - 1881: Western Ideas"""	LAN
+O667	L2	Isaiah Berlin	New College	January 1948	00	01	1948	1948-01-00	March 1948	00	03	1948	1948-03-00	Oxford	Oxford	England		Teaching_Lecture	"lecture on ""Problems in the Theory of Knowledge"""	LAN
+O668	L2	Isaiah Berlin	New College	April 1948	00	04	1948	1948-04-00	June 1948	00	06	1948	1948-06-00	Oxford	Oxford	England		Teaching_Lecture	"lecture on ""Moral and Political Ideas in the Nineteenth Century"""	LAN
+O669	L2	Isaiah Berlin	New College::Friedrich Waismann	April 1948	00	04	1948	1948-04-00	June 1948	00	06	1948	1948-06-00	Oxford	Oxford	England		Teaching_Lecture	graduate class	LAN
+O67	L2	Isaiah Berlin	George Katkov	January 1949	00	01	1949	1949-01-00	January 1949	00	01	1949	1949-01-00	RMS Queen Mary				Meeting		LAN
+O670	L2	Isaiah Berlin	Oxford Summer School for Graduates	July 1948	00	07	1948	1948-07-00	July 1948	00	07	1948	1948-07-00	Oxford	Oxford	England		Affiliation_Formal	Director of Summer School	LAN
+O671	L2	Isaiah Berlin	New College::Alan Bullock	October 1948	00	10	1948	1948-10-00	December 1948	00	12	1948	1948-12-00	Oxford	Oxford	England		Teaching_Lecture	"graduate class on ""Concepts and Categories in History"""	LAN
+O672	L2	Isaiah Berlin	Signet Society	19 March 1949	19	03	1949	1949-03-19	19 March 1949	19	03	1949	1949-03-19	Cambridge	Cambridge	United States		Teaching_Lecture		LAN
+O673	L2	Isaiah Berlin	New College	January 1950	00	01	1950	1950-01-00	March 1950	00	03	1950	1950-03-00	Oxford	Oxford	England		Teaching_Lecture	"lecture on ""Berkeley's Theory of Meaning"""	LAN
+O674	L2	Isaiah Berlin	G. D. H. Cole	24 May 1950	24	05	1950	1950-05-24	24 May 1950	24	05	1950	1950-05-24	Oxford	Oxford	England		Teaching_Lecture	lecture on Joseph de Maistre	LAN
+O675	L2	Isaiah Berlin	All Souls::Friedrich Waismann	October 1950	00	10	1950	1950-10-00	December 1950	00	12	1950	1950-12-00	Oxford	Oxford	England		Teaching_Lecture	"graduate class on ""Verifiability"""	LAN
+O676	L2	Isaiah Berlin	All Souls::G. D. H. Cole	January 1951	00	01	1951	1951-01-00	March 1951	00	03	1951	1951-03-00	Oxford	Oxford	England		Teaching_Lecture	"graduate class on ""Political Theories of Hegel and Marx"""	LAN
+O677	L2	Isaiah Berlin	All Souls	April 1951	00	04	1951	1951-04-00	June 1951	00	06	1951	1951-06-00	Oxford	Oxford	England		Teaching_Lecture	"lecture on ""Social and Political Ideas in the Early Nineteenth Century"""	LAN
+O678	L2	Isaiah Berlin	Bryn Mawr	11 February 1952	11	02	1952	1952-02-11	11 February 1952	11	02	1952	1952-02-11	Bryn Mawr	Bryn Mawr	United States		Teaching_Lecture	"1st Mary Flexner Lecture, ""Nature and the Science of Politics: Helvetius and Holbach"""	LAN
+O679	L2	Isaiah Berlin	Bryn Mawr	18 February 1952	18	02	1952	1952-02-18	18 February 1952	18	02	1952	1952-02-18	Bryn Mawr	Bryn Mawr	United States		Teaching_Lecture	"2nd Flexner Lecture, ""Political Liberty and the Ethical Imperative: Kant and Rousseau"""	LAN
+O68	L2	Isaiah Berlin	Peter Watson	January 1949	00	01	1949	1949-01-00	January 1949	00	01	1949	1949-01-00	RMS Queen Mary				Meeting		LAN
+O680	L2	Isaiah Berlin	Bryn Mawr	25 February 1952	25	02	1952	1952-02-25	25 February 1952	25	02	1952	1952-02-25	Bryn Mawr	Bryn Mawr	United States		Teaching_Lecture	"3rd Flexner Lecture, ""Liberalism and Romanticism: Fichte and the Rights of Man"""	LAN
+O681	L2	Isaiah Berlin	Bryn Mawr	3 March 1952	03	03	1952	1952-03-03	3 March 1952	03	03	1952	1952-03-03	Bryn Mawr	Bryn Mawr	United States		Teaching_Lecture	"4th Flexner Lecture, ""Individual Freedom and the March of History: Herder and Hegel"""	LAN
+O682	L2	Isaiah Berlin	Bryn Mawr	10 March 1952	10	03	1952	1952-03-10	10 March 1952	10	03	1952	1952-03-10	Bryn Mawr	Bryn Mawr	United States		Teaching_Lecture	"5th Flexner Lecture, ""The Organisation of Society and the Golden Age: Stain-Simon and his Disciples"""	LAN
+O683	L2	Isaiah Berlin	Bryn Mawr	17 March 1952	17	03	1952	1952-03-17	17 March 1952	17	03	1952	1952-03-17	Bryn Mawr	Bryn Mawr	United States		Teaching_Lecture	"6th Flexner Lecture, ""The Counter-Revolution: Maistre and the Beginnings of Fascism"""	LAN
+O684	L2	Isaiah Berlin	University of Rochester	18 - 22 March 1952	18	03	1952	1952-03-18	18 - 22 March 1952	22	03	1952	1952-03-22	New York	New York City	United States		Teaching_Lecture		LAN
+O685	L2	Isaiah Berlin	All Souls	May 1952	00	05	1952	1952-05-00	June 1952	00	06	1952	1952-06-00	Oxford	Oxford	England		Teaching_Lecture	"lecture on ""Western Political Ideas, 1750 - 1850"""	LAN
+O686	L2	Isaiah Berlin	All Souls::G. D. H. Cole	October 1952	00	10	1952	1952-10-00	December 1952	00	12	1952	1952-12-00	Oxford	Oxford	England		Teaching_Lecture	"graduate class on ""Utopian Socialists 1789 - 1870"""	LAN
+O687	L2	Isaiah Berlin	John Plamenatz	October 1952	00	10	1952	1952-10-00	December 1952	00	12	1952	1952-12-00	Oxford	Oxford	England		Teaching_Lecture	lectured on Saint-Simon	LAN
+O688	L2	Isaiah Berlin	All Souls::Stuart Hampshire	January 1953	00	01	1953	1953-01-00	March 1953	00	03	1953	1953-03-00	Oxford	Oxford	England		Teaching_Lecture	"graduate class on ""Moral Presuppositions of Liberalism (Condorcet, Kant, Mill, Moore)"	LAN
+O689	L2	Isaiah Berlin	All Souls	April 1954	00	04	1954	1954-04-00	June 1954	00	06	1954	1954-06-00	Oxford	Oxford	England		Teaching_Lecture	"lecture on ""Historicism"""	LAN
+O69	L2	Isaiah Berlin	Ronald Tree	January 1949	00	01	1949	1949-01-00	January 1949	00	01	1949	1949-01-00	RMS Queen Mary				Meeting		LAN
+O690	L2	Isaiah Berlin	All Souls::E. H. Carr	October 1954	00	10	1954	1954-10-00	December 1954	00	12	1954	1954-12-00	Oxford	Oxford	England		Teaching_Lecture	"class on ""Some Precursors of the Russian Revolution since 1830"""	LAN
+O691	Caute	Isaac Deutscher	Oxford University	October 1954	00	10	1954	1954-10-00	December 1954	00	12	1954	1954-12-00	Oxford	Oxford	England		Teaching_Lecture	"guest lectured for an Oxford seminar taught by IB and E. H. Carr, ""Some Precursors to the Russian Revolution since 1830"""	LAN
+O692	Caute	Isaiah Berlin	E. H. Carr::Isaac Deutscher	October 1954	00	10	1954	1954-10-00	December 1954	00	12	1954	1954-12-00	Oxford	Oxford	England		Meeting	"Deutscher guest-lectured in IB/Carr's seminar ""Some Precursors to the Russian Revolution since 1830"""	LAN
+O693	L2	Isaiah Berlin	All Souls::E. H. Carr	January 1955	00	01	1955	1955-01-00	March 1955	00	03	1955	1955-03-00	Oxford	Oxford	England		Teaching_Lecture	"continued class on ""Some Precursors of the Russian Revolution since 1830"""	LAN
+O694	L2	Isaiah Berlin	University College, London	18 October 1954	18	10	1954	1954-10-18	18 October 1954	18	10	1954	1954-10-18	London	London	England		Teaching_Lecture	"1st Northcliffe Lecture, ""A Marvellous Decade: Literature and Social Criticism in Russia, 1838 - 1848"""	LAN
+O695	L2	Isaiah Berlin	University College, London	25 October 1954	25	10	1954	1954-10-25	25 October 1954	25	10	1954	1954-10-25	London	London	England		Teaching_Lecture	2nd Northcliffe Lecture	LAN
+O696	L2	Isaiah Berlin	University College, London	1 November 1954	01	11	1954	1954-11-01	1 November 1954	01	11	1954	1954-11-01	London	London	England		Teaching_Lecture	3rd Northcliffe Lecture	LAN
+O697	L2	Isaiah Berlin	University College, London	8 November 1954	08	11	1954	1954-11-08	8 November 1954	08	11	1954	1954-11-08	London	London	England		Teaching_Lecture	4th Northcliffe Lecture	LAN
+O698	L2	Isaiah Berlin	Mount Holyoke	9 November 1955	09	11	1955	1955-11-09	10 November 1955	10	11	1955	1955-11-10	Mount Holyoke	South Hadley	United States		Teaching_Lecture		LAN
+O699	L2	Isaiah Berlin	University of Chicago	17 November 1955	17	11	1955	1955-11-17	17 November 1955	17	11	1955	1955-11-17	Chicago	Chicago	United States		Teaching_Lecture	"1st Alexander White Lecture, ""The Romantic Revolution in Philosophy"""	LAN
+O7	L2	Isaiah Berlin	UNRRA	(early August) 1946	00	08	1946	1946-08-00	(early August) 1946	00	08	1946	1946-08-00	Paris	Paris	France		Meeting		LAN
+O70	L2	Isaiah Berlin	Marietta Tree	January 1949	00	01	1949	1949-01-00	January 1949	00	01	1949	1949-01-00	RMS Queen Mary				Meeting		LAN
+O700	L2	Isaiah Berlin	University of Chicago	21 November 1955	21	11	1955	1955-11-21	21 November 1955	21	11	1955	1955-11-21	Chicago	Chicago	United States		Teaching_Lecture	2nd Alexander White Lecture	LAN
+O701	L2	Isaiah Berlin	University of Chicago	1 December 1955	01	12	1955	1955-12-01	1 December 1955	01	12	1955	1955-12-01	Chicago	Chicago	United States		Teaching_Lecture	3rd Alexander White Lecture	LAN
+O702	L2	Isaiah Berlin	University of Chicago	8 December 1955	08	12	1955	1955-12-08	8 December 1955	08	12	1955	1955-12-08	Chicago	Chicago	United States		Teaching_Lecture	4th Alexander White Lecture	LAN
+O703	L2	Isaiah Berlin	Burton Dreben::Raya Dreben	24 November 1955	24	11	1955	1955-11-24	24 November 1955	24	11	1955	1955-11-24	Chicago	Chicago	United States		Meeting	for Thanksgiving	LAN
+O704	L2	Isaiah Berlin	University of Iowa	2 December 1955	02	12	1955	1955-12-02	3 December 1955	03	12	1955	1955-12-03	Iowa City	Iowa City	United States		Teaching_Lecture	on Herzen and Russian radicalism	LAN
+O705	L2	Isaiah Berlin	Northwestern University	9 December 1955	09	12	1955	1955-12-09	9 December 1955	09	12	1955	1955-12-09	Evanston	Evanston	United States		Teaching_Lecture	"lecture on ""The Nature of Political Judgment"" "	LAN
+O706	L2	Isaiah Berlin	All Souls::Patrick Gardiner	January 1956	00	01	1956	1956-01-00	March 1956	00	03	1956	1956-03-00	Oxford	Oxford	England		Teaching_Lecture	"graduate class on ""Concepts of History"""	LAN
+O707	L2	Isaiah Berlin	All Souls::G. D. H. Cole	January 1957	00	01	1957	1957-01-00	March 1957	00	03	1957	1957-03-00	Oxford	Oxford	England		Teaching_Lecture	"graduate class on ""The Political Thought of Hegel and Marx"""	LAN
+O708	L2	Isaiah Berlin	Oxford University	16 March 1957	16	03	1957	1957-03-16	00	00	00	0000	0000-00-00	Oxford	Oxford	England		Affiliation_Formal	appointed Chicele Professor of Social and Political Theory	LAN
+O709	L2	Isaiah Berlin	All Souls::Patrick Nowell-Smith	April 1957	00	04	1957	1957-04-00	June 1957	00	06	1957	1957-06-00	Oxford	Oxford	England		Teaching_Lecture	"graduate class on ""Historical and Political Judgment"""	LAN
+O71	L2	Isaiah Berlin	Judith Montagu	January 1949	00	01	1949	1949-01-00	January 1949	00	01	1949	1949-01-00	RMS Queen Mary				Meeting		LAN
+O710	L2	Isaiah Berlin	Oxford University	October 1957	00	10	1957	1957-10-00	December 1957	00	12	1957	1957-12-00	Oxford	Oxford	England		Teaching_Lecture	"lecture on ""Types of European Political Theory"""	LAN
+O711	L2	Isaiah Berlin	British Friends of Hebrew University	19 November 1957	19	11	1957	1957-11-19	19 November 1957	19	11	1957	1957-11-19	London	London	England		Teaching_Lecture	gave second Herbert Samuel Lexture, on Chaim Weizmann	LAN
+O712	L2	Isaiah Berlin	Oxford University	January 1958	00	01	1958	1958-01-00	March 1958	00	03	1958	1958-03-00	Oxford	Oxford	England		Teaching_Lecture	"lecture on ""Types of Political Theory since Machiavelli"""	LAN
+O713	L2	Isaiah Berlin	Oxford University	October 1958	00	10	1958	1958-10-00	December 1958	00	12	1958	1958-12-00	Oxford	Oxford	England		Teaching_Lecture	"lecture on ""European Political Thought in the Romantic Age"""	LAN
+O714	L2	Isaiah Berlin	Pushkin Club, London	7 October 1958	07	10	1958	1958-10-07	7 October 1958	07	10	1958	1958-10-07	London	London	England		Professional_Service	opened an exhibition of Leonid Pasternak's works	LAN
+O715	L2	Isaiah Berlin	Igor Stravinsky	5 December 1958	05	12	1958	1958-12-05	5 December 1958	05	12	1958	1958-12-05	Oxford	Oxford	England		Meeting	dinner at IB's	LAN
+O716	L2	Isaiah Berlin	University of Bangor	7 December 1958	07	12	1958	1958-12-07	10 December 1958	10	12	1958	1958-12-10	Bangor	Bangor	England		Teaching_Lecture		LAN
+O717	L2	Isaiah Berlin	Igor Stravinsky	10 December 1958	10	12	1958	1958-12-10	10 December 1958	10	12	1958	1958-12-10	London	London	England		Meeting	dinner after concert in Royal Festival Hall	LAN
+O718	L2	Isaiah Berlin	Oxford University	January 1959	00	01	1959	1959-01-00	March 1959	00	03	1959	1959-03-00	Oxford	Oxford	England		Teaching_Lecture	"lecture on ""Russian Political Thought and the West"""	LAN
+O719	L2	Isaiah Berlin	Patrick Gardiner	April 1959	00	04	1959	1959-04-00	June 1959	00	06	1959	1959-06-00	Oxford	Oxford	England		Attendance	"attended Gardiner's graduate class on ""Central Concepts of History"""	LAN
+O72	L2	Isaiah Berlin	Siegmund George Warburg	January 1949	00	01	1949	1949-01-00	January 1949	00	01	1949	1949-01-00	RMS Queen Mary				Meeting		LAN
+O720	L2	Isaiah Berlin	Oxford University	October 1959	00	10	1959	1959-10-00	December 1959	00	12	1959	1959-12-00	Oxford	Oxford	England		Teaching_Lecture	"lecture on ""Political Thought, Machiavelli to Rousseau"""	LAN
+O721	L2	Isaiah Berlin	Oxford University	January 1960	00	01	1960	1960-01-00	March 1960	00	03	1960	1960-03-00	Oxford	Oxford	England		Teaching_Lecture	"lecture on ""The Social Thinkers of the Enlightenment and Their Critics"""	LAN
+O722	L2	Isaiah Berlin	Oxford University	April 1960	00	04	1960	1960-04-00	June 1960	00	06	1960	1960-06-00	Oxford	Oxford	England		Attendance	"attended graduate class on ""The Political Ideas of Hegel, Marx, and Lenin"""	LAN
+O723	Caute	Isaiah Berlin	Academic Advisory Committee, Sussex	27 March 1963	27	03	1963	1963-03-27	27 March 1963	27	03	1963	1963-03-27	Stanner House	Brighton	England		Professional_Advising	most likely regarding Isaac Deutscher's appointment to a chair in History at Sussex. For more details see: Caute, ch 22	LAN
+O724	Caute	Isaiah Berlin	James Duff	27 March 1963	27	03	1963	1963-03-27	27 March 1963	27	03	1963	1963-03-27	Stanner House	Brighton	England		Meeting	at Academic Advisory Committee meeting	LAN
+O725	Caute	Isaiah Berlin	John Fulton	27 March 1963	27	03	1963	1963-03-27	27 March 1963	27	03	1963	1963-03-27	Stanner House	Brighton	England		Meeting	at Academic Advisory Committee meeting	LAN
+O726	Caute	Isaiah Berlin	David Daiches	27 March 1963	27	03	1963	1963-03-27	27 March 1963	27	03	1963	1963-03-27	Stanner House	Brighton	England		Meeting	at Academic Advisory Committee meeting	LAN
+O727	Caute	Isaiah Berlin	Martin Wight	27 March 1963	27	03	1963	1963-03-27	27 March 1963	27	03	1963	1963-03-27	Stanner House	Brighton	England		Meeting	at Academic Advisory Committee meeting	LAN
+O728	Caute	Isaiah Berlin	Patrick Corbett	27 March 1963	27	03	1963	1963-03-27	27 March 1963	27	03	1963	1963-03-27	Stanner House	Brighton	England		Meeting	at Academic Advisory Committee meeting	LAN
+O729	Caute	Isaiah Berlin	Tibor Barna	27 March 1963	27	03	1963	1963-03-27	27 March 1963	27	03	1963	1963-03-27	Stanner House	Brighton	England		Meeting	at Academic Advisory Committee meeting	LAN
+O73	L2	Isaiah Berlin	Aline Halban	January 1949	00	01	1949	1949-01-00	January 1949	00	01	1949	1949-01-00	RMS Queen Mary				Meeting		LAN
+O730	L3	Isaiah Berlin	Vittorio Cini	29 June 1960	29	06	1960	1960-06-29	3 July 1960	03	07	1960	1960-07-03	Isola San Giorgio	Venice	Italy		Meeting	Conference on Tolstoy, organized by Nicolas Nabokov	LAN
+O731	L3	Isaiah Berlin	Sergey Tolstoy	29 June 1960	29	06	1960	1960-06-29	3 July 1960	03	07	1960	1960-07-03	Isola San Giorgio	Venice	Italy		Meeting	Conference on Tolstoy, organized by Nicolas Nabokov	LAN
+O732	L3	Isaiah Berlin	George Kennan	29 June 1960	29	06	1960	1960-06-29	3 July 1960	03	07	1960	1960-07-03	Isola San Giorgio	Venice	Italy		Meeting	Conference on Tolstoy, organized by Nicolas Nabokov	LAN
+O733	L3	Isaiah Berlin	David Cecil	29 June 1960	29	06	1960	1960-06-29	3 July 1960	03	07	1960	1960-07-03	Isola San Giorgio	Venice	Italy		Meeting	Conference on Tolstoy, organized by Nicolas Nabokov	LAN
+O734	L3	Isaiah Berlin	Tatiana Albertini	29 June 1960	29	06	1960	1960-06-29	3 July 1960	03	07	1960	1960-07-03	Isola San Giorgio	Venice	Italy		Meeting	Conference on Tolstoy, organized by Nicolas Nabokov	LAN
+O735	L3	Isaiah Berlin	Ernest Simmons	29 June 1960	29	06	1960	1960-06-29	3 July 1960	03	07	1960	1960-07-03	Isola San Giorgio	Venice	Italy		Meeting	Conference on Tolstoy, organized by Nicolas Nabokov	LAN
+O736	L3	Isaiah Berlin	Semen Breitburg	29 June 1960	29	06	1960	1960-06-29	3 July 1960	03	07	1960	1960-07-03	Isola San Giorgio	Venice	Italy		Meeting	Conference on Tolstoy, organized by Nicolas Nabokov	LAN
+O737	L3	Isaiah Berlin	Charles Snow	29 June 1960	29	06	1960	1960-06-29	3 July 1960	03	07	1960	1960-07-03	Isola San Giorgio	Venice	Italy		Meeting	Conference on Tolstoy, organized by Nicolas Nabokov	LAN
+O738	L3	Isaiah Berlin	Ann Fleming	19 September 1960	19	09	1960	1960-09-19	00	00	00	0000	0000-00-00	Villa Ciperessina	Portofino	Italy		Meeting		LAN
+O739	L3	Isaiah Berlin	Sebastiano Murari	September 1960	00	09	1960	1960-09-00	September 1960	00	09	1960	1960-09-00		Portofino	Italy		Meeting		LAN
+O74	L2	Isaiah Berlin	Alain de Rothschild	January 1949	00	01	1949	1949-01-00	January 1949	00	01	1949	1949-01-00	RMS Queen Mary				Meeting		LAN
+O740	L3	Isaiah Berlin	Jacqueline de Proyart	September 1960	00	09	1960	1960-09-00	September 1960	00	09	1960	1960-09-00					Gift/Honor	gave IB her manuscript for a talk on Tolstoy she gave in Venice	LAN
+O741	L3	Isaiah Berlin	Ignazio Silone	28 October 1960	28	10	1960	1960-10-28	28 October 1960	28	10	1960	1960-10-28						invitation to condemn French action in Algerian War of Independence	LAN
+O742	L3	Isaiah Berlin	Tatiana Albertini	8 November 1960	08	11	1960	1960-11-08	8 November 1960	08	11	1960	1960-11-08					Professional_Advising	advice on whether she should visit USSR for 50th anniversary of Tolstoy's death	LAN
+O743	L3	Isaiah Berlin	Royal Opera House	December 1954	00	12	1954	1954-12-00	00	00	00	0000	0000-00-00	Covent Gardens	London	England		Affiliation_Formal	appointed to board of directors of ROH	LAN
+O744	L3	Isaiah Berlin	Royal Opera House::Opera Sub-Committee	June 1956	00	06	1956	1956-06-00	00	00	00	0000	0000-00-00	Covent Gardens	London	England		Affiliation_Formal	appointed to Opera Sub-Committee	LAN
+O745	L3	Isaiah Berlin	Royal Opera House::Opera Sub-Committee	[late?] 1959	00	00	1959	1959-00-00	00	00	00	0000	0000-00-00	Covent Gardens	London	England		Affiliation_Formal	became Chairman of Opera Sub-Committee	LAN
+O746	L3	Isaiah Berlin	Joan Sutherland	3 November 1960	03	11	1960	1960-11-03	3 November 1960	03	11	1960	1960-11-03	Covent Gardens	London	England		Attendance	heard in Sonnambula	LAN
+O747	L3	Isaiah Berlin	PEN	23 November 1960	23	11	1960	1960-11-23	23 November 1960	23	11	1960	1960-11-23	Friends' House, Euston	London	England		Teaching_Lecture	Herman Ould Memorial Lecture, 'Tolstoy and Enlightenment'	LAN
+O748	L3	Isaiah Berlin	Aleksander Meyendorff	23 November 1960	23	11	1960	1960-11-23	23 November 1960	23	11	1960	1960-11-23	Friends' House, Euston	London	England		Attendance	at the Herman Ould Memorial Lecture, 'Tolstoy and Enlightenment'	LAN
+O749	L3	Isaiah Berlin	Times Literary Supplement::C. M. Woodhouse	25 November 1960	25	11	1960	1960-11-25	25 November 1960	25	11	1960	1960-11-25					Article_Review	on the Herman Ould Memorial Lecture, 'Tolstoy and Enlightenment'	LAN
+O75	L2	Isaiah Berlin	Russian Research Center 	January 1949	00	01	1949	1949-01-00	July 1949	00	07	1949	1949-07-00	Harvard	Cambridge	United States		Affiliation_Formal		LAN
+O750	L3	Isaiah Berlin	Times Literary Supplement::C. M. Woodhouse	2 December 1960	02	12	1960	1960-12-02	2 December 1960	02	12	1960	1960-12-02					Article	response to 25 November article on lecture	LAN
+O751	L3	Isaiah Berlin	University College Hospital, London	10 March 1961	10	03	1961	1961-03-10	10 March 1961	10	03	1961	1961-03-10	London	London	England			operation on his nose	LAN
+O752	L3	Isaiah Berlin	Soviet Delegation	20 February 1961	20	02	1961	1961-02-20	00	00	00	0000	0000-00-00	Wiston House, West Sussex	Steyning	England		Meeting	invited by the Great Britain--USSR Association, for a talk on coexistence	LAN
+O753	L3	Isaiah Berlin	Otto Klemperer	late February 1961	00	02	1961	1961-02-00	late February 1961	00	02	1961	1961-02-00	Covent Gardens	London	England		Attendance	conducted Fidelio. Attended by IB and Soviet Delegation	LAN
+O754	L3	Isaiah Berlin	Princess Schwarzenberg	late February 1961	00	02	1961	1961-02-00	late February 1961	00	02	1961	1961-02-00	Covent Gardens	London	England		Meeting	attended Fidelio with her	LAN
+O755	L3	Isaiah Berlin	Aleksey Surkov	late February 1961	00	02	1961	1961-02-00	late February 1961	00	02	1961	1961-02-00	Wiston House, Steyning	London	England		Meeting	Surkov led Soviet Delegation for talks on coexistence	LAN
+O756	L3	Isaiah Berlin	Oxford University	10 May 1960	10	05	1960	1960-05-10	10 May 1960	10	05	1960	1960-05-10	Oxford	Oxford	England			IB and 56 other senior members of the University jointly protested against the cricket club's decision to play against a  visiting South African team	LAN
+O757	L3	Isaiah Berlin	Joseph Alsop	22 April 1961	22	04	1961	1961-04-22	22 April 1961	22	04	1961	1961-04-22	Paris	Paris	France		Meeting		LAN
+O758	L3	Isaiah Berlin	Anthony Rumbold::Felicity Rumbold	23 April 1961	23	04	1961	1961-04-23	23 April 1961	23	04	1961	1961-04-23	Paris	Paris	France		Meeting		LAN
+O759	L3	Isaiah Berlin	Pauline de Rothschild	24 April 1961	24	04	1961	1961-04-24	24 April 1961	24	04	1961	1961-04-24	Paris	Paris	France		Meeting	a dinner party which had been scheduled for 70 people was cancelled and replaced by a more casual gathering of 30 - 40. Originally invited: Joseph Alsop, Susan Mary Alsop, Raymond Aron, Suzanne Aron, David Bruce, Evangeline Bruce, Raimund von Hofmannstahl, Louis Joxe	LAN
+O76	L2	Isaiah Berlin	W. H. Auden	January 1949	00	01	1949	1949-01-00	January 1949	00	01	1949	1949-01-00	Harvard	Cambridge	United States		Meeting		LAN
+O760	L3	Isaiah Berlin	The Listener::E. H. Carr	18 May 1961	18	05	1961	1961-05-18	18 May 1961	18	05	1961	1961-05-18					Article	"on E. H. Carr's lecture, ""What is History?"" and its ciriticism of IB"	LAN
+O761	L3	Isaiah Berlin	Garrett Drogheda	5 June 1961	05	06	1961	1961-06-05	5 June 1961	05	06	1961	1961-06-05	Covent Gardens	London	England		Meeting	at the performance of Boris	LAN
+O762	L3	Isaiah Berlin	The Listener::E. H. Carr	1 June 1961	01	06	1961	1961-06-01	1 June 1961	01	06	1961	1961-06-01					Article	in response to IB's article of 18 May	LAN
+O763	L3	Isaiah Berlin	The Listener::E. H. Carr	15 June 1961	15	06	1961	1961-06-15	15 June 1961	15	06	1961	1961-06-15					Article	in response to Carr's article of 1 June	LAN
+O764	L3	Isaiah Berlin	Kirov Ballet	19 June 1961	19	06	1961	1961-06-19	July 1961	00	07	1961	1961-07-00	Covent Gardens	London	England		Attendance		LAN
+O765	L3	Isaiah Berlin	Israel Festival of Classical Music	September 1961	00	09	1961	1961-09-00	September 1961	00	09	1961	1961-09-00	Israel		Israel		Attendance	inagural Festival	LAN
+O766	L3	Isaiah Berlin	Nicolas Nabokov	September 1961	00	09	1961	1961-09-00	September 1961	00	09	1961	1961-09-00	Israel		Israel		Meeting	at Israel Festival of Classical Music	LAN
+O767	L3	Isaiah Berlin	Jacob Rothschild	September 1961	00	09	1961	1961-09-00	September 1961	00	09	1961	1961-09-00	Israel		Israel		Meeting	at Israel Festival of Classical Music	LAN
+O768	L3	Isaiah Berlin	David Ben-Gurion	September 1961	00	09	1961	1961-09-00	September 1961	00	09	1961	1961-09-00	Sde Boker, Israel	Sde Boker	Israel		Meeting		LAN
+O769	L3	Isaiah Berlin	Isaac Stern	September 1961	00	09	1961	1961-09-00	September 1961	00	09	1961	1961-09-00	Sde Boker, Israel	Sde Boker	Israel		Meeting		LAN
+O77	L2	Isaiah Berlin	Nicolas Nabokov	January 1949	00	01	1949	1949-01-00	January 1949	00	01	1949	1949-01-00					Professional_Advising	Nabokov wanted to make an opera of IB's translation of First Love	LAN
+O770	L3	Isaiah Berlin	Walter Eytan	September 1961	00	09	1961	1961-09-00	September 1961	00	09	1961	1961-09-00	Sde Boker, Israel	Sde Boker	Israel		Meeting		LAN
+O771	L3	Isaiah Berlin	Raimund von Hofmannstahl	September 1961	00	09	1961	1961-09-00	September 1961	00	09	1961	1961-09-00	Sde Boker, Israel	Sde Boker	Israel		Meeting		LAN
+O772	L3	Isaiah Berlin	Georg Solti	9 November 1961	09	11	1961	1961-11-09	9 November 1961	09	11	1961	1961-11-09	on the flight to New Delhi	New Delhi	India		Meeting		LAN
+O773	L3	Isaiah Berlin	Aldous Huxley	November 1961	00	11	1961	1961-11-00	November 1961	00	11	1961	1961-11-00	New Delhi	New Delhi	India		Meeting		LAN
+O774	L3	Isaiah Berlin	Charles Taylor	December 1961	00	12	1961	1961-12-00	December 1961	00	12	1961	1961-12-00	Oxford	Oxford	England		Professional_Service	oversaw final consideration of Taylor's doctoral thesis at the Board of the Faculty of Social Studies	LAN
+O775	L3	Isaiah Berlin	Jawaharlal Nehru	November 1961	00	11	1961	1961-11-00	November 1961	00	11	1961	1961-11-00	New Delhi	New Delhi	India		Meeting		LAN
+O776	L3	Igor Stravinsky	Israel Festival of Classical Music	January 1962	00	01	1962	1962-01-00	August 1964	00	08	1964	1964-08-00					Professional_Service	Stravinsky commissioned to write a piece in January 1962. Upon IB's suggestion, wrote Abraham and Isaac, which priemered at the Festival in August of 1964.	LAN
+O777	L3	Isaiah Berlin	Igor Stravinsky	October 1961	00	10	1961	1961-10-00	October 1961	00	10	1961	1961-10-00	England	England	England		Meeting	IB gave Stravinsky the idea for Abraham and Isaac	LAN
+O778	L3	Isaac Deutscher	E. H. Carr::Times Literary Supplement	17 November 1961	17	11	1961	1961-11-17	17 November 1961	17	11	1961	1961-11-17					Article_Review	"Deutscher reviewed Carr's ""What is History?"""	LAN
+O779	L3	Isaiah Berlin	Arthur Salter	29 January 1962	29	01	1962	1962-01-29	29 January 1962	29	01	1962	1962-01-29	Oxford	Oxford	England		Meeting		LAN
+O78	L2	Isaiah Berlin	Foreign Policy Association, Boston	January 1949	00	01	1949	1949-01-00	January 1949	00	01	1949	1949-01-00	Boston	Boston	United States		Teaching_Lecture	address on Russia	LAN
+O780	L3	Isaiah Berlin	Rudolf Nureyev	21 February 1962	21	02	1962	1962-02-21	21 February 1962	21	02	1962	1962-02-21	Covent Gardens	London	England		Attendance	Nureyev's debut with the Royal Ballet, in Giselle	LAN
+O781	L3	Isaiah Berlin	Margot Fonteyn	21 February 1962	21	02	1962	1962-02-21	21 February 1962	21	02	1962	1962-02-21	Covent Gardens	London	England		Attendance	in Giselle	LAN
+O782	L3	Isaiah Berlin	Francoise Sagan	February 1962	00	02	1962	1962-02-00	February 1962	00	02	1962	1962-02-00					Article_Interview	on television	LAN
+O783	L3	Isaiah Berlin	Hugh Trevor-Roper	early March 1962	00	03	1962	1962-03-00	early March 1962	00	03	1962	1962-03-00					Professional_Advising	"Trevor-Roper sent IB a draft of his review of Carr's ""What is History?"" for comment"	LAN
+O784	L3	Isaiah Berlin	Vsevold Ivanov	November 1961	00	11	1961	1961-11-00	November 1961	00	11	1961	1961-11-00	New Delhi	New Delhi	India		Meeting		LAN
+O785	L3	Isaiah Berlin	Elinor Gimbel	late March 1962	00	03	1962	1962-03-00	late March 1962	00	03	1962	1962-03-00	Jerusalem	Jerusalem	Israel		Meeting		LAN
+O786	L3	Isaiah Berlin	Guilio Racah	late March 1962	00	03	1962	1962-03-00	late March 1962	00	03	1962	1962-03-00	Jerusalem	Jerusalem	Israel		Meeting		LAN
+O787	L3	Isaiah Berlin	George Wise	late March 1962	00	03	1962	1962-03-00	late March 1962	00	03	1962	1962-03-00	Jerusalem	Jerusalem	Israel		Meeting		LAN
+O788	L3	Isaiah Berlin	Eliahu Elath	late March 1962	00	03	1962	1962-03-00	late March 1962	00	03	1962	1962-03-00	Jerusalem	Jerusalem	Israel		Meeting		LAN
+O789	L3	Isaiah Berlin	Jacob Talmon	late March 1962	00	03	1962	1962-03-00	late March 1962	00	03	1962	1962-03-00	Jerusalem	Jerusalem	Israel		Meeting		LAN
+O79	L2	Isaiah Berlin	Alice James	19 February 1949	19	02	1949	1949-02-19	19 February 1949	19	02	1949	1949-02-19	Cambridge	Cambridge	United States		Meeting		LAN
+O790	L3	Isaiah Berlin	Rivka Halevy::Eliezer Halevy	late March 1962	00	03	1962	1962-03-00	late March 1962	00	03	1962	1962-03-00	Jerusalem	Jerusalem	Israel		Meeting		LAN
+O791	L3	Isaiah Berlin	David Ben-Gurion	late March 1962	00	03	1962	1962-03-00	late March 1962	00	03	1962	1962-03-00	Sde Boker, Israel	Sde Boker	Israel		Meeting		LAN
+O792	L3	Isaiah Berlin	Felix Rosenblueth	late March 1962	00	03	1962	1962-03-00	late March 1962	00	03	1962	1962-03-00	Israel	Israel	Israel		Meeting		LAN
+O793	L3	Isaiah Berlin	Hans Krebs	late March 1962	00	03	1962	1962-03-00	late March 1962	00	03	1962	1962-03-00	Jerusalem	Jerusalem	Israel		Meeting		LAN
+O794	L3	Isaiah Berlin	Ben Lockspeiser	late March 1962	00	03	1962	1962-03-00	late March 1962	00	03	1962	1962-03-00	Jerusalem	Jerusalem	Israel		Meeting		LAN
+O795	L3	Isaiah Berlin	Albert Neuberger	late March 1962	00	03	1962	1962-03-00	late March 1962	00	03	1962	1962-03-00	Jerusalem	Jerusalem	Israel		Meeting		LAN
+O796	L3	Isaiah Berlin	Korney Chukovsky	April 1962	00	04	1962	1962-04-00	April 1962	00	04	1962	1962-04-00	All Souls	Oxford	England		Meeting	Chukovsky given honorary degree	LAN
+O797	L3	Isaiah Berlin	Bertrand Russell	18 May 1962	18	05	1962	1962-05-18	18 May 1962	18	05	1962	1962-05-18					Meeting	dinner to celebrate Russell's 90th birthday	LAN
+O798	L3	Isaiah Berlin	Stepan Volk	July 1962	00	07	1962	1962-07-00	July 1962	00	07	1962	1962-07-00					Gift/Honor	Volk gave IB 3 books on Belinsky	LAN
+O799	L3	Isaiah Berlin	Harvard	September 1962	00	09	1962	1962-09-00	January 1963	00	01	1963	1963-01-00	Cambridge	Cambridge	United States		Affiliation_Formal	Ford Visiting Research Professor	LAN
+O8	L2	Isaiah Berlin	Charles Bohlen	(early August) 1946	00	08	1946	1946-08-00	(early August) 1946	00	08	1946	1946-08-00	Paris	Paris	France		Meeting	at the Embassy	LAN
+O80	L2	Isaiah Berlin	Ursula Niebuhr::Reinhold Niehbur	late March 1949	00	03	1949	1949-03-00	late March 1949	00	03	1949	1949-03-00					Meeting		LAN
+O800	L3	Isaiah Berlin	Richard Gombrich	19 September 1962	19	09	1962	1962-09-19	19 September 1962	19	09	1962	1962-09-19	Cambridge	Cambridge	United States		Meeting		LAN
+O801	L3	Isaiah Berlin	Felix Gilbert	19 September 1962	19	09	1962	1962-09-19	19 September 1962	19	09	1962	1962-09-19	Cambridge	Cambridge	United States		Meeting		LAN
+O802	L3	Isaiah Berlin	Marietta Tree	September 1962	00	09	1962	1962-09-00	September 1962	00	09	1962	1962-09-00	Cambridge	Cambridge	United States		Meeting		LAN
+O803	L3	Isaiah Berlin	Ronald Tree	September 1962	00	09	1962	1962-09-00	September 1962	00	09	1962	1962-09-00	Cambridge	Cambridge	United States		Meeting		LAN
+O804	L3	Isaiah Berlin	Isaac Stern	25 September 1962	25	09	1962	1962-09-25	25 September 1962	25	09	1962	1962-09-25	Cambridge	Cambridge	United States		Meeting		LAN
+O805	L3	Isaiah Berlin	Vera Stern	25 September 1962	25	09	1962	1962-09-25	25 September 1962	25	09	1962	1962-09-25	Cambridge	Cambridge	United States		Meeting		LAN
+O806	L3	Isaiah Berlin	Nicolas Nabokov	25 September 1962	25	09	1962	1962-09-25	25 September 1962	25	09	1962	1962-09-25	Cambridge	Cambridge	United States		Meeting		LAN
+O807	L3	Isaiah Berlin	Adlai Stevenson	20 - 24 September 1962	20	09	1962	1962-09-20	20 - 24 September 1962	24	09	1962	1962-09-24	New York	New York City	United States		Meeting		LAN
+O808	L3	Isaiah Berlin	Nicolas Nabokov	20 - 24 September 1962	20	09	1962	1962-09-20	20 - 24 September 1962	24	09	1962	1962-09-24	New York	New York City	United States		Meeting		LAN
+O809	L3	Isaiah Berlin	Leonard Bernstein	20 - 24 September 1962	20	09	1962	1962-09-20	20 - 24 September 1962	24	09	1962	1962-09-24	New York	New York City	United States		Meeting		LAN
+O81	L2	Isaiah Berlin	Marion Frankfurter::Felix Frankfurter	early March 1949	00	03	1949	1949-03-00	early March 1949	00	03	1949	1949-03-00	Harvard	Cambridge	United States		Meeting		LAN
+O810	L3	Isaiah Berlin	Arthur Schlesinger	20 - 24 September 1962	20	09	1962	1962-09-20	20 - 24 September 1962	24	09	1962	1962-09-24	New York	New York City	United States		Meeting		LAN
+O811	L3	Isaiah Berlin	George Backer	20 - 24 September 1962	20	09	1962	1962-09-20	20 - 24 September 1962	24	09	1962	1962-09-24	New York	New York City	United States		Meeting		LAN
+O812	L3	Isaiah Berlin	Evelyn Backer	20 - 24 September 1962	20	09	1962	1962-09-20	20 - 24 September 1962	24	09	1962	1962-09-24	New York	New York City	United States		Meeting		LAN
+O813	L3	Isaiah Berlin	Mason Hammond	25 September 1962	25	09	1962	1962-09-25	25 September 1962	25	09	1962	1962-09-25	Cambridge	Cambridge	United States		Meeting		LAN
+O814	L3	Isaiah Berlin	Florence Hammond	25 September 1962	25	09	1962	1962-09-25	25 September 1962	25	09	1962	1962-09-25	Cambridge	Cambridge	United States		Meeting		LAN
+O815	L3	Isaiah Berlin	Willy Brandt	2 October 1962	02	10	1962	1962-10-02	2 October 1962	02	10	1962	1962-10-02	Cambridge	Cambridge	United States		Meeting		LAN
+O816	L3	Isaiah Berlin	Aubrey Morgan	12 October 1962	12	10	1962	1962-10-12	14 October 1962	14	10	1962	1962-10-14	North Haven, Maine	North Haven	United States		Meeting		LAN
+O817	L3	Isaiah Berlin	Constance Morgan	12 October 1962	12	10	1962	1962-10-12	14 October 1962	14	10	1962	1962-10-14	North Haven, Maine	North Haven	United States		Meeting		LAN
+O818	L3	Isaiah Berlin	Susan Mary Alsop	15 October 1962	15	10	1962	1962-10-15	16 October 1962	16	10	1962	1962-10-16	Washington, DC	Washington, DC	United States		Meeting		LAN
+O819	L3	Isaiah Berlin	Joseph Alsop	15 October 1962	15	10	1962	1962-10-15	17 October 1962	17	10	1962	1962-10-17	Washington, DC	Washington, DC	United States		Meeting		LAN
+O82	L2	Isaiah Berlin	Roy Harrod	12 March 1948	12	03	1948	1948-03-12	12 March 1948	12	03	1948	1948-03-12	Harvard	Cambridge	United States		Meeting		LAN
+O820	L3	Isaiah Berlin	Leningrad Philharmonic	17 October 1962	17	10	1962	1962-10-17	17 October 1962	17	10	1962	1962-10-17	Boston	Boston	United States		Attendance		LAN
+O821	L3	Isaiah Berlin	Rudolf Bing	October 1962	00	10	1962	1962-10-00	October 1962	00	10	1962	1962-10-00					Meeting		LAN
+O822	L3	Isaiah Berlin	Chip Bohlen::Avis Bohlen	16 October 1962	16	10	1962	1962-10-16	16 October 1962	16	10	1962	1962-10-16	Washington, DC	Washington, DC	United States		Meeting		LAN
+O823	L3	Isaiah Berlin	John F Kennedy	16 October 1962	16	10	1962	1962-10-16	16 October 1962	16	10	1962	1962-10-16	Washington, DC	Washington, DC	United States		Meeting		LAN
+O824	L3	Isaiah Berlin	Jacqueline Kennedy	16 October 1962	16	10	1962	1962-10-16	16 October 1962	16	10	1962	1962-10-16	Washington, DC	Washington, DC	United States		Meeting		LAN
+O825	L3	Isaiah Berlin	Arthur Schlesinger	16 October 1962	16	10	1962	1962-10-16	16 October 1962	16	10	1962	1962-10-16	Washington, DC	Washington, DC	United States		Meeting		LAN
+O826	L3	Isaiah Berlin	Evangeline Bruce	16 October 1962	16	10	1962	1962-10-16	16 October 1962	16	10	1962	1962-10-16	Washington, DC	Washington, DC	United States		Meeting		LAN
+O827	L3	Isaiah Berlin	Arthur Schlesinger, Sr.	11 October 1962	11	10	1962	1962-10-11	11 October 1962	11	10	1962	1962-10-11	Massachusetts Historical Society, Boston	Boston	United States		Meeting		LAN
+O828	L3	Isaiah Berlin	Elizabeth Harriet	11 October 1962	11	10	1962	1962-10-11	11 October 1962	11	10	1962	1962-10-11	Massachusetts Historical Society, Boston	Boston	United States		Meeting		LAN
+O829	L3	Isaiah Berlin	Josef Cohn	17 October 1962	17	10	1962	1962-10-17	17 October 1962	17	10	1962	1962-10-17	La Guardia Intl Airport	New York City	United States		Meeting		LAN
+O83	L2	Isaiah Berlin	Frederick Solomon Rau	late March 1949	00	03	1949	1949-03-00	late March 1949	00	03	1949	1949-03-00					Meeting		LAN
+O830	L3	Isaiah Berlin	Philip Graham	16 October 1962	16	10	1962	1962-10-16	16 October 1962	16	10	1962	1962-10-16	Washington, DC	Washington, DC	United States		Meeting		LAN
+O831	L3	Isaiah Berlin	Kay Graham	16 October 1962	16	10	1962	1962-10-16	16 October 1962	16	10	1962	1962-10-16	Washington, DC	Washington, DC	United States		Meeting		LAN
+O832	L3	Isaiah Berlin	Aubrey Morgan	26 October 1962	26	10	1962	1962-10-26	29 October 1962	29	10	1962	1962-10-29	North Haven, Maine	North Haven	United States		Meeting		LAN
+O833	L3	Isaiah Berlin	Constance Morgan	26 October 1962	26	10	1962	1962-10-26	29 October 1962	29	10	1962	1962-10-29	North Haven, Maine	North Haven	United States		Meeting		LAN
+O834	L3	Isaiah Berlin	John Walker III	16 October 1962	16	10	1962	1962-10-16	16 October 1962	16	10	1962	1962-10-16	Washington, DC	Washington, DC	United States		Meeting		LAN
+O835	L3	Isaiah Berlin	Margaret Walker	16 October 1962	16	10	1962	1962-10-16	16 October 1962	16	10	1962	1962-10-16	Washington, DC	Washington, DC	United States		Meeting		LAN
+O836	L3	Isaiah Berlin	Lionel Salem	late October 1962	00	10	1962	1962-10-00	late October 1962	00	10	1962	1962-10-00	Cambridge	Cambridge	United States		Meeting		LAN
+O837	L3	Isaiah Berlin	Mason Hammond	late October 1962	00	10	1962	1962-10-00	late October 1962	00	10	1962	1962-10-00	Cambridge	Cambridge	United States		Meeting		LAN
+O838	L3	Isaiah Berlin	Florence Hammond	late October 1962	00	10	1962	1962-10-00	late October 1962	00	10	1962	1962-10-00	Cambridge	Cambridge	United States		Meeting		LAN
+O839	L3	Isaiah Berlin	Giorgio de Santillana	late October 1962	00	10	1962	1962-10-00	late October 1962	00	10	1962	1962-10-00	Cambridge	Cambridge	United States		Meeting		LAN
+O84	L2	Isaiah Berlin	Harvard	late March 1949	00	03	1949	1949-03-00	late March 1949	00	03	1949	1949-03-00	Harvard	Cambridge	United States		Professional_Service	offered professorship	LAN
+O840	L3	Isaiah Berlin	Jacqueline Kennedy	early November 1962	00	11	1962	1962-11-00	early November 1962	00	11	1962	1962-11-00	The White House	Washington, DC	United States		Meeting		LAN
+O841	L3	Isaiah Berlin	John F Kennedy	early November 1962	00	11	1962	1962-11-00	early November 1962	00	11	1962	1962-11-00	The White House	Washington, DC	United States		Meeting		LAN
+O842	L3	Isaiah Berlin	Igor Stravinsky	November 1962	00	11	1962	1962-11-00	November 1962	00	11	1962	1962-11-00					Meeting		LAN
+O843	L3	Isaiah Berlin	Sam Behrman	December 1962	00	12	1962	1962-12-00	December 1962	00	12	1962	1962-12-00					Gift/Honor	"Sent IB James Baldwin's essay ""Letter from a Region in My Mind"", published in the New Yorker 17 November 1962"	LAN
+O844	L3	Isaiah Berlin	Insight	July 1962	00	07	1962	1962-07-00	July 1962	00	07	1962	1962-07-00					Article	"""The Purpose of Philosophy"""	LAN
+O845	L3	Isaiah Berlin	Anthony Head	July 1962	00	07	1962	1962-07-00	July 1962	00	07	1962	1962-07-00					Article	"commissioned ""The Purpose of Philosophy"" for Insight"	LAN
+O846	L3	Isaiah Berlin	The Times	4 November 1962	04	11	1962	1962-11-04	4 November 1962	04	11	1962	1962-11-04					Article	"reprinted ""The Purpose of Philosophy"" from Insight"	LAN
+O847	L3	Isaiah Berlin	Times Literary Supplement::A. H.Halsey	3 May 1963	03	05	1963	1963-05-03	3 May 1963	03	05	1963	1963-05-03					Article_Review	"review of IB's ""Does Political Theory Still Exist?"""	LAN
+O848	L3	Isaiah Berlin	Manchester Guardian::Richard Crossman	21 December 1962	21	12	1962	1962-12-21	21 December 1962	21	12	1962	1962-12-21					Article_Review	"review of IB's ""Does Political Theory Still Exist?"""	LAN
+O849	L3	Isaiah Berlin	Political Studies::Steven Lukes::Graeme Duncan	June 1963	00	06	1963	1963-06-00	June 1963	00	06	1963	1963-06-00					Article	"Lukes and Duncan's ""The New Democracy"" was published with a footnote addressing IB's objections"	LAN
+O85	L2	Isaiah Berlin	James Conant	January 1949	00	01	1949	1949-01-00	July 1949	00	07	1949	1949-07-00	Harvard	Cambridge	United States		Meeting		LAN
+O850	L3	Isaiah Berlin	Steven Lukes::Graeme Duncan	April 1963	00	04	1963	1963-04-00	April 1963	00	04	1963	1963-04-00					Professional_Advising	requested IB's input on an article for Political Studies	LAN
+O851	L3	Isaiah Berlin	Sunday Express::A. J. P. Taylor	26 May 1963	26	05	1963	1963-05-26	26 May 1963	26	05	1963	1963-05-26					Article	"Taylor's ""Why Must You Pay For The Culture Snobs?"" specifically called out IB and his role on the board of the ROH"	LAN
+O852	L3	Isaiah Berlin	Quintin Hogg	15 June 1963	15	06	1963	1963-06-15	16 June 1963	16	06	1963	1963-06-16	All Souls	Oxford	England		Meeting		LAN
+O853	L3	Isaiah Berlin	Ronald Tree	21 June 1963	21	06	1963	1963-06-21	21 June 1963	21	06	1963	1963-06-21	England	England	England		Meeting		LAN
+O854	L3	Isaiah Berlin	Marietta Tree	21 June 1963	21	06	1963	1963-06-21	21 June 1963	21	06	1963	1963-06-21	England	England	England		Meeting		LAN
+O855	L3	Isaiah Berlin	University of Sussex	22 November 1963	22	11	1963	1963-11-22	22 November 1963	22	11	1963	1963-11-22	Brighton	Brighton	England		Teaching_Lecture	on Machiavelli. IB heard the news of JFK's death less than a quarter hour before he was due to commence his lecture.	LAN
+O856	L3	Isaiah Berlin	Robert Craft	December 1963	00	12	1963	1963-12-00	December 1963	00	12	1963	1963-12-00					Article	"IB upset over an anecdote Craft included in his ""Dialogues and a Diary"", which he insisted be removed in all future editions of the book"	LAN
+O857	L3	Isaiah Berlin	Appointments Committee of the Harkness Foundation	December 1963	00	12	1963	1963-12-00	December 1963	00	12	1963	1963-12-00	Pasadena	Pasadena	United States		Professional_Advising		LAN
+O858	L3	Isaiah Berlin	Edward Prichard	December 1963	00	12	1963	1963-12-00	December 1963	00	12	1963	1963-12-00	Washington, DC	Washington, DC	United States		Meeting		LAN
+O859	L3	Isaiah Berlin	Philip Graham	December 1963	00	12	1963	1963-12-00	December 1963	00	12	1963	1963-12-00	Washington, DC	Washington, DC	United States		Meeting		LAN
+O86	L2	Isaiah Berlin	Max Aitkin	1945	00	00	1945	1945-00-00	1945	00	00	1945	1945-00-00					Professional_Service	offered IB weekly political column in Evening Standard	LAN
+O860	L3	Isaiah Berlin	Chip Bohlen	December 1963	00	12	1963	1963-12-00	December 1963	00	12	1963	1963-12-00	Washington, DC	Washington, DC	United States		Meeting		LAN
+O861	L3	Isaiah Berlin	Joseph Alsop	December 1963	00	12	1963	1963-12-00	December 1963	00	12	1963	1963-12-00	Washington, DC	Washington, DC	United States		Meeting		LAN
+O862	L3	Isaiah Berlin	Donald Maclean	December 1963	00	12	1963	1963-12-00	December 1963	00	12	1963	1963-12-00	Washington, DC	Washington, DC	United States		Meeting		LAN
+O863	L3	Marie Berlin	Aline Berlin	28 February 1964	28	02	1964	1964-02-28	29 February 1964	29	02	1964	1964-02-29	Jerusalem	Jerusalem	Israel		Meeting	Aline travelled for Marie's cataract surgery at Hadassah Hospital	LAN
+O864	L3	Isaiah Berlin	BBC::J. B. Priestly::A. J. Ayer	26 March 1964	26	03	1964	1964-03-26	25 April 1964	25	04	1964	1964-04-25	London	London	England		Article_Interview	IB and Ayer interviewed by Priestly on the inaugural episide of Conversations for Tomorrow. Recorded 26 March, aired 25 April	LAN
+O865	L3	Isaiah Berlin	All Souls	13 March 1964	13	03	1964	1964-03-13	13 March 1964	13	03	1964	1964-03-13	All Souls	Oxford	England		Professional_Service	vote on reform measures	LAN
+O866	L3	Isaiah Berlin	Johns Hopkins University	15 - 23 April 1964	15	04	1964	1964-04-15	15 - 23 April 1964	23	04	1964	1964-04-23	Baltimore	Baltimore	United States		Teaching_Lecture	on Herder	LAN
+O867	L3	Isaiah Berlin	Robert Silvers	15 - 23 April 1964	15	04	1964	1964-04-15	15 - 23 April 1964	23	04	1964	1964-04-23	New York	New York City	United States		Meeting		LAN
+O868	L3	Isaiah Berlin	Marietta Tree	15 - 23 April 1964	15	04	1964	1964-04-15	15 - 23 April 1964	23	04	1964	1964-04-23	New York	New York City	United States		Meeting		LAN
+O869	L3	Isaiah Berlin	Robert Lowell	15 - 23 April 1964	15	04	1964	1964-04-15	15 - 23 April 1964	23	04	1964	1964-04-23	New York	New York City	United States		Meeting		LAN
+O87	L2	Isaiah Berlin	Edmund Wilson	late May 1949	00	05	1949	1949-05-00	late May 1949	00	05	1949	1949-05-00					Meeting		LAN
+O870	L3	Isaiah Berlin	Elizabeth Lowell	15 - 23 April 1964	15	04	1964	1964-04-15	15 - 23 April 1964	23	04	1964	1964-04-23	New York	New York City	United States		Meeting		LAN
+O871	L3	Isaiah Berlin	Nicholas Wahl	15 - 23 April 1964	15	04	1964	1964-04-15	15 - 23 April 1964	23	04	1964	1964-04-23	New York	New York City	United States		Meeting		LAN
+O872	L3	Isaiah Berlin	Anthony Blunt	late April 1964	00	04	1964	1964-04-00	late April 1964	00	04	1964	1964-04-00	Royal Academy	London	England		Meeting		LAN
+O873	L3	Isaiah Berlin	William Coldstream	late April 1964	00	04	1964	1964-04-00	late April 1964	00	04	1964	1964-04-00	Royal Academy	London	England		Meeting		LAN
+O874	L3	Isaiah Berlin	Frederick Ashton	late April 1964	00	04	1964	1964-04-00	late April 1964	00	04	1964	1964-04-00	Royal Academy	London	England		Meeting		LAN
+O875	L3	Isaiah Berlin	Israel Festival of Classical Music::Igor Stravisnsky	23 August 1964	23	08	1964	1964-08-23	23 August 1964	23	08	1964	1964-08-23	Jerusalem	Jerusalem	Israel		Attendance	world premiere of Abraham and Isaac	LAN
+O876	L3	Isaiah Berlin	Robert Craft	23 August 1964	23	08	1964	1964-08-23	23 August 1964	23	08	1964	1964-08-23	Jerusalem	Jerusalem	Israel		Attendance	conducted Abraham and Isaac	LAN
+O877	L3	Isaiah Berlin	Zvi Propes	late August 1964	00	08	1964	1964-08-00	late August 1964	00	08	1964	1964-08-00	Jerusalem	Jerusalem	Israel		Meeting		LAN
+O878	L3	Isaiah Berlin	Gavriel Cohen	late August 1964	00	08	1964	1964-08-00	late August 1964	00	08	1964	1964-08-00	Jerusalem	Jerusalem	Israel		Meeting		LAN
+O879	L3	Isaiah Berlin	Eliahu Elath	late August 1964	00	08	1964	1964-08-00	late August 1964	00	08	1964	1964-08-00	Jerusalem	Jerusalem	Israel		Meeting		LAN
+O88	L2	Isaiah Berlin	Margaret Chanler	January 1949	00	01	1949	1949-01-00	July 1949	00	07	1949	1949-07-00	Harvard	Cambridge	United States		Meeting		LAN
+O880	L3	Isaiah Berlin	Yigal Allon	late August 1964	00	08	1964	1964-08-00	late August 1964	00	08	1964	1964-08-00	Jerusalem	Jerusalem	Israel		Meeting		LAN
+O881	L3	Isaiah Berlin	Ida Samunov	late August 1964	00	08	1964	1964-08-00	late August 1964	00	08	1964	1964-08-00	Jerusalem	Jerusalem	Israel		Meeting		LAN
+O882	L3	Isaiah Berlin	Teddy Kollek	late August 1964	00	08	1964	1964-08-00	late August 1964	00	08	1964	1964-08-00	Jerusalem	Jerusalem	Israel		Meeting		LAN
+O883	L3	Isaiah Berlin	Igor Stravinsky	late August 1964	00	08	1964	1964-08-00	late August 1964	00	08	1964	1964-08-00	Jerusalem	Jerusalem	Israel		Meeting		LAN
+O884	L3	Isaiah Berlin	Hoover Institute	early October 1964	00	10	1964	1964-10-00	early October 1964	00	10	1964	1964-10-00	Stanford	Stanford	United States		Teaching_Lecture	on Marxism and the First International	LAN
+O885	L3	Isaiah Berlin	Jacob Tsur	late August 1964	00	08	1964	1964-08-00	late August 1964	00	08	1964	1964-08-00	Jerusalem	Jerusalem	Israel		Meeting		LAN
+O886	L3	Isaiah Berlin	Vera Stravinsky	late August 1964	00	08	1964	1964-08-00	late August 1964	00	08	1964	1964-08-00	Jerusalem	Jerusalem	Israel		Meeting		LAN
+O887	L3	Isaiah Berlin	Nelson Glueck	late August 1964	00	08	1964	1964-08-00	late August 1964	00	08	1964	1964-08-00	Jerusalem	Jerusalem	Israel		Meeting		LAN
+O888	L3	Isaiah Berlin	Walworth Barbour	late August 1964	00	08	1964	1964-08-00	late August 1964	00	08	1964	1964-08-00	Jerusalem	Jerusalem	Israel		Meeting		LAN
+O889	L3	Isaiah Berlin	Shneur Shazar	late August 1964	00	08	1964	1964-08-00	late August 1964	00	08	1964	1964-08-00	Jerusalem	Jerusalem	Israel		Meeting		LAN
+O89	L2	Isaiah Berlin	Hester Pickman	January 1949	00	01	1949	1949-01-00	July 1949	00	07	1949	1949-07-00	Harvard	Cambridge	United States		Meeting		LAN
+O890	L3	Isaiah Berlin	David Ben-Gurion	late August 1964	00	08	1964	1964-08-00	late August 1964	00	08	1964	1964-08-00	Jerusalem	Jerusalem	Israel		Meeting		LAN
+O891	L3	Isaiah Berlin	National Gallery of Art	September 1960	00	09	1960	1960-09-00	September 1960	00	09	1960	1960-09-00					Professional_Service	invited to give 1965 A. W. Mellon Lectures in the Fine Arts	LAN
+O892	L3	Isaiah Berlin	National Gallery of Art	December 1960	00	12	1960	1960-12-00	December 1960	00	12	1960	1960-12-00					Professional_Service	accepted invitation to lecture	LAN
+O893	L3	Isaiah Berlin	National Gallery of Art	14 March 1965	14	03	1965	1965-03-14	18 June 1965	18	06	1965	1965-06-18	Washington, DC	Washington, DC	United States		Teaching_Lecture	"gave the 1965 A. W. Mellon Lectures in the Fine Arts, ""Sources of Romantic Thought"""	LAN
+O894	L3	Isaiah Berlin	BBC	August 1966	00	08	1966	1966-08-00	12 September 1966	12	09	1966	1966-09-12					Article	broadcast the A. W. Mellon lectures from March of 1965, which they had recorded as they were being given	LAN
+O895	L3	Isaiah Berlin	BBC::The Critics	11 September 1966	11	09	1966	1966-09-11	11 September 1966	11	09	1966	1966-09-11					Article_Review	discussing the A. W. Mellon lectures 	LAN
+O896	L3	Isaiah Berlin	All Souls	30 January 1965	30	01	1965	1965-01-30	30 January 1965	30	01	1965	1965-01-30	All Souls	Oxford	England		Professional_Service	vote on reform measures	LAN
+O897	L3	Isaiah Berlin	Royal Academy of Arts	28 April 1965	28	04	1965	1965-04-28	28 April 1965	28	04	1965	1965-04-28	London	London	England		Teaching_Lecture		LAN
+O898	L3	Isaiah Berlin	Frank Longford	28 April 1965	28	04	1965	1965-04-28	28 April 1965	28	04	1965	1965-04-28	London	London	England		Meeting	at Royal Academy	LAN
+O899	L3	Isaiah Berlin	Donald Coggan	28 April 1965	28	04	1965	1965-04-28	28 April 1965	28	04	1965	1965-04-28	London	London	England		Meeting	at Royal Academy	LAN
+O9	L2	Isaiah Berlin	A. V. Alexander	(early August) 1946	00	08	1946	1946-08-00	(early August) 1946	00	08	1946	1946-08-00	Paris	Paris	France		Meeting	at the Embassy	LAN
+O90	L2	Isaiah Berlin	Mary McCarthy	January 1949	00	01	1949	1949-01-00	July 1949	00	07	1949	1949-07-00					Meeting		LAN
+O900	L3	Isaiah Berlin	BBC	28 April 1965	28	04	1965	1965-04-28	28 April 1965	28	04	1965	1965-04-28	London	London	England		Article_Interview	live broadcast IB's speech at the Royal Academy	LAN
+O901	L3	Isaiah Berlin	Elizabeth II	14 May 1965	14	05	1965	1965-05-14	14 May 1965	14	05	1965	1965-05-14	Runnymede	London	England		Meeting	unveiling of the British memorial to JFK	LAN
+O902	L3	Isaiah Berlin	Jacqueline Kennedy	14 May 1965	14	05	1965	1965-05-14	14 May 1965	14	05	1965	1965-05-14	Runnymede	London	England		Meeting	unveiling of the British memorial to JFK	LAN
+O903	L3	Isaiah Berlin	Harold Macmillan	14 May 1965	14	05	1965	1965-05-14	14 May 1965	14	05	1965	1965-05-14	Runnymede	London	England		Meeting	unveiling of the British memorial to JFK	LAN
+O904	L3	Isaiah Berlin	David Harlech	14 May 1965	14	05	1965	1965-05-14	14 May 1965	14	05	1965	1965-05-14	Runnymede	London	England		Meeting	unveiling of the British memorial to JFK	LAN
+O905	L3	Isaiah Berlin	Anna Akhmatova	5 June 1965	05	06	1965	1965-06-05	5 June 1965	05	06	1965	1965-06-05	Oxford	Oxford	England		Meeting	she received an honorary degree from Oxford at IB's proposal	LAN
+O906	L3	Isaiah Berlin	Stuart Hampshire	September 1965	00	09	1965	1965-09-00	January 1965	00	01	1965	1965-01-00	Princeton	Princeton	United States		Meeting		LAN
+O907	L3	Isaiah Berlin	Renee Hampshire	September 1965	00	09	1965	1965-09-00	January 1965	00	01	1965	1965-01-00	Princeton	Princeton	United States		Meeting		LAN
+O908	L3	Isaiah Berlin	Robert Oppenheimer	September 1965	00	09	1965	1965-09-00	January 1965	00	01	1965	1965-01-00	Princeton	Princeton	United States		Meeting		LAN
+O909	L3	Isaiah Berlin	Princeton	17 September 1965	17	09	1965	1965-09-17	12 January 1965	12	01	1965	1965-01-12	Princeton	Princeton	United States		Affiliation_Formal	Visiting Professor	LAN
+O91	L2	Isaiah Berlin	Edith Sitwell::Osbert Sitwell	February 1949	00	02	1949	1949-02-00	March 1949	00	03	1949	1949-03-00					Meeting		LAN
+O910	L3	Isaiah Berlin	Joseph Alsop	September - November 1965	00	09	1965	1965-09-00	September - November 1965	00	11	1965	1965-11-00	Washington, DC	Washington, DC	United States		Meeting		LAN
+O911	L3	Isaiah Berlin	McGeorge Bundy	September - November 1965	00	09	1965	1965-09-00	September - November 1965	00	11	1965	1965-11-00	Washington, DC	Washington, DC	United States		Meeting		LAN
+O912	L3	Isaiah Berlin	Stephen Spender	September - November 1965	00	09	1965	1965-09-00	September - November 1965	00	11	1965	1965-11-00	Washington, DC	Washington, DC	United States		Meeting		LAN
+O913	L3	Isaiah Berlin	John McCone	September - November 1965	00	09	1965	1965-09-00	September - November 1965	00	11	1965	1965-11-00	Washington, DC	Washington, DC	United States		Meeting		LAN
+O914	L3	Isaiah Berlin	Alonzo Church	September 1965	00	09	1965	1965-09-00	January 1965	00	01	1965	1965-01-00	Princeton	Princeton	United States		Meeting		LAN
+O915	L3	Isaiah Berlin	Oliver Franks	February - March 1966	00	02	1965	1965-02-00	February - March 1966	00	03	1966	1966-03-00	Oxford	Oxford	England		Professional_Service	edited IB's 14 page manuscript memorandum to the Wolfson Foundation 	LAN
+O916	L3	Isaiah Berlin	John Cockroft	March 1966	00	03	1966	1966-03-00	March 1966	00	03	1966	1966-03-00	Cambridge	Cambridg	England		Meeting		LAN
+O917	L3	Isaiah Berlin	Bernard Crick	March 1966	00	03	1966	1966-03-00	March 1966	00	03	1966	1966-03-00					Gift/Honor	"sent IB a copy of his inaugural lecture at Sheffield, ""Freedom as Politics"""	LAN
+O918	L3	Isaiah Berlin	Times Literary Supplement	7 April 1966	07	04	1966	1966-04-07	7 April 1966	07	04	1966	1966-04-07					Article	discusses IB's theory of historical explanation	LAN
+O919	L3	Isaiah Berlin	Times Literary Supplement	21 April 1966	21	04	1966	1966-04-21	21 April 1966	21	04	1966	1966-04-21					Article	IB wrote to correct errors in 7 April article	LAN
+O92	L2	Isaiah Berlin	Mount Holyoke College Institute on the United Nations	28 June 1949	28	06	1949	1949-06-28	28 June 1949	28	06	1949	1949-06-28	Mount Holyoke	South Hadley	United States		Teaching_Lecture	"speech: ""Democracy, Communism and the Individual"""	LAN
+O920	L3	Isaiah Berlin	Lionel Cohen	March 1966	00	03	1966	1966-03-00	March 1966	00	03	1966	1966-03-00	Jerusalem	Jerusalem	Israel		Meeting	Hebrew University	LAN
+O921	L3	Isaiah Berlin	Hans Krebs	March 1966	00	03	1966	1966-03-00	March 1966	00	03	1966	1966-03-00	Jerusalem	Jerusalem	Israel		Meeting	Hebrew University	LAN
+O922	L3	Isaiah Berlin	Norman Bentwich	March 1966	00	03	1966	1966-03-00	March 1966	00	03	1966	1966-03-00	Jerusalem	Jerusalem	Israel		Meeting	Hebrew University	LAN
+O923	L3	Isaiah Berlin	Leonard Wolfson	January 1966	00	01	1966	1966-01-00	March 1966	00	03	1966	1966-03-00	London	London	England		Meeting	frequent meetings to discuss funding for Iffley College	LAN
+O924	L3	Isaiah Berlin	Leonard Wolfson	April 1966	00	04	1966	1966-04-00	April 1966	00	04	1966	1966-04-00	London	London	England		Meeting		LAN
+O925	L3	Isaiah Berlin	John Cockroft	April 1966	00	04	1966	1966-04-00	April 1966	00	04	1966	1966-04-00	London	London	England		Meeting		LAN
+O926	L3	Isaiah Berlin	Solly Zuckerman	April 1966	00	04	1966	1966-04-00	April 1966	00	04	1966	1966-04-00	London	London	England		Meeting		LAN
+O927	L3	Isaiah Berlin	McGeorge Bundy	April 1966	00	04	1966	1966-04-00	April 1966	00	04	1966	1966-04-00	London	London	England		Meeting		LAN
+O928	L3	Isaiah Berlin	Shepard Stone	April 1966	00	04	1966	1966-04-00	April 1966	00	04	1966	1966-04-00	London	London	England		Meeting		LAN
+O929	L3	Isaiah Berlin	Harold Redman	April 1966	00	04	1966	1966-04-00	April 1966	00	04	1966	1966-04-00	London	London	England		Meeting		LAN
+O93	L2	Isaiah Berlin	New York Times	29 June 1949	29	06	1949	1949-06-29	29 June 1949	29	06	1949	1949-06-29					Article	article on 28 June speech	LAN
+O930	L3	Isaiah Berlin	McGeorge Bundy	April 1966	00	04	1966	1966-04-00	April 1966	00	04	1966	1966-04-00	London	London	England		Meeting		LAN
+O931	L3	Isaiah Berlin	Shepard Stone	April 1966	00	04	1966	1966-04-00	April 1966	00	04	1966	1966-04-00	Oxford	Oxford	England		Meeting		LAN
+O932	L3	Isaiah Berlin	Maurice Bowra	April 1966	00	04	1966	1966-04-00	April 1966	00	04	1966	1966-04-00	Oxford	Oxford	England		Meeting		LAN
+O933	L3	Isaiah Berlin	Oliver Franks	April 1966	00	04	1966	1966-04-00	April 1966	00	04	1966	1966-04-00	Oxford	Oxford	England		Meeting		LAN
+O934	L3	Isaiah Berlin	Bill Deakin	April 1966	00	04	1966	1966-04-00	April 1966	00	04	1966	1966-04-00	Oxford	Oxford	England		Meeting		LAN
+O935	L3	Isaiah Berlin	Ann Fleming	April 1966	00	04	1966	1966-04-00	April 1966	00	04	1966	1966-04-00	Oxford	Oxford	England		Meeting		LAN
+O936	L3	Isaiah Berlin	Isaac Wolfson	17 May 1966	17	05	1966	1966-05-17	17 May 1966	17	05	1966	1966-05-17	Oxford	Oxford	England		Meeting		LAN
+O937	L3	Isaiah Berlin	Leonard Wolfson	17 May 1966	17	05	1966	1966-05-17	17 May 1966	17	05	1966	1966-05-17	Oxford	Oxford	England		Meeting		LAN
+O938	L3	Isaiah Berlin	Oliver Franks	17 May 1966	17	05	1966	1966-05-17	17 May 1966	17	05	1966	1966-05-17	Oxford	Oxford	England		Meeting		LAN
+O939	L3	Isaiah Berlin	Victor Rothschild	16 May 1966	16	05	1966	1966-05-16	16 May 1966	16	05	1966	1966-05-16	London	London	England		Meeting		LAN
+O94	L2	Isaiah Berlin	New York Times	30 June 1949	30	06	1949	1949-06-30	30 June 1949	30	06	1949	1949-06-30					Article	editorial with corrections to 29 June article	LAN
+O940	L3	Isaiah Berlin	John Loudon	16 May 1966	16	05	1966	1966-05-16	16 May 1966	16	05	1966	1966-05-16	London	London	England		Meeting		LAN
+O941	L3	Isaiah Berlin	Tess Rothschild	16 May 1966	16	05	1966	1966-05-16	16 May 1966	16	05	1966	1966-05-16	London	London	England		Meeting		LAN
+O942	L3	Isaiah Berlin	Anthony Crosland	7 June 1966	07	06	1966	1966-06-07	7 June 1966	07	06	1966	1966-06-07	London	London	England		Meeting		LAN
+O943	L3	Isaiah Berlin	Wolfson Foundation	22 June 1966	22	06	1966	1966-06-22	22 June 1966	22	06	1966	1966-06-22					Professional_Service	gave IB 1.5 million pounds for the endowment to Iffley/Wolfson College	LAN
+O944	L3	Isaiah Berlin	Oxford Universty Hebdomadal Council	27 June 1966	27	06	1966	1966-06-27	27 June 1966	27	06	1966	1966-06-27	Oxford	Oxford	England		Professional_Service	announced its support of Iffley	LAN
+O945	L3	Isaiah Berlin	Ford Foundation	June 1966	00	06	1966	1966-06-00	June 1966	00	06	1966	1966-06-00					Professional_Service	gave IB 1.62 million pounds for Iffley/Wolfson	LAN
+O946	L3	Michael Brock	Wolfson College	13 July 1966	13	07	1966	1966-07-13	00	00	00	0000	0000-00-00	Oxford	Oxford	England		Affiliation_Formal	appointed deputy manager of Wolfson	LAN
+O947	L3	Isaiah Berlin	John Walker III	July - August 1966	00	07	1966	1966-07-00	July - August 1966	00	08	1966	1966-08-00					Meeting		LAN
+O948	L3	Isaiah Berlin	Elie Kedourie	early September 1966	00	09	1966	1966-09-00	early September 1966	00	09	1966	1966-09-00					Gift/Honor	gave IB a copy of his review of Frederick Smith's Halifax	LAN
+O949	L3	Isaiah Berlin	CUNY	September 1966	00	09	1966	1966-09-00	January 1967	00	01	1967	1967-01-00	New York	New York City	United States		Affiliation_Formal	Visiting Professor	LAN
+O95	L2	Isaiah Berlin	Eleanor Roosevelt	28 June 1949	28	06	1949	1949-06-28	28 June 1949	28	06	1949	1949-06-28	Mount Holyoke	South Hadley	United States		Meeting	UN Institute at Holyoke	LAN
+O950	L3	Isaiah Berlin	Kenzo Tange	15 November 1966	15	11	1966	1966-11-15	15 November 1966	15	11	1966	1966-11-15	New York	New York City	United States		Meeting		LAN
+O951	L3	Isaiah Berlin	Truman Capote	29 November 1966	29	11	1966	1966-11-29	29 November 1966	29	11	1966	1966-11-29	New York	New York City	United States		Meeting	party in the Plaza Hotel, given by Capote for Kay Graham	LAN
+O952	L3	Isaiah Berlin	Kay Graham	29 November 1966	29	11	1966	1966-11-29	29 November 1966	29	11	1966	1966-11-29	New York	New York City	United States		Meeting	party in the Plaza Hotel, given by Capote for Kay Graham	LAN
+O953	L3	Isaiah Berlin	Diana Trilling	29 November 1966	29	11	1966	1966-11-29	29 November 1966	29	11	1966	1966-11-29	New York	New York City	United States		Meeting	party in the Plaza Hotel, given by Capote for Kay Graham	LAN
+O954	L3	Isaiah Berlin	Lionel Trilling	29 November 1966	29	11	1966	1966-11-29	29 November 1966	29	11	1966	1966-11-29	New York	New York City	United States		Meeting	party in the Plaza Hotel, given by Capote for Kay Graham	LAN
+O955	L3	Isaiah Berlin	Henry Brandon::The Times	6 November 1966	06	11	1966	1966-11-06	6 November 1966	06	11	1966	1966-11-06					Article_Interview	"Brandon interviewed IB. Appeared in Sunday Times as ""My Hopes and Fears"" and later in Conversations with Henry Brandon."	LAN
+O956	L3	Isaiah Berlin	Metropolitan Opera	16 September 1966	16	09	1966	1966-09-16	16 September 1966	16	09	1966	1966-09-16	New York	New York City	United States		Attendance	reopening of the Met in Lincoln Center. World premiere of Samuel Barber's Anthony and Cleopatra	LAN
+O957	L3	Isaiah Berlin	Metropolitan Opera	24 September 1966	24	09	1966	1966-09-24	24 September 1966	24	09	1966	1966-09-24	New York	New York City	United States		Attendance	Traviata	LAN
+O958	L3	Isaiah Berlin	Metropolitan Opera	22 September 1966	22	09	1966	1966-09-22	22 September 1966	22	09	1966	1966-09-22	New York	New York City	United States		Attendance	Giocanda	LAN
+O959	L3	Isaiah Berlin	Metropolitan Opera	28 October 1966	28	10	1966	1966-10-28	28 October 1966	28	10	1966	1966-10-28	New York	New York City	United States		Attendance	Elektra	LAN
+O96	L2	Isaiah Berlin	Evelyn Whitehead	early July 1949	00	07	1949	1949-07-00	early July 1949	00	07	1949	1949-07-00	Harvard	Cambridge	United States		Meeting		LAN
+O960	L3	Isaiah Berlin	Metropolitan Opera	2 October 1966	02	10	1966	1966-10-02	2 October 1966	02	10	1966	1966-10-02	New York	New York City	United States		Attendance	Die Frau ohne Schatten	LAN
+O961	L3	Isaiah Berlin	Rowland Burdon-Muller	Mid-January 1967	00	01	1967	1967-01-00	Mid-January 1967	00	01	1967	1967-01-00					Gift/Honor	sent IB a copy of Alsop's Boston Globe review of Arthur Schlesinger	LAN
+O962	L3	Joseph Alsop	Arthur Schlesinger::Boston Globe	16 January 1967	16	01	1967	1967-01-16	16 January 1967	16	01	1967	1967-01-16					Article_Review	Alsop unfavorably reviewed Schlesinger's The Bitter Heritage 	LAN
+O963	L3	Isaiah Berlin	Courtauld Institute, London	1965	00	00	1965	1965-00-00	1965	00	00	1965	1965-00-00	London	London	England		Teaching_Lecture		LAN
+O964	L3	Isaiah Berlin	Pamela Berry	1965	00	00	1965	1965-00-00	1965	00	00	1965	1965-00-00	London	London	England		Attendance	at IB's lecture at the Courtauld Institute	LAN
+O965	L3	Isaiah Berlin	Anthony Blunt	1965	00	00	1965	1965-00-00	1965	00	00	1965	1965-00-00	London	London	England		Attendance	at IB's lecture at the Courtauld Institute	LAN
+O966	L3	Isaiah Berlin	John Golding	1965	00	00	1965	1965-00-00	1965	00	00	1965	1965-00-00	London	London	England		Attendance	at IB's lecture at the Courtauld Institute	LAN
+O967	L3	Isaiah Berlin	Richard Gombrich	1965	00	00	1965	1965-00-00	1965	00	00	1965	1965-00-00	London	London	England		Attendance	at IB's lecture at the Courtauld Institute	LAN
+O968	L3	Isaiah Berlin	Robert Kennedy	29 January 1967	29	01	1967	1967-01-29	29 January 1967	29	01	1967	1967-01-29	Oxford Union Society	Oxford	England		Meeting		LAN
+O969	L3	Isaiah Berlin	Ronald McCallum	29 January 1967	29	01	1967	1967-01-29	29 January 1967	29	01	1967	1967-01-29	Oxford Union Society	Oxford	England		Meeting		LAN
+O97	L2	Isaiah Berlin	Harry Levin::Elena Levin	early July 1949	00	07	1949	1949-07-00	early July 1949	00	07	1949	1949-07-00	Harvard	Cambridge	United States		Meeting		LAN
+O970	L3	Isaiah Berlin	Maurice Shock	29 January 1967	29	01	1967	1967-01-29	29 January 1967	29	01	1967	1967-01-29	Oxford Union Society	Oxford	England		Meeting		LAN
+O971	L3	Isaiah Berlin	Kenneth Wheare	29 January 1967	29	01	1967	1967-01-29	29 January 1967	29	01	1967	1967-01-29	Oxford Union Society	Oxford	England		Meeting		LAN
+O972	L3	Isaiah Berlin	Ronald Cohen	29 January 1967	29	01	1967	1967-01-29	29 January 1967	29	01	1967	1967-01-29	Oxford Union Society	Oxford	England		Meeting		LAN
+O973	L3	Isaiah Berlin	Michel Cohen	29 January 1967	29	01	1967	1967-01-29	29 January 1967	29	01	1967	1967-01-29	Oxford Union Society	Oxford	England		Meeting		LAN
+O974	L3	Isaiah Berlin	Sonia Cohen	29 January 1967	29	01	1967	1967-01-29	29 January 1967	29	01	1967	1967-01-29	Oxford Union Society	Oxford	England		Meeting		LAN
+O975	L3	Isaiah Berlin	Maurice Bowra	29 January 1967	29	01	1967	1967-01-29	29 January 1967	29	01	1967	1967-01-29	Oxford Union Society	Oxford	England		Meeting		LAN
+O976	L3	Isaiah Berlin	Bill Deakin	29 January 1967	29	01	1967	1967-01-29	29 January 1967	29	01	1967	1967-01-29	Oxford Union Society	Oxford	England		Meeting		LAN
+O977	L3	Isaiah Berlin	William vanden Heuvel	29 January 1967	29	01	1967	1967-01-29	29 January 1967	29	01	1967	1967-01-29	Oxford Union Society	Oxford	England		Meeting		LAN
+O978	L3	Isaiah Berlin	Maurice Shock	8 March 1967	08	03	1967	1967-03-08	8 March 1967	08	03	1967	1967-03-08	Leicester	Leicester	England		Meeting		LAN
+O979	L3	Wolfson College	Powell & Moya	June 1967	00	06	1967	1967-06-00	June 1967	00	06	1967	1967-06-00					Professional_Service	Architectural firm Powell & Moya commissioned to build Wolfson College	LAN
+O98	L2	Isaiah Berlin	Mary Roosevelt	early July 1949	00	07	1949	1949-07-00	early July 1949	00	07	1949	1949-07-00	New York	New York City	United States		Meeting		LAN
+O980	L3	Isaiah Berlin	Brandeis Univeristy	11 June 1967	11	06	1967	1967-06-11	11 June 1967	11	06	1967	1967-06-11	Waltham, Mass.	Waltham	United States		Gift/Honor	IB received honorary degree (Doctor of Laws)	LAN
+O981	L3	Isaiah Berlin	Stewart Alsop	9 June 1967	09	06	1967	1967-06-09	9 June 1967	09	06	1967	1967-06-09	La Guardia Intl Airport	New York City	United States		Meeting		LAN
+O982	L3	Isaiah Berlin	Edwin Reischauer	June 1967	00	06	1967	1967-06-00	June 1967	00	06	1967	1967-06-00	New York	New York City	United States		Attendance	spoke on American foreign policy, Russia	LAN
+O983	L3	Isaiah Berlin	W. Averell Harriman	June 1967	00	06	1967	1967-06-00	June 1967	00	06	1967	1967-06-00	New York	New York City	United States		Attendance	spoke on American foreign policy, Russia	LAN
+O984	L3	Isaiah Berlin	Phil Kaiser	June 1967	00	06	1967	1967-06-00	June 1967	00	06	1967	1967-06-00	London	London	England		Meeting		LAN
+O985	L3	Isaiah Berlin	Denis Hamilton	June 1967	00	06	1967	1967-06-00	June 1967	00	06	1967	1967-06-00	London	London	England		Meeting		LAN
+O986	L3	Isaiah Berlin	Hidalgo Moya	21 September 1967	21	09	1967	1967-09-21	21 September 1967	21	09	1967	1967-09-21	London	London	England		Meeting		LAN
+O987	L3	Isaiah Berlin	Philip Powell	21 September 1967	21	09	1967	1967-09-21	21 September 1967	21	09	1967	1967-09-21	London	London	England		Meeting		LAN
+O988	L3	Isaiah Berlin	Great Britain--USSR Association	29 November 1967	29	11	1967	1967-11-29	29 November 1967	29	11	1967	1967-11-29	London	London	England		Meeting		LAN
+O989	L3	Isaiah Berlin	Violet Bonham Carter	29 November 1967	29	11	1967	1967-11-29	29 November 1967	29	11	1967	1967-11-29	London	London	England		Meeting		LAN
+O99	L2	Isaiah Berlin	British Consulate	13 July 1949	13	07	1949	1949-07-13	14 July 1949	14	07	1949	1949-07-14	New York	New York City	United States		Bureaucratic	IB's passport was stolen	LAN
+O990	L3	Isaiah Berlin	Fitzroy Maclean	29 November 1967	29	11	1967	1967-11-29	29 November 1967	29	11	1967	1967-11-29	London	London	England		Meeting		LAN
+O991	L3	Isaiah Berlin	Victor Rothschild	late December 1967	00	12	1967	1967-12-00	late December 1967	00	12	1967	1967-12-00	Jerusalem	Jerusalem	Israel		Meeting		LAN
+O992	L3	Isaiah Berlin	Queen Elizabeth II	2 May 1968	02	05	1968	1968-05-02	2 May 1968	02	05	1968	1968-05-02	Wolfson	Oxford	England		Meeting		LAN
+O993	L3	Isaiah Berlin	Prince Philip	2 May 1968	02	05	1968	1968-05-02	2 May 1968	02	05	1968	1968-05-02	Wolfson	Oxford	England		Meeting		LAN
+O994	L3	Wolfson College	Queen Elizabeth II	2 May 1968	02	05	1968	1968-05-02	2 May 1968	02	05	1968	1968-05-02	Wolfson	Oxford	England		Professional_Service	Elizabeth II laid the cornerstone of Wolfson College	LAN
+O995	L3	Isaiah Berlin	Christopher Sykes	May 1968	00	05	1968	1968-05-00	May 1968	00	05	1968	1968-05-00					Professional_Advising	read Sykes' manuscript for his book on Adam von Trott	LAN
+O996	L3	Isaiah Berlin	Arthur Schlesinger	5 June 1968	05	06	1968	1968-06-05	5 June 1968	05	06	1968	1968-06-05	New York	New York City	United States		Attendance	at Schlesinger's CUNY commencement speech	LAN
+O997	L3	Isaiah Berlin	Arthur Schlesinger	5 June 1968	05	06	1968	1968-06-05	5 June 1968	05	06	1968	1968-06-05	New York	New York City	United States		Meeting		LAN
+O998	L3	Isaiah Berlin	British Academy::Robert Skidelsky	July 1968	00	07	1968	1968-07-00	July 1968	00	07	1968	1968-07-00	London	London	England		Professional_Service	vote on funding Robert Skidelsky's research on Oswald Mosley	LAN
+O999	L3	Isaiah Berlin	Lionel Robbins	July 1968	00	07	1968	1968-07-00	July 1968	00	07	1968	1968-07-00	London	London	England		Meeting	at British Academy vote	LAN
